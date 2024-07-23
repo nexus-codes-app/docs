@@ -1,0 +1,14 @@
+title: "Nexus"
+remote_theme: pmarsceill/just-the-docs
+color_scheme: siren
+url: https://nexus.swvn.io
+
+logo: "/assets/css/logo-small.png"
+
+aux_links:
+#   "Siren on GitHub":
+#     - "https://github.com/PMass/Siren"
+  # "Siren Docs (WIP)":
+  #   - "https://docs.siren.community"
+  # "SBUX Hub Server":
+  #   - "https://discord.gg/starbucks"

@@ -26,4 +26,4 @@ By using Nexus and executing commands within your Discord server, you consent to
 We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. We encourage you to review this Privacy Policy periodically for any updates. Continued use of Nexus after any changes to the Privacy Policy constitutes your consent to the updated terms.
 
 ## 7. Contact Us
-If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at [contact email]. We are here to address any inquiries and ensure your experience with Nexus remains secure and enjoyable.
+If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us in our support Discord server. We are here to address any inquiries and ensure your experience with Nexus remains secure and enjoyable.

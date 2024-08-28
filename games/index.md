@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Supported Games
+title: Games
 nav_order: 1
-# has_children: true
+has_children: true
 ---
-# Currently Supported Games
-Coming soon...
+# Supported Games

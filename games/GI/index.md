@@ -17,10 +17,6 @@ Genshin Impact is an open-world action RPG, where you embark on a journey across
 
 ## Websites
 
-### Official Game Discord
-
-[https://discord.gg/invite/genshinimpact](https://discord.gg/invite/genshinimpact)
-
 ### Download on Epic Games
 
 [https://www.epicgames.com/p/genshin-impact](https://www.epicgames.com/p/genshin-impact)
@@ -32,3 +28,7 @@ Genshin Impact is an open-world action RPG, where you embark on a journey across
 ### Download on the Apple App Store
 
 [https://apps.apple.com/app/id1517783697](https://apps.apple.com/app/id1517783697)
+
+### Official Game Discord
+
+[https://discord.gg/invite/genshinimpact](https://discord.gg/invite/genshinimpact)

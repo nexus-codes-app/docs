@@ -17,10 +17,6 @@ Wuthering Waves is a story-rich open-world game with a high degree of freedom. Y
 
 ## Websites
 
-### Download on Epic Games
-
-[https://store.epicgames.com/en-US/p/wuthering-waves-76ebc5](https://store.epicgames.com/en-US/p/wuthering-waves-76ebc5)
-
 ### Download on the Google Play Store
 
 [https://play.google.com/store/apps/details?id=com.kurogame.wutheringwaves.global](https://play.google.com/store/apps/details?id=com.kurogame.wutheringwaves.global)
@@ -28,3 +24,7 @@ Wuthering Waves is a story-rich open-world game with a high degree of freedom. Y
 ### Official Game Discord
 
 [https://discord.gg/wutheringwaves](https://discord.gg/wutheringwaves)
+
+### Download on Epic Games
+
+[https://store.epicgames.com/en-US/p/wuthering-waves-76ebc5](https://store.epicgames.com/en-US/p/wuthering-waves-76ebc5)

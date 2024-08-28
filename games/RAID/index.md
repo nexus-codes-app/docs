@@ -19,9 +19,13 @@ To save the world of Teleria, you will recruit its most legendary warriors from 
 
 ## Websites
 
-### Download on Epic Games
+### Official Game Discord
 
-[https://store.epicgames.com/en-US/p/raid-shadow-legends-b70e14](https://store.epicgames.com/en-US/p/raid-shadow-legends-b70e14)
+[https://discord.gg/raidshadowlegends](https://discord.gg/raidshadowlegends)
+
+### Download on the Apple App Store
+
+[https://apps.apple.com/us/app/raid-shadow-legends/id1371565796](https://apps.apple.com/us/app/raid-shadow-legends/id1371565796)
 
 ### Download on Steam
 
@@ -31,10 +35,6 @@ To save the world of Teleria, you will recruit its most legendary warriors from 
 
 [https://play.google.com/store/apps/details?id=com.plarium.raidlegends&hl=en](https://play.google.com/store/apps/details?id=com.plarium.raidlegends&hl=en)
 
-### Official Game Discord
+### Download on Epic Games
 
-[https://discord.gg/raidshadowlegends](https://discord.gg/raidshadowlegends)
-
-### Download on the Apple App Store
-
-[https://apps.apple.com/us/app/raid-shadow-legends/id1371565796](https://apps.apple.com/us/app/raid-shadow-legends/id1371565796)
+[https://store.epicgames.com/en-US/p/raid-shadow-legends-b70e14](https://store.epicgames.com/en-US/p/raid-shadow-legends-b70e14)

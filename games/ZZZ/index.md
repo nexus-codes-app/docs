@@ -17,9 +17,9 @@ Zenless Zone Zero is an all-new 3D action game from HoYoverse, here to provide a
 
 ## Websites
 
-### Download on the Apple App Store
+### Official Game Discord
 
-[https://apps.apple.com/app/id1606356401](https://apps.apple.com/app/id1606356401)
+[https://discord.gg/zenlesszonezero](https://discord.gg/zenlesszonezero)
 
 ### Download on the Google Play Store
 
@@ -29,6 +29,6 @@ Zenless Zone Zero is an all-new 3D action game from HoYoverse, here to provide a
 
 [https://store.epicgames.com/p/zenless-zone-zero-c7c151](https://store.epicgames.com/p/zenless-zone-zero-c7c151)
 
-### Official Game Discord
+### Download on the Apple App Store
 
-[https://discord.gg/zenlesszonezero](https://discord.gg/zenlesszonezero)
+[https://apps.apple.com/app/id1606356401](https://apps.apple.com/app/id1606356401)

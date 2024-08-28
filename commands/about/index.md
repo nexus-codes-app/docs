@@ -8,7 +8,7 @@ parent: Commands
 
 ## Description
 
-Get information about the bot, including version, uptime, and supported games. You can also find links to the documentation and support server.
+Get information about the bot, including version, uptime, and supported games. Also included are links to the documentation and support server.
 
 ## Required Permissions
 

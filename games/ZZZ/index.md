@@ -25,10 +25,10 @@ Zenless Zone Zero is an all-new 3D action game from HoYoverse, here to provide a
 
 [https://play.google.com/store/apps/details?id=com.HoYoverse.Nap&hl=en_CA&pli=1](https://play.google.com/store/apps/details?id=com.HoYoverse.Nap&hl=en_CA&pli=1)
 
-### Download on Epic Games
-
-[https://store.epicgames.com/p/zenless-zone-zero-c7c151](https://store.epicgames.com/p/zenless-zone-zero-c7c151)
-
 ### Download on the Apple App Store
 
 [https://apps.apple.com/app/id1606356401](https://apps.apple.com/app/id1606356401)
+
+### Download on Epic Games
+
+[https://store.epicgames.com/p/zenless-zone-zero-c7c151](https://store.epicgames.com/p/zenless-zone-zero-c7c151)

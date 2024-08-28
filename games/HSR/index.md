@@ -17,10 +17,6 @@ Honkai: Star Rail is an all-new strategy-RPG title in the Honkai series that tak
 
 ## Websites
 
-### Official Game Discord
-
-[https://discord.gg/honkaistarrail](https://discord.gg/honkaistarrail)
-
 ### Download on Epic Games
 
 [https://store.epicgames.com/p/honkai-star-rail](https://store.epicgames.com/p/honkai-star-rail)
@@ -32,3 +28,7 @@ Honkai: Star Rail is an all-new strategy-RPG title in the Honkai series that tak
 ### Download on the Apple App Store
 
 [http://itunes.apple.com/us/app/id1599719154#?platform=iphone](http://itunes.apple.com/us/app/id1599719154#?platform=iphone)
+
+### Official Game Discord
+
+[https://discord.gg/honkaistarrail](https://discord.gg/honkaistarrail)

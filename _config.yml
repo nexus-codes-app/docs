@@ -6,9 +6,7 @@ url: https://nexus.swvn.io
 logo: "/assets/css/logo-small.png"
 
 aux_links:
-#   "Siren on GitHub":
-#     - "https://github.com/PMass/Siren"
-  # "Siren Docs (WIP)":
-  #   - "https://docs.siren.community"
-  # "SBUX Hub Server":
-  #   - "https://discord.gg/starbucks"
+   "Add Nexus to Your Server":
+     - "https://invite.nexus-codes.app"
+   "Support Server":
+     - "https://support.nexus-codes.app"

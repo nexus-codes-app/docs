@@ -15,15 +15,33 @@ Wuthering Waves is a story-rich open-world game with a high degree of freedom. Y
 [Summary Provided by IGDB](https://www.igdb.com/games/wuthering-waves)
 {: .fs-2 }
 
-## Websites
+## Websites & Social
+
+### Official Website
+
+[https://wutheringwaves.kurogame.com/](https://wutheringwaves.kurogame.com/)
+
+### Twitter
+
+[https://twitter.com/Wuthering_Waves](https://twitter.com/Wuthering_Waves)
+
+### Youtube
+
+[https://www.youtube.com/channel/UC0Bi5KMcECRVYis5Gb_ZYZQ](https://www.youtube.com/channel/UC0Bi5KMcECRVYis5Gb_ZYZQ)
+
+### Reddit
+
+[https://www.reddit.com/r/WutheringWaves](https://www.reddit.com/r/WutheringWaves)
+
+### Discord
+
+[https://discord.gg/wutheringwaves](https://discord.gg/wutheringwaves)
+
+## Download Wuthering Waves
 
 ### Download on the Google Play Store
 
 [https://play.google.com/store/apps/details?id=com.kurogame.wutheringwaves.global](https://play.google.com/store/apps/details?id=com.kurogame.wutheringwaves.global)
-
-### Official Game Discord
-
-[https://discord.gg/wutheringwaves](https://discord.gg/wutheringwaves)
 
 ### Download on Epic Games
 

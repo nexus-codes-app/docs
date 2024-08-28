@@ -15,20 +15,42 @@ Genshin Impact is an open-world action RPG, where you embark on a journey across
 [Summary Provided by IGDB](https://www.igdb.com/games/genshin-impact)
 {: .fs-2 }
 
-## Websites
+## Websites & Social
 
-### Official Game Discord
+### Official Website
+
+[https://genshin.hoyoverse.com/](https://genshin.hoyoverse.com/)
+
+### Twitter
+
+[https://twitter.com/GenshinImpact](https://twitter.com/GenshinImpact)
+
+### Twitch
+
+[https://www.twitch.tv/genshinimpactofficial](https://www.twitch.tv/genshinimpactofficial)
+
+### Youtube
+
+[https://www.youtube.com/channel/UCiS882YPwZt1NfaM0gR0D9Q](https://www.youtube.com/channel/UCiS882YPwZt1NfaM0gR0D9Q)
+
+### Reddit
+
+[https://www.reddit.com/r/Genshin_Impact](https://www.reddit.com/r/Genshin_Impact)
+
+### Discord
 
 [https://discord.gg/invite/genshinimpact](https://discord.gg/invite/genshinimpact)
 
-### Download on Epic Games
+## Download Genshin Impact
 
-[https://www.epicgames.com/p/genshin-impact](https://www.epicgames.com/p/genshin-impact)
+### Download on the Apple App Store
+
+[https://itunes.apple.com/us/app/id1517783697](https://itunes.apple.com/us/app/id1517783697)
 
 ### Download on the Google Play Store
 
 [https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact](https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact)
 
-### Download on the Apple App Store
+### Download on Epic Games
 
-[https://apps.apple.com/app/id1517783697](https://apps.apple.com/app/id1517783697)
+[https://www.epicgames.com/p/genshin-impact](https://www.epicgames.com/p/genshin-impact)

@@ -17,23 +17,45 @@ To save the world of Teleria, you will recruit its most legendary warriors from 
 [Summary Provided by IGDB](https://www.igdb.com/games/raid-shadow-legends)
 {: .fs-2 }
 
-## Websites
+## Websites & Social
 
-### Official Game Discord
+### Official Website
+
+[https://plarium.com/forum/en/raid-shadow-legends/](https://plarium.com/forum/en/raid-shadow-legends/)
+
+### Twitter
+
+[https://twitter.com/RaidRPG](https://twitter.com/RaidRPG)
+
+### Twitch
+
+[https://www.twitch.tv/directory/game/Raid:%20Shadow%20Legends](https://www.twitch.tv/directory/game/Raid:%20Shadow%20Legends)
+
+### Youtube
+
+[https://www.youtube.com/user/PlariumGames](https://www.youtube.com/user/PlariumGames)
+
+### Reddit
+
+[https://www.reddit.com/r/RaidShadowLegends/](https://www.reddit.com/r/RaidShadowLegends/)
+
+### Discord
 
 [https://discord.gg/raidshadowlegends](https://discord.gg/raidshadowlegends)
 
+## Download Raid: Shadow Legends
+
 ### Download on the Apple App Store
 
-[https://apps.apple.com/us/app/raid-shadow-legends/id1371565796](https://apps.apple.com/us/app/raid-shadow-legends/id1371565796)
-
-### Download on Steam
-
-[https://store.steampowered.com/app/2333480](https://store.steampowered.com/app/2333480)
+[https://itunes.apple.com/us/app/id1371565796#?platform=ipad](https://itunes.apple.com/us/app/id1371565796#?platform=ipad)
 
 ### Download on the Google Play Store
 
 [https://play.google.com/store/apps/details?id=com.plarium.raidlegends&hl=en](https://play.google.com/store/apps/details?id=com.plarium.raidlegends&hl=en)
+
+### Download on Steam
+
+[https://store.steampowered.com/app/2333480](https://store.steampowered.com/app/2333480)
 
 ### Download on Epic Games
 

@@ -15,16 +15,38 @@ Take on the role of a key member of Rhodes Island, a pharmaceutical company that
 [Summary Provided by IGDB](https://www.igdb.com/games/arknights)
 {: .fs-2 }
 
-## Websites
+## Websites & Social
 
-### Official Game Discord
+### Official Website
+
+[https://www.arknights.global/](https://www.arknights.global/)
+
+### Twitter
+
+[https://twitter.com/ArknightsEN](https://twitter.com/ArknightsEN)
+
+### Twitch
+
+[https://www.twitch.tv/directory/game/Arknights](https://www.twitch.tv/directory/game/Arknights)
+
+### Youtube
+
+[https://www.youtube.com/channel/UCR0J2NYGuC8epsa1O4DMmXQ](https://www.youtube.com/channel/UCR0J2NYGuC8epsa1O4DMmXQ)
+
+### Reddit
+
+[https://www.reddit.com/r/arknights](https://www.reddit.com/r/arknights)
+
+### Discord
 
 [https://discord.gg/FEpaBv7](https://discord.gg/FEpaBv7)
+
+## Download Arknights
+
+### Download on the Apple App Store
+
+[https://itunes.apple.com/us/app/id1464872022#?platform=ipad](https://itunes.apple.com/us/app/id1464872022#?platform=ipad)
 
 ### Download on the Google Play Store
 
 [https://play.google.com/store/apps/details?id=com.YoStarEN.Arknights](https://play.google.com/store/apps/details?id=com.YoStarEN.Arknights)
-
-### Download on the Apple App Store
-
-[https://apps.apple.com/app/id1464872022](https://apps.apple.com/app/id1464872022)

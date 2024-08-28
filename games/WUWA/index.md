@@ -12,11 +12,10 @@ parent: Games
 
 Wuthering Waves is a story-rich open-world game with a high degree of freedom. You wake from your slumber as a Rover, greeted by an expansive new world filled with novel sights and newfangled tech.
 
+[Summary Provided by IGDB](https://www.igdb.com/games/wuthering-waves)
+{: .fs-2 }
+
 ## Websites
-
-### Official Game Discord
-
-[https://discord.gg/wutheringwaves](https://discord.gg/wutheringwaves)
 
 ### Download on Epic Games
 
@@ -25,3 +24,7 @@ Wuthering Waves is a story-rich open-world game with a high degree of freedom. Y
 ### Download on the Google Play Store
 
 [https://play.google.com/store/apps/details?id=com.kurogame.wutheringwaves.global](https://play.google.com/store/apps/details?id=com.kurogame.wutheringwaves.global)
+
+### Official Game Discord
+
+[https://discord.gg/wutheringwaves](https://discord.gg/wutheringwaves)

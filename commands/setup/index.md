@@ -8,7 +8,7 @@ parent: Commands
 
 ## Description
 
-Set-Up Code Destinations & Pings
+Set-Up Code Destinations & Pings for each game. You can set up multiple channels and roles for each game. Codes will not send if no channels are set up. You can also set up multiple roles to ping for each game.
 
 ## Required Permissions
 

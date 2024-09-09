@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Arknights Codes'
+title: 'ARK Codes'
 parent: Codes
 ---
 

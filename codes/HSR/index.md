@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Honkai Star Rail Codes'
+title: 'HSR Codes'
 parent: Codes
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Goddess of Victory: Nikke Codes'
+title: 'NIKKE Codes'
 parent: Codes
 ---
 

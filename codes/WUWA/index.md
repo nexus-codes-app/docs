@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Wuthering Waves Codes'
+title: 'WUWA Codes'
 parent: Codes
 ---
 

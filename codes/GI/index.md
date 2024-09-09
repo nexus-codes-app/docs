@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Genshin Impact Codes'
+title: 'GI Codes'
 parent: Codes
 ---
 

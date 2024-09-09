@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Raid: Shadow Legends Codes'
+title: 'RAID Codes'
 parent: Codes
 ---
 

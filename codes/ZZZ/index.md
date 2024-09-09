@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Zenless Zone Zero Codes'
+title: 'ZZZ Codes'
 parent: Codes
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'AFK Journey Codes'
+title: 'AFK Codes'
 parent: Codes
 ---
 

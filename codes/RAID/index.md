@@ -10,18 +10,18 @@ parent: Codes
 
 ### `raidxotk`
 
-Date Added: Wed Aug 07 2024 09:40:00 GMT+0000 (Coordinated Universal Time)
+Date Added: Wed Aug 07 2024 05:40:00 GMT-0400 (Eastern Daylight Time)
 
 ### `NINJARETURNS`
 
 **New Players Only**
 Ninja, Four Energy Refills, and 4x 20 Multibattles
 
-Date Added: Wed Jul 31 2024 14:40:00 GMT+0000 (Coordinated Universal Time)
+Date Added: Wed Jul 31 2024 10:40:00 GMT-0400 (Eastern Daylight Time)
 
 ### `wefinallyplayedit`
 
-Date Added: Wed Jul 31 2024 14:40:00 GMT+0000 (Coordinated Universal Time)
+Date Added: Wed Jul 31 2024 10:40:00 GMT-0400 (Eastern Daylight Time)
 
 ### `FREEFROG`
 

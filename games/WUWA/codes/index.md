@@ -16,12 +16,12 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 ### [`BAHAMUTKXMHM`](https://clipboard.nexus-codes.app/?copy=BAHAMUTKXMHM)
 
-NaN<br />*Added Jul 26, 2024*
+5k Shell Credits, Five Medium Resonance Potions, and Five Medium Energy Cores<br />*Added Jul 26, 2024*
 
 ### [`WUTHERINGGIFT`](https://clipboard.nexus-codes.app/?copy=WUTHERINGGIFT)
 
-NaN<br />*Added Jul 26, 2024*
+Two Premium Resonance Potions, Two Medium Revival Inhalers, Two Medium Energy Bags, 10k Shell Credits, and 50 Astrite<br />*Added Jul 26, 2024*
 
 ### [`DCARD3VN7M`](https://clipboard.nexus-codes.app/?copy=DCARD3VN7M)
 
-NaN<br />*Added Jul 26, 2024*
+5k Shell Credits, Five Medium Resonance Potions, and Five Medium Energy Cores<br />*Added Jul 26, 2024*

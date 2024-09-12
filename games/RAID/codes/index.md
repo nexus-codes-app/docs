@@ -24,7 +24,8 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 ### [`NINJARETURNS`](https://clipboard.nexus-codes.app/?copy=NINJARETURNS)
 
-NaN<br />*Added Jul 31, 2024*
+**New Players Only**
+Ninja, Four Energy Refills, and 4x 20 Multibattles<br />*Added Jul 31, 2024*
 
 ### [`wefinallyplayedit`](https://clipboard.nexus-codes.app/?copy=wefinallyplayedit)
 
@@ -32,51 +33,63 @@ NaN<br />*Added Jul 31, 2024*
 
 ### [`FREEFROG`](https://clipboard.nexus-codes.app/?copy=FREEFROG)
 
-NaN<br />
+**New Players Only**
+Toragi the Frog, 20 magic brews, and 200k silver<br />
 
 ### [`FESTIVAL5`](https://clipboard.nexus-codes.app/?copy=FESTIVAL5)
 
-NaN<br />
+**New Players Only**
+Tayrel<br />
 
 ### [`GODSPEED`](https://clipboard.nexus-codes.app/?copy=GODSPEED)
 
-NaN<br />
+**New Players Only**
+Apothecary, five magic XP brews, five greater arcane potions, and 100k silver<br />
 
 ### [`LURIA`](https://clipboard.nexus-codes.app/?copy=LURIA)
 
-NaN<br />
+**New Players Only**
+Luria, five spirit brews, five greater arcane potions, and 100k silver<br />
 
 ### [`BECURSED`](https://clipboard.nexus-codes.app/?copy=BECURSED)
 
-NaN<br />
+**New Players Only**
+Cormac the Highpeak, 15 magic XP brews, three-days XP boost, and three energy refills<br />
 
 ### [`FROSTBRINGER`](https://clipboard.nexus-codes.app/?copy=FROSTBRINGER)
 
-NaN<br />
+**New Players Only**
+FrostBringer, 15 magic XP brews, and 300k silver<br />
 
 ### [`GETOBORO`](https://clipboard.nexus-codes.app/?copy=GETOBORO)
 
-NaN<br />
+**New Players Only**
+Oboro, ten void XP brews, five greater arcane potions, and 300k silver<br />
 
 ### [`2GTNEWBIE`](https://clipboard.nexus-codes.app/?copy=2GTNEWBIE)
 
-NaN<br />
+**New Players Only**
+Kellan the Shrike, two energy refills, and 200k silver<br />
 
 ### [`MYTURN`](https://clipboard.nexus-codes.app/?copy=MYTURN)
 
-NaN<br />
+**New Players Only**
+Alure, 20 magic XP brews, and 200k silver<br />
 
 ### [`Click4Gameplay`](https://clipboard.nexus-codes.app/?copy=Click4Gameplay)
 
-NaN<br />
+**New Players Only**
+Mordecai, multibattles, ten force XP brews, and 200k silver<br />
 
 ### [`2GT24Knight`](https://clipboard.nexus-codes.app/?copy=2GT24Knight)
 
-NaN<br />
+**New Players Only**
+Knight-Errant and 100k silver<br />
 
 ### [`DASPIEL2024LIEBE`](https://clipboard.nexus-codes.app/?copy=DASPIEL2024LIEBE)
 
-NaN<br />
+**New Players Only**
+Chonoru, 300k silver, and a three-star chicken<br />
 
 ### [`Yearlygift`](https://clipboard.nexus-codes.app/?copy=Yearlygift)
 

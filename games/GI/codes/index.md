@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`KJBN2JM88SJ3`](https://genshin.hoyoverse.com/en/gift?code=KJBN2JM88SJ3)
+
+Three Saurian Claw Succulent, Five Mystic Enhancement Ore, Ten Adventurer S Experience, and 10k Mora<br />*Added Sep 13, 2024*
+
 ### [`HHHA5Z81O5UK`](https://genshin.hoyoverse.com/en/gift?code=HHHA5Z81O5UK)
 
 20k Mora, 15 Adventurer S Experience, and Ten Fine Enhancement Ore<br />*Added Sep 6, 2024*

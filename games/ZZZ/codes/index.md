@@ -22,6 +22,10 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 30 Polychromes<br />*Added Oct 7, 2024*
 
+### [`TOURDEINFERNO`](https://zenless.hoyoverse.com/redemption?code=TOURDEINFERNO)
+
+300 Polychromes, 30k Dennies, Two Senior Investigator Logs, and Three W Engine Energy Modules<br />*Added Sep 13, 2024*
+
 ### [`BANDP43VWC7H`](https://zenless.hoyoverse.com/redemption?code=BANDP43VWC7H)
 
 60 Polychrome and 6,666 Denny<br />*Added Aug 15, 2024*

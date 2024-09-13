@@ -25,11 +25,11 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 ### [`NINJARETURNS`](https://clipboard.nexus-codes.app/?copy=NINJARETURNS)
 
 **New Players Only**
-Ninja, Four Energy Refills, and 4x 20 Multibattles<br />*Added Jul 31, 2024*
+Ninja, Four Energy Refills, and 4x 20 Multibattles<br />
 
 ### [`wefinallyplayedit`](https://clipboard.nexus-codes.app/?copy=wefinallyplayedit)
 
-*Added Jul 31, 2024*
+
 
 ### [`FREEFROG`](https://clipboard.nexus-codes.app/?copy=FREEFROG)
 

@@ -72,7 +72,7 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 ### [`MARKIJOURNEY`](https://clipboard.nexus-codes.app/?copy=MARKIJOURNEY)
 
-1000 Diamonds + Gold<br />*Added Jul 25, 2024*
+1000 Diamonds + Gold<br />
 
 ### [`Plutomallextra5%`](https://clipboard.nexus-codes.app/?copy=Plutomallextra5%25)
 

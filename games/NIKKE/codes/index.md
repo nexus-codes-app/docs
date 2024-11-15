@@ -54,10 +54,6 @@ Recruit Voucher x10<br />*Added Oct 26, 2024*
 
 Gem x900<br />*Added Oct 26, 2024*
 
-### [`HOSHIYORIVOL6XMEH`](https://clipboard.nexus-codes.app/?copy=HOSHIYORIVOL6XMEH)
-
-Gem X300<br />*Added Oct 9, 2024*
-
 ### [`NIKKEFORYOU`](https://clipboard.nexus-codes.app/?copy=NIKKEFORYOU)
 
 Credit 2h X1<br />*Added Aug 6, 2024*

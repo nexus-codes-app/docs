@@ -14,17 +14,17 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`PTTMYZSOM`](https://clipboard.nexus-codes.app/?copy=PTTMYZSOM)
+
+5,000 Shell Credit, 5x Medium Energy Core, 2x Medium Resonance Potion<br />*Added Nov 15, 2024*
+
 ### [`BAHAMUTKXMHM`](https://clipboard.nexus-codes.app/?copy=BAHAMUTKXMHM)
 
-5,000 Shell Credit, 5x Medium Energy Core, 2x Medium Resonance Potion<br />*Added Oct 7, 2024*
+5,000 Shell Credit, 5x Medium Energy Core, 2x Medium Resonance Potion<br />*Added Nov 15, 2024*
 
 ### [`DCARD3VN7M`](https://clipboard.nexus-codes.app/?copy=DCARD3VN7M)
 
-5,000 Shell Credit, 5x Medium Energy Core, 2x Medium Resonance Potion<br />*Added Oct 7, 2024*
-
-### [`PTTMYZSOM`](https://clipboard.nexus-codes.app/?copy=PTTMYZSOM)
-
-5,000 Shell Credit, 5x Medium Energy Core, 2x Medium Resonance Potion<br />*Added Oct 7, 2024*
+5,000 Shell Credit, 5x Medium Energy Core, 2x Medium Resonance Potion<br />*Added Nov 15, 2024*
 
 ### [`SHOREKEEPER`](https://clipboard.nexus-codes.app/?copy=SHOREKEEPER)
 

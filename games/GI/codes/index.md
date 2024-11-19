@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`FIBE54PL5995`](https://genshin.hoyoverse.com/en/gift?code=FIBE54PL5995)
+
+10,000 Mora, x10 Adventurer S Experience, x5 Fine Enhancement Ore, x5 Stir Fried Fish Noodles, x5 Jueyun Chili Chicken<br />*Added Nov 19, 2024*
+
+### [`WAM5UWWU28NV`](https://genshin.hoyoverse.com/en/gift?code=WAM5UWWU28NV)
+
+x60 Primogems, x5 Adventurer S Experience<br />*Added Nov 19, 2024*
+
 ### [`TTKEXYBCNWFH`](https://genshin.hoyoverse.com/en/gift?code=TTKEXYBCNWFH)
 
 30,000 Mora and x3 Pile  Em Up<br />*Added Nov 15, 2024*

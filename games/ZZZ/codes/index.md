@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`YANAGIGIFTALL`](https://zenless.hoyoverse.com/redemption?code=YANAGIGIFTALL)
+
+10k Denny, Ten Official Investigator Logs, Ten W Engine Power Supplies, and Ten Crystallized Plating Agents<br />*Added Nov 21, 2024*
+
 ### [`SGJADSHBF`](https://zenless.hoyoverse.com/redemption?code=SGJADSHBF)
 
 60 Polychrome and 6,666 Denny<br />*Added Nov 7, 2024*

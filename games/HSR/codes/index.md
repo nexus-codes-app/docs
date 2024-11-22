@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`UAJJDY9E8JJT`](https://hsr.hoyoverse.com/gift?code=UAJJDY9E8JJT)
+
+100 Stellar Jade and 50k Credits<br />*Added Nov 22, 2024*
+
 ### [`5S6ZHRWTDNJB`](https://hsr.hoyoverse.com/gift?code=5S6ZHRWTDNJB)
 
 60 Stellar Jade<br />*Added Nov 12, 2024*

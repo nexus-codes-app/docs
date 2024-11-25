@@ -10,7 +10,9 @@ parent: Games
 
 ## Summary
 
-Wuthering Waves is a story-rich open-world game with a high degree of freedom. You wake from your slumber as a Rover, greeted by an expansive new world filled with novel sights and newfangled tech.
+Wuthering Waves is a story-rich open-world action RPG. You wake from your slumber as Rover, joined by a vibrant cast of Resonators on a journey to reclaim your lost memories and surmount the Lament.
+
+The game features fast-paced combat with a variety of mechanics such as Extreme Evasion and Dodge Counter. You can also absorb the remaining of the monsters you've defeated and use their power in battles.
 
 [Summary Provided by IGDB](https://www.igdb.com/games/wuthering-waves)
 {: .fs-2 }
@@ -39,10 +41,14 @@ Wuthering Waves is a story-rich open-world game with a high degree of freedom. Y
 
 ## Download Wuthering Waves
 
+### Download on the Apple App Store
+
+[https://apps.apple.com/app/id6475033368?platform=ipad](https://apps.apple.com/app/id6475033368?platform=ipad)
+
 ### Download on the Google Play Store
 
 [https://play.google.com/store/apps/details?id=com.kurogame.wutheringwaves.global](https://play.google.com/store/apps/details?id=com.kurogame.wutheringwaves.global)
 
 ### Download on Epic Games
 
-[https://store.epicgames.com/en-US/p/wuthering-waves-76ebc5](https://store.epicgames.com/en-US/p/wuthering-waves-76ebc5)
+[https://store.epicgames.com/p/wuthering-waves-76ebc5](https://store.epicgames.com/p/wuthering-waves-76ebc5)

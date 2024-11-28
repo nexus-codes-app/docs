@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`3TL2U4S5M4`](https://clipboard.nexus-codes.app/?copy=3TL2U4S5M4)
+
+500 Diamonds<br />*Added Nov 28, 2024*
+
+### [`afkjjackolantern`](https://clipboard.nexus-codes.app/?copy=afkjjackolantern)
+
+100 Diamonds<br />*Added Nov 28, 2024*
+
 ### [`AFKJomedetou`](https://clipboard.nexus-codes.app/?copy=AFKJomedetou)
 
 1000x Diamonds<br />*Added Nov 12, 2024*

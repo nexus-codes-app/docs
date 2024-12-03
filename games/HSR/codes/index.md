@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`WOVPRK19JGM41`](https://hsr.hoyoverse.com/gift?code=WOVPRK19JGM41)
+
+20,000 Credits, x3 Lost Crystal, x3 Dreamy Cone<br />*Added Dec 3, 2024*
+
+### [`VCUB4T2V4L8N5`](https://hsr.hoyoverse.com/gift?code=VCUB4T2V4L8N5)
+
+20,000 Credits, x3 Classic Soulglad, x3 Refined Aether<br />*Added Dec 3, 2024*
+
 ### [`DSJKDYQF82J3`](https://hsr.hoyoverse.com/gift?code=DSJKDYQF82J3)
 
 100 Stellar Jade and Five Refined Aether<br />*Added Nov 22, 2024*

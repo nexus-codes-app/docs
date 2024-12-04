@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`VBKJP473VCS3`](https://hsr.hoyoverse.com/gift?code=VBKJP473VCS3)
+
+50 Stellar Jade and 10k Credits<br />*Added Dec 4, 2024*
+
 ### [`WOVPRK19JGM41`](https://hsr.hoyoverse.com/gift?code=WOVPRK19JGM41)
 
 20,000 Credits, x3 Lost Crystal, x3 Dreamy Cone<br />*Added Dec 3, 2024*

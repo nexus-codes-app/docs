@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`TINGYUNISBACK`](https://hsr.hoyoverse.com/gift?code=TINGYUNISBACK)
+
+5,000 Credits, x2 Immortal S Delight<br />*Added Dec 5, 2024*
+
+### [`CM26EFGH5678`](https://hsr.hoyoverse.com/gift?code=CM26EFGH5678)
+
+Cm26efgh5678<br />*Added Dec 5, 2024*
+
+### [`H2J8F3P6R9T2`](https://hsr.hoyoverse.com/gift?code=H2J8F3P6R9T2)
+
+20,000 Credits, x3 Traveler S Guide, x3 Banasocial Etiquette<br />*Added Dec 5, 2024*
+
 ### [`VBKJP473VCS3`](https://hsr.hoyoverse.com/gift?code=VBKJP473VCS3)
 
 50 Stellar Jade and 10k Credits<br />*Added Dec 4, 2024*

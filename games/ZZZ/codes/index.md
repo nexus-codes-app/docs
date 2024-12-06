@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`VOIDHUNTER`](https://zenless.hoyoverse.com/redemption?code=VOIDHUNTER)
+
+*Added Dec 6, 2024*
+
 ### [`YANAGIGIFTALL`](https://zenless.hoyoverse.com/redemption?code=YANAGIGIFTALL)
 
 10k Denny, Ten Official Investigator Logs, Ten W Engine Power Supplies, and Ten Crystallized Plating Agents<br />*Added Nov 21, 2024*

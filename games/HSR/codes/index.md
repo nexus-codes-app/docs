@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`THANKSPOMPOM`](https://hsr.hoyoverse.com/gift?code=THANKSPOMPOM)
+
+Three Condensed Aether, Two Lost Gold Fragments, Three Halovian Winged Burgers, and 10k Credits<br />*Added Dec 9, 2024*
+
 ### [`TINGYUNISBACK`](https://hsr.hoyoverse.com/gift?code=TINGYUNISBACK)
 
 5,000 Credits, x2 Immortal S Delight<br />*Added Dec 5, 2024*

@@ -102,10 +102,6 @@ x3 Traveler S Guide and x4 Full Auto Dreampaint Spray<br />*Added Oct 24, 2024*
 
 Materials + Credits<br />*Added Oct 22, 2024*
 
-### [`KFWJG6L3N8M1V`](https://hsr.hoyoverse.com/gift?code=KFWJG6L3N8M1V)
-
-Materials + Credits<br />*Added Oct 16, 2024*
-
 ### [`YUNLISNACK`](https://hsr.hoyoverse.com/gift?code=YUNLISNACK)
 
 X3 Traveler S Guide, X6 Berrypheasant Skewers<br />*Added Oct 7, 2024*

@@ -102,10 +102,6 @@ Cele Hypo Selector Chest + 500 Diamonds<br />*Added Oct 11, 2024*
 
 10 Regular Invite Letters<br />*Added Sep 9, 2024*
 
-### [`GIFT4YOUAFKJ`](https://clipboard.nexus-codes.app/?copy=GIFT4YOUAFKJ)
-
-200 Diamonds<br />*Added Aug 12, 2024*
-
 ### [`AFKJ8888`](https://clipboard.nexus-codes.app/?copy=AFKJ8888)
 
 188 Diamonds<br />*Added Aug 8, 2024*
@@ -113,10 +109,6 @@ Cele Hypo Selector Chest + 500 Diamonds<br />*Added Oct 11, 2024*
 ### [`AFKJPC`](https://clipboard.nexus-codes.app/?copy=AFKJPC)
 
 100 Diamonds<br />*Added Aug 8, 2024*
-
-### [`AFKJOSHIKATSU`](https://clipboard.nexus-codes.app/?copy=AFKJOSHIKATSU)
-
-188 Diamonds<br />*Added Aug 8, 2024*
 
 ### [`AFKJ9999`](https://clipboard.nexus-codes.app/?copy=AFKJ9999)
 

@@ -18,18 +18,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 Standard Recruit Voucher x10<br />*Added Nov 3, 2024*
 
-### [`SALAMINSALAMIN`](https://clipboard.nexus-codes.app/?copy=SALAMINSALAMIN)
-
-Gem x100<br />*Added Oct 31, 2024*
-
-### [`9R2Z1QF2J`](https://clipboard.nexus-codes.app/?copy=9R2Z1QF2J)
-
-Gem x100<br />*Added Oct 31, 2024*
-
-### [`ULANGTAHUNNIKKE2ID`](https://clipboard.nexus-codes.app/?copy=ULANGTAHUNNIKKE2ID)
-
-Gem x100<br />*Added Oct 31, 2024*
-
 ### [`NIKKE2NDANNIVKRKOL`](https://clipboard.nexus-codes.app/?copy=NIKKE2NDANNIVKRKOL)
 
 Gem x600<br />*Added Oct 31, 2024*

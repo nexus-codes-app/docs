@@ -26,10 +26,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 60 Polychrome and 6,666 Denny<br />*Added Nov 7, 2024*
 
-### [`VIRTUALREVENGE`](https://zenless.hoyoverse.com/redemption?code=VIRTUALREVENGE)
-
-300 Polychrome, 30k Dennies, Two Senior Investigator Logs, and Three W Engine Energy Modules<br />*Added Oct 25, 2024*
-
 ### [`ZENLESSGIFT`](https://zenless.hoyoverse.com/redemption?code=ZENLESSGIFT)
 
 50 Polychrome, 2 Official Investigator Log, 3 W Engine Power Supply, 1 Bangboo Algorithm Module<br />*Added Oct 7, 2024*

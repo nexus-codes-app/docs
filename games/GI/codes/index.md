@@ -94,34 +94,6 @@ x5 Hero S Wit<br />*Added Nov 15, 2024*
 
 30,000 Mora, x3 Vayuda Turquoise Sliver, x3 Hero S Wit, x3 Guide To Kindling, x5 Mystic Enhancement Ore<br />*Added Nov 12, 2024*
 
-### [`JS45ETDJLKMD`](https://genshin.hoyoverse.com/en/gift?code=JS45ETDJLKMD)
-
-100 Primogems and 50k Mora<br />*Added Nov 8, 2024*
-
-### [`7TLMXSD243JR`](https://genshin.hoyoverse.com/en/gift?code=7TLMXSD243JR)
-
-100 Primogems and Five Hero S Wit<br />*Added Nov 8, 2024*
-
-### [`6ALMWAVKLK35`](https://genshin.hoyoverse.com/en/gift?code=6ALMWAVKLK35)
-
-100 Primogems, 10 Mystic Enhancement Ore<br />*Added Nov 8, 2024*
-
-### [`PAGG9M78TJBQ`](https://genshin.hoyoverse.com/en/gift?code=PAGG9M78TJBQ)
-
-10,000 Mora, x10 Adventurer S Experience, x5 Fine Enhancement Ore, x5 Stir Fried Fish Noodles, x5 Jueyun Chili Chicken<br />*Added Nov 4, 2024*
-
 ### [`MTLF6DKA7PQZ`](https://genshin.hoyoverse.com/en/gift?code=MTLF6DKA7PQZ)
 
 39k Mora, Three Tatacos, Three Grainfruit Chips, and Three Cup O  Grainfruit<br />*Added Nov 1, 2024*
-
-### [`HVQAUTYB8NKE`](https://genshin.hoyoverse.com/en/gift?code=HVQAUTYB8NKE)
-
-20,000 Mora, x15 Adventurer S Experience, x10 Fine Enhancement Ore<br />*Added Oct 28, 2024*
-
-### [`UB4XPUJS77QD`](https://genshin.hoyoverse.com/en/gift?code=UB4XPUJS77QD)
-
-20k Mora, Five Brilliant Chrysanthemums, Five Hero S Wit, and Three Prithiva Topaz Sliver<br />*Added Oct 25, 2024*
-
-### [`AEXK6S4U93CF`](https://genshin.hoyoverse.com/en/gift?code=AEXK6S4U93CF)
-
-10,000 Mora x3 Brilliant Chrysanthemum, x10 Adventurer S Experience, x5 Fine Enhancement Ore<br />*Added Oct 24, 2024*

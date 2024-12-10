@@ -90,10 +90,6 @@ x5 Hero S Wit<br />*Added Nov 15, 2024*
 
 60 Primogems, 5 Adventurer S Experience<br />*Added Nov 15, 2024*
 
-### [`GENSHIN52X8399`](https://genshin.hoyoverse.com/en/gift?code=GENSHIN52X8399)
-
-30,000 Mora, x3 Vayuda Turquoise Sliver, x3 Hero S Wit, x3 Guide To Kindling, x5 Mystic Enhancement Ore<br />*Added Nov 12, 2024*
-
 ### [`MTLF6DKA7PQZ`](https://genshin.hoyoverse.com/en/gift?code=MTLF6DKA7PQZ)
 
 39k Mora, Three Tatacos, Three Grainfruit Chips, and Three Cup O  Grainfruit<br />*Added Nov 1, 2024*

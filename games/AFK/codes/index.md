@@ -22,26 +22,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 100 Diamonds<br />*Added Nov 28, 2024*
 
-### [`AFKJomedetou`](https://clipboard.nexus-codes.app/?copy=AFKJomedetou)
-
-1000x Diamonds<br />*Added Nov 12, 2024*
-
-### [`AFKJCREATOR`](https://clipboard.nexus-codes.app/?copy=AFKJCREATOR)
-
-100x Diamonds<br />*Added Nov 12, 2024*
-
-### [`AFKJGIFT2024`](https://clipboard.nexus-codes.app/?copy=AFKJGIFT2024)
-
-200x Diamonds<br />*Added Nov 12, 2024*
-
-### [`MAGICAFKJOURNEY`](https://clipboard.nexus-codes.app/?copy=MAGICAFKJOURNEY)
-
-200x Diamonds<br />*Added Nov 12, 2024*
-
-### [`AFKJWINDAH`](https://clipboard.nexus-codes.app/?copy=AFKJWINDAH)
-
-1000x Diamonds, 20k Gold<br />*Added Nov 12, 2024*
-
 ### [`Plutomallextra5%`](https://clipboard.nexus-codes.app/?copy=Plutomallextra5%25)
 
 100 Diamonds + Gold<br />*Added Nov 1, 2024*

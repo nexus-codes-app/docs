@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`PP500`](https://clipboard.nexus-codes.app/?copy=PP500)
+
+*Added Dec 11, 2024*
+
+### [`only4midgamesubs`](https://clipboard.nexus-codes.app/?copy=only4midgamesubs)
+
+*Added Dec 11, 2024*
+
+### [`xmas24`](https://clipboard.nexus-codes.app/?copy=xmas24)
+
+*Added Dec 11, 2024*
+
 ### [`Spooky17`](https://clipboard.nexus-codes.app/?copy=Spooky17)
 
 *Added Nov 6, 2024*

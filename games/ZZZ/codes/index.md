@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`HARUMASAFREE`](https://zenless.hoyoverse.com/redemption?code=HARUMASAFREE)
+
+x50 Polychromes<br />*Added Dec 13, 2024*
+
+### [`ZZZFM`](https://zenless.hoyoverse.com/redemption?code=ZZZFM)
+
+50,000 Dennies, 3 Senior Investigator Log, 3 W Engine Energy Model, 3 Ether Plating Agent, 1 Ether Battery<br />*Added Dec 13, 2024*
+
 ### [`VOIDHUNTER`](https://zenless.hoyoverse.com/redemption?code=VOIDHUNTER)
 
 *Added Dec 6, 2024*

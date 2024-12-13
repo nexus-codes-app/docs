@@ -54,37 +54,9 @@ x5 Hero S Wit<br />*Added Nov 15, 2024*
 
 30,000 Mora, 3 Hero S Wit, 3 Guide To Kindling, 5 Fine Enhancement, 5 Brilliant Chrysanthemum<br />*Added Nov 15, 2024*
 
-### [`WTXV36M1J6CO`](https://genshin.hoyoverse.com/en/gift?code=WTXV36M1J6CO)
-
-10,000 Mora, x3 Brilliant Chrysanthemum, x10 Adventurer S Experience, x5 Fine Enhancement Ore<br />*Added Nov 15, 2024*
-
-### [`SBUEMJB449D9`](https://genshin.hoyoverse.com/en/gift?code=SBUEMJB449D9)
-
-10,000 Mora, x3 Brilliant Chrysanthemum, x10 Adventurer S Experience, x5 Fine Enhancement Ore<br />*Added Nov 15, 2024*
-
-### [`HVDLLZ29Y26W`](https://genshin.hoyoverse.com/en/gift?code=HVDLLZ29Y26W)
-
-10,000 Mora, x3 Brilliant Chrysanthemum, x10 Adventurer S Experience, x5 Fine Enhancement Ore<br />*Added Nov 15, 2024*
-
 ### [`DEOB21CK9Y6N`](https://genshin.hoyoverse.com/en/gift?code=DEOB21CK9Y6N)
 
 10,000 Mora, x3 Brilliant Chrysanthemum, x10 Adventurer S Experience, x5 Fine Enhancement Ore<br />*Added Nov 15, 2024*
-
-### [`PPBL281426WC`](https://genshin.hoyoverse.com/en/gift?code=PPBL281426WC)
-
-10,000 Mora x3 Kalpalata Lotus, x10 Adventurer S Experience, x5 Fine Enhancement Ore<br />*Added Nov 15, 2024*
-
-### [`SVMCJ1398A18`](https://genshin.hoyoverse.com/en/gift?code=SVMCJ1398A18)
-
-10,000 Mora, x5 Adventurer S Experience, x5 Fine Enhancement Ore, x5 Stir Fried Fish Noodles, x5 Jueyun Chili Chicken<br />*Added Nov 15, 2024*
-
-### [`UTLO4OA55PA7`](https://genshin.hoyoverse.com/en/gift?code=UTLO4OA55PA7)
-
-10,000 Mora, x5 Adventurer S Experience, x5 Fine Enhancement Ore, x5 Stir Fried Fish Noodles, x5 Jueyun Chili Chicken<br />*Added Nov 15, 2024*
-
-### [`EMVDL6W28D8A`](https://genshin.hoyoverse.com/en/gift?code=EMVDL6W28D8A)
-
-10,000 Mora, x5 Adventurer S Experience, x5 Fine Enhancement Ore, x5 Stir Fried Fish Noodles, x5 Jueyun Chili Chicken<br />*Added Nov 15, 2024*
 
 ### [`LA5E77CLZX5V`](https://genshin.hoyoverse.com/en/gift?code=LA5E77CLZX5V)
 

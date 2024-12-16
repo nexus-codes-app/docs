@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`HAPPYSUNDAY`](https://hsr.hoyoverse.com/gift?code=HAPPYSUNDAY)
+
+5k Credits and Two Halovian Winged Burgers<br />*Added Dec 16, 2024*
+
 ### [`THANKSPOMPOM`](https://hsr.hoyoverse.com/gift?code=THANKSPOMPOM)
 
 Three Condensed Aether, Two Lost Gold Fragments, Three Halovian Winged Burgers, and 10k Credits<br />*Added Dec 9, 2024*

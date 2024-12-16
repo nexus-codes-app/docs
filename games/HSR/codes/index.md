@@ -58,26 +58,6 @@ Cm26efgh5678<br />*Added Dec 5, 2024*
 
 30 Stellar Jade, Three Traveler S Guides, Five Condensed Aether, Four Lost Gold Fragments, and 20k Credits<br />*Added Nov 12, 2024*
 
-### [`STARRAILKARAOKE`](https://hsr.hoyoverse.com/gift?code=STARRAILKARAOKE)
-
-Three Traveler S Guides, Three Sparse Aether, and Three Full Auto Dreampaint Spray<br />*Added Nov 12, 2024*
-
-### [`K9NLF2R1T4P6`](https://hsr.hoyoverse.com/gift?code=K9NLF2R1T4P6)
-
-20,000 Credits, x3 Traveler S Guide, x3 Reduce Bananxiety<br />*Added Nov 12, 2024*
-
-### [`ZTMQF2R7D1X8M`](https://hsr.hoyoverse.com/gift?code=ZTMQF2R7D1X8M)
-
-Traveler S Guide x3, Immortal S Delight x3, Credits x20000<br />*Added Nov 7, 2024*
-
-### [`3A23UG9FR24T`](https://hsr.hoyoverse.com/gift?code=3A23UG9FR24T)
-
-50 Stellar Jades + Exp Materials<br />*Added Nov 6, 2024*
-
-### [`RAPPAISHERE`](https://hsr.hoyoverse.com/gift?code=RAPPAISHERE)
-
-20,000 Credits and x3 Dazzling Ninja Provisions<br />*Added Nov 4, 2024*
-
 ### [`HBKKDH9FR3NX`](https://hsr.hoyoverse.com/gift?code=HBKKDH9FR3NX)
 
 x3 Lost Crystal and x2 Scare Box<br />*Added Nov 4, 2024*
@@ -89,18 +69,6 @@ x3 Lost Crystal and x2 Dreamlight Mixed Sweets<br />*Added Oct 28, 2024*
 ### [`MISTERRATIO`](https://hsr.hoyoverse.com/gift?code=MISTERRATIO)
 
 20,000 Credits and x3 Origami Cake<br />*Added Oct 24, 2024*
-
-### [`RAPPANINJADICT`](https://hsr.hoyoverse.com/gift?code=RAPPANINJADICT)
-
-x3 Traveler S Guide and x4 Full Auto Dreampaint Spray<br />*Added Oct 24, 2024*
-
-### [`EB3KUYQW833P`](https://hsr.hoyoverse.com/gift?code=EB3KUYQW833P)
-
-50 Stellar Jades + Exp Materials<br />*Added Oct 24, 2024*
-
-### [`KFWJD7Y2G9S5H`](https://hsr.hoyoverse.com/gift?code=KFWJD7Y2G9S5H)
-
-Materials + Credits<br />*Added Oct 22, 2024*
 
 ### [`YUNLISNACK`](https://hsr.hoyoverse.com/gift?code=YUNLISNACK)
 

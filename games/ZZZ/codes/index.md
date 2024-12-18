@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ZZZASSEMBLE`](https://zenless.hoyoverse.com/redemption?code=ZZZASSEMBLE)
+
+30 Polychromes<br />*Added Dec 18, 2024*
+
+### [`MIYABIRELEASE`](https://zenless.hoyoverse.com/redemption?code=MIYABIRELEASE)
+
+60 Polychromes  and 6666 Dennies<br />*Added Dec 18, 2024*
+
 ### [`HARUMASAFREE`](https://zenless.hoyoverse.com/redemption?code=HARUMASAFREE)
 
 x50 Polychromes<br />*Added Dec 13, 2024*

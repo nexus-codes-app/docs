@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`SUNDAYCALENDAR`](https://hsr.hoyoverse.com/gift?code=SUNDAYCALENDAR)
+
+x3 Traveler S Guide and x2 Classic Soulglad<br />*Added Dec 19, 2024*
+
+### [`YF61G7F3P4Q2`](https://hsr.hoyoverse.com/gift?code=YF61G7F3P4Q2)
+
+30,000 Credits and x3 Traveler S Guide<br />*Added Dec 19, 2024*
+
 ### [`HAPPYSUNDAY`](https://hsr.hoyoverse.com/gift?code=HAPPYSUNDAY)
 
 5k Credits and Two Halovian Winged Burgers<br />*Added Dec 16, 2024*

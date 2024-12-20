@@ -58,10 +58,6 @@ Cm26efgh5678<br />*Added Dec 5, 2024*
 
 20,000 Credits, x3 Classic Soulglad, x3 Refined Aether<br />*Added Dec 3, 2024*
 
-### [`DSJKDYQF82J3`](https://hsr.hoyoverse.com/gift?code=DSJKDYQF82J3)
-
-100 Stellar Jade and Five Refined Aether<br />*Added Nov 22, 2024*
-
 ### [`5S6ZHRWTDNJB`](https://hsr.hoyoverse.com/gift?code=5S6ZHRWTDNJB)
 
 60 Stellar Jade<br />*Added Nov 12, 2024*

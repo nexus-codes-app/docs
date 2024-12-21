@@ -1,5 +1,20 @@
 [
   {
+    "code": "GETREADY",
+    "rewards": "100 Astrite, Two Premium Resonance Potions, and Five Advanced Energy Cores",
+    "date": "2024-12-21T12:00:03.093Z"
+  },
+  {
+    "code": "OFFWEGO",
+    "rewards": "100 Astrite, 40,000 Shell Credits, and Two Forgery Premium Supplies",
+    "date": "2024-12-21T12:00:03.093Z"
+  },
+  {
+    "code": "JOINCARNEVALE",
+    "rewards": "100 Astrite, 20 Premium Tuners, and Five Advanced Sealed Tubes",
+    "date": "2024-12-21T12:00:03.093Z"
+  },
+  {
     "code": "PTTMYZSOM",
     "rewards": "5,000 Shell Credit, 5x Medium Energy Core, 2x Medium Resonance Potion",
     "date": "2024-11-15T05:00:06.299Z"

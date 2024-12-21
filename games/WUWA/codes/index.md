@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`GETREADY`](https://clipboard.nexus-codes.app/?copy=GETREADY)
+
+100 Astrite, Two Premium Resonance Potions, and Five Advanced Energy Cores<br />*Added Dec 21, 2024*
+
+### [`OFFWEGO`](https://clipboard.nexus-codes.app/?copy=OFFWEGO)
+
+100 Astrite, 40,000 Shell Credits, and Two Forgery Premium Supplies<br />*Added Dec 21, 2024*
+
+### [`JOINCARNEVALE`](https://clipboard.nexus-codes.app/?copy=JOINCARNEVALE)
+
+100 Astrite, 20 Premium Tuners, and Five Advanced Sealed Tubes<br />*Added Dec 21, 2024*
+
 ### [`PTTMYZSOM`](https://clipboard.nexus-codes.app/?copy=PTTMYZSOM)
 
 5,000 Shell Credit, 5x Medium Energy Core, 2x Medium Resonance Potion<br />*Added Nov 15, 2024*

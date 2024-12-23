@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ZZZGFN24`](https://zenless.hoyoverse.com/redemption?code=ZZZGFN24)
+
+20,000 Dennies, 3 Official Investigator Log, 3 W Engine Power Supply<br />*Added Dec 23, 2024*
+
 ### [`ZZZASSEMBLE`](https://zenless.hoyoverse.com/redemption?code=ZZZASSEMBLE)
 
 30 Polychromes<br />*Added Dec 18, 2024*

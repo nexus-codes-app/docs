@@ -34,14 +34,6 @@ x50 Polychromes<br />*Added Dec 13, 2024*
 
 *Added Dec 6, 2024*
 
-### [`YANAGIGIFTALL`](https://zenless.hoyoverse.com/redemption?code=YANAGIGIFTALL)
-
-10k Denny, Ten Official Investigator Logs, Ten W Engine Power Supplies, and Ten Crystallized Plating Agents<br />*Added Nov 21, 2024*
-
-### [`SGJADSHBF`](https://zenless.hoyoverse.com/redemption?code=SGJADSHBF)
-
-60 Polychrome and 6,666 Denny<br />*Added Nov 7, 2024*
-
 ### [`ZENLESSGIFT`](https://zenless.hoyoverse.com/redemption?code=ZENLESSGIFT)
 
 50 Polychrome, 2 Official Investigator Log, 3 W Engine Power Supply, 1 Bangboo Algorithm Module<br />*Added Oct 7, 2024*

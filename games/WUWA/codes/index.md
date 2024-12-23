@@ -38,14 +38,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 5,000 Shell Credit, 5x Medium Energy Core, 2x Medium Resonance Potion<br />*Added Nov 15, 2024*
 
-### [`SHOREKEEPER`](https://clipboard.nexus-codes.app/?copy=SHOREKEEPER)
-
-100 Astrite<br />*Added Sep 20, 2024*
-
-### [`BLACKSHORES`](https://clipboard.nexus-codes.app/?copy=BLACKSHORES)
-
-100 Astrite<br />*Added Sep 20, 2024*
-
 ### [`WUTHERINGGIFT`](https://clipboard.nexus-codes.app/?copy=WUTHERINGGIFT)
 
 Two Premium Resonance Potions, Two Medium Revival Inhalers, Two Medium Energy Bags, 10k Shell Credits, and 50 Astrite<br />

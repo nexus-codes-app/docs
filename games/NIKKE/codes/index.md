@@ -18,10 +18,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 5x Normal Recruit Tickets<br />*Added Dec 20, 2024*
 
-### [`2YEARSANDCOUNTING`](https://clipboard.nexus-codes.app/?copy=2YEARSANDCOUNTING)
-
-Standard Recruit Voucher x10<br />*Added Nov 3, 2024*
-
 ### [`NIKKE2NDANNIVKRKOL`](https://clipboard.nexus-codes.app/?copy=NIKKE2NDANNIVKRKOL)
 
 Gem x600<br />*Added Oct 31, 2024*

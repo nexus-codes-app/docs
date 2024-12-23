@@ -26,10 +26,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 *Added Dec 11, 2024*
 
-### [`Spooky17`](https://clipboard.nexus-codes.app/?copy=Spooky17)
-
-*Added Nov 6, 2024*
-
 ### [`1mgift`](https://clipboard.nexus-codes.app/?copy=1mgift)
 
 *Added Nov 6, 2024*
@@ -127,18 +123,6 @@ Deacon Armostrong, 200k Silver, Epic Book X1, Magic Xp Brews X10
 
 Sun Wukong, 300k Silver, Greater Spirit Potions X15, Spirit Xp Brews X15 
 **New Players Only**<br />*Added Oct 7, 2024*
-
-### [`RaidVPlay`](https://clipboard.nexus-codes.app/?copy=RaidVPlay)
-
-*Added Oct 2, 2024*
-
-### [`amberfall2gt`](https://clipboard.nexus-codes.app/?copy=amberfall2gt)
-
-*Added Sep 11, 2024*
-
-### [`raidxotk`](https://clipboard.nexus-codes.app/?copy=raidxotk)
-
-*Added Aug 7, 2024*
 
 ### [`NINJARETURNS`](https://clipboard.nexus-codes.app/?copy=NINJARETURNS)
 

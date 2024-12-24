@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`snowraid`](https://clipboard.nexus-codes.app/?copy=snowraid)
+
+*Added Dec 24, 2024*
+
 ### [`PP500`](https://clipboard.nexus-codes.app/?copy=PP500)
 
 *Added Dec 11, 2024*

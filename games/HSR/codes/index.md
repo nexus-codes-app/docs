@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`AS3J6MNJVCA7`](https://hsr.hoyoverse.com/gift?code=AS3J6MNJVCA7)
+
+50 Stellar Jade and 10k Credits<br />*Added Dec 25, 2024*
+
 ### [`STARRAILTREND2024`](https://hsr.hoyoverse.com/gift?code=STARRAILTREND2024)
 
 Three Traveler S Guides and Two Potato Fries Sundaes<br />*Added Dec 20, 2024*

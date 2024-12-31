@@ -6,7 +6,7 @@ parent: Games
 
 # Raid: Shadow Legends
 
-![RAID](https://cdn.discordapp.com/emojis/1265002064136900669.png)
+![RAID](https://cdn.discordapp.com/emojis/1323743243682185260.png)
 
 ## Summary
 

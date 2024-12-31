@@ -7,7 +7,7 @@ search_exclude: true
 
 # Goddess of Victory: Nikke
 
-![NIKKE](https://cdn.discordapp.com/emojis/1270446040415207535.png)
+![NIKKE](https://cdn.discordapp.com/emojis/1323743264632995982.png)
 
 ## Codes Known to Nexus
 

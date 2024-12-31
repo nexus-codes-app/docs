@@ -7,7 +7,7 @@ search_exclude: true
 
 # Wuthering Waves
 
-![WUWA](https://cdn.discordapp.com/emojis/1266477000583811232.png)
+![WUWA](https://cdn.discordapp.com/emojis/1323743251664212030.png)
 
 ## Codes Known to Nexus
 

@@ -6,7 +6,7 @@ parent: Games
 
 # Genshin Impact
 
-![GI](https://cdn.discordapp.com/emojis/1266474989566034024.png)
+![GI](https://cdn.discordapp.com/emojis/1323743234974814211.png)
 
 ## Summary
 

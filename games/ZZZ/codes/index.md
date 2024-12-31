@@ -7,7 +7,7 @@ search_exclude: true
 
 # Zenless Zone Zero
 
-![ZZZ](https://cdn.discordapp.com/emojis/1264987656371310633.png)
+![ZZZ](https://cdn.discordapp.com/emojis/1323743245565427803.png)
 
 ## Codes Known to Nexus
 

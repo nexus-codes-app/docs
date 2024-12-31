@@ -6,7 +6,7 @@ parent: Games
 
 # Honkai Star Rail
 
-![HSR](https://cdn.discordapp.com/emojis/1264987654198399137.png)
+![HSR](https://cdn.discordapp.com/emojis/1323743255552331817.png)
 
 ## Summary
 

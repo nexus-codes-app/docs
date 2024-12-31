@@ -7,7 +7,7 @@ search_exclude: true
 
 # Arknights
 
-![ARK](https://cdn.discordapp.com/emojis/1270456178421534761.png)
+![ARK](https://cdn.discordapp.com/emojis/1323743267019428021.png)
 
 ## Codes Known to Nexus
 

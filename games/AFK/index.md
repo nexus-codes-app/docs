@@ -6,7 +6,7 @@ parent: Games
 
 # AFK Journey
 
-![AFK](https://cdn.discordapp.com/emojis/1264987657306509384.png)
+![AFK](https://cdn.discordapp.com/emojis/1323743261961093183.png)
 
 ## Summary
 

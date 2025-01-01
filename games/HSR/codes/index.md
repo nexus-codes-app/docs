@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`HSRSEASTHEDAY`](https://hsr.hoyoverse.com/gift?code=HSRSEASTHEDAY)
+
+60 Stellar Jade<br />*Added Jan 1, 2025*
+
 ### [`HSR3DAWEISGIFT`](https://hsr.hoyoverse.com/gift?code=HSR3DAWEISGIFT)
 
 100 Stellar Jade and Five Refined Aether<br />*Added Jan 1, 2025*

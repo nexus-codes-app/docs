@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`WEAV365PI953`](https://genshin.hoyoverse.com/en/gift?code=WEAV365PI953)
+
+10k Mora, Three Quenepa Berries, Ten Adventurer S Experience, and Five Fine Enhancement Ore<br />*Added Jan 2, 2025*
+
+### [`MAVUIKAWISHES`](https://genshin.hoyoverse.com/en/gift?code=MAVUIKAWISHES)
+
+30 Primogems and One Hymm Of Gathered Flame<br />*Added Jan 2, 2025*
+
 ### [`GENSHINGIFT`](https://genshin.hoyoverse.com/en/gift?code=GENSHINGIFT)
 
 50 Primogems and Three Hero S Wit  This Code Works Periodically<br />*Added Dec 27, 2024*

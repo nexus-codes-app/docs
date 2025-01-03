@@ -14,66 +14,66 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
-### [`NIKKECHRISTMASPARTY`](https://clipboard.nexus-codes.app/?copy=NIKKECHRISTMASPARTY)
+### [`NIKKECHRISTMASPARTY`](https://nexus-codes.app/copy/?code=NIKKECHRISTMASPARTY)
 
 Advaned Recruit Voucher x10<br />*Added Dec 24, 2024*
 
-### [`AWAKENRAPI`](https://clipboard.nexus-codes.app/?copy=AWAKENRAPI)
+### [`AWAKENRAPI`](https://nexus-codes.app/copy/?code=AWAKENRAPI)
 
 Gem x300<br />*Added Dec 24, 2024*
 
-### [`YROMEM`](https://clipboard.nexus-codes.app/?copy=YROMEM)
+### [`YROMEM`](https://nexus-codes.app/copy/?code=YROMEM)
 
 5x Normal Recruit Tickets<br />*Added Dec 20, 2024*
 
-### [`NIKKE2NDANNIVKRKOL`](https://clipboard.nexus-codes.app/?copy=NIKKE2NDANNIVKRKOL)
+### [`NIKKE2NDANNIVKRKOL`](https://nexus-codes.app/copy/?code=NIKKE2NDANNIVKRKOL)
 
 Gem x600<br />*Added Oct 31, 2024*
 
-### [`NIKKEONSATELLITE`](https://clipboard.nexus-codes.app/?copy=NIKKEONSATELLITE)
+### [`NIKKEONSATELLITE`](https://nexus-codes.app/copy/?code=NIKKEONSATELLITE)
 
 Recruit Voucher x1<br />*Added Oct 26, 2024*
 
-### [`NIKKEORIGIN`](https://clipboard.nexus-codes.app/?copy=NIKKEORIGIN)
+### [`NIKKEORIGIN`](https://nexus-codes.app/copy/?code=NIKKEORIGIN)
 
 Recruit Voucher x1<br />*Added Oct 26, 2024*
 
-### [`EEEEEEEEENTERTAINMENT`](https://clipboard.nexus-codes.app/?copy=EEEEEEEEENTERTAINMENT)
+### [`EEEEEEEEENTERTAINMENT`](https://nexus-codes.app/copy/?code=EEEEEEEEENTERTAINMENT)
 
 Recruit Voucher x5<br />*Added Oct 26, 2024*
 
-### [`ONLYMISSILISCANDO`](https://clipboard.nexus-codes.app/?copy=ONLYMISSILISCANDO)
+### [`ONLYMISSILISCANDO`](https://nexus-codes.app/copy/?code=ONLYMISSILISCANDO)
 
 Recruit Voucher x10<br />*Added Oct 26, 2024*
 
-### [`STAYTACTICAL`](https://clipboard.nexus-codes.app/?copy=STAYTACTICAL)
+### [`STAYTACTICAL`](https://nexus-codes.app/copy/?code=STAYTACTICAL)
 
 Gem x900<br />*Added Oct 26, 2024*
 
-### [`NIKKEFORYOU`](https://clipboard.nexus-codes.app/?copy=NIKKEFORYOU)
+### [`NIKKEFORYOU`](https://nexus-codes.app/copy/?code=NIKKEFORYOU)
 
 Credit 2h X1<br />*Added Aug 6, 2024*
 
-### [`NIKKE777`](https://clipboard.nexus-codes.app/?copy=NIKKE777)
+### [`NIKKE777`](https://nexus-codes.app/copy/?code=NIKKE777)
 
 Gem X100<br />*Added Aug 6, 2024*
 
-### [`NIKKE2023`](https://clipboard.nexus-codes.app/?copy=NIKKE2023)
+### [`NIKKE2023`](https://nexus-codes.app/copy/?code=NIKKE2023)
 
 Gem X100<br />*Added Aug 6, 2024*
 
-### [`NIKKE1104`](https://clipboard.nexus-codes.app/?copy=NIKKE1104)
+### [`NIKKE1104`](https://nexus-codes.app/copy/?code=NIKKE1104)
 
 Credit 2h X1<br />*Added Aug 6, 2024*
 
-### [`NIKKEFOR2023`](https://clipboard.nexus-codes.app/?copy=NIKKEFOR2023)
+### [`NIKKEFOR2023`](https://nexus-codes.app/copy/?code=NIKKEFOR2023)
 
 Gem X100<br />*Added Aug 6, 2024*
 
-### [`NIKKEPC`](https://clipboard.nexus-codes.app/?copy=NIKKEPC)
+### [`NIKKEPC`](https://nexus-codes.app/copy/?code=NIKKEPC)
 
 Gem X100<br />*Added Aug 6, 2024*
 
-### [`NIKKEFOR2024`](https://clipboard.nexus-codes.app/?copy=NIKKEFOR2024)
+### [`NIKKEFOR2024`](https://nexus-codes.app/copy/?code=NIKKEFOR2024)
 
 Gem X101<br />*Added Aug 6, 2024*

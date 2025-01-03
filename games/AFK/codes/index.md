@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Codes'
+title: 'AFK Redeem Codes'
 parent: 'AFK Journey'
 search_exclude: true
 ---

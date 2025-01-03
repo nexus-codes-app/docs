@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Codes'
+title: 'GI Redeem Codes'
 parent: 'Genshin Impact'
 search_exclude: true
 ---

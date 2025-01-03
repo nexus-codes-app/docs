@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Codes'
+title: 'ARK Redeem Codes'
 parent: 'Arknights'
 search_exclude: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Codes'
+title: 'NIKKE Redeem Codes'
 parent: 'Goddess of Victory: Nikke'
 search_exclude: true
 ---

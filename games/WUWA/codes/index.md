@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Codes'
+title: 'WUWA Redeem Codes'
 parent: 'Wuthering Waves'
 search_exclude: true
 ---

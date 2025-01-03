@@ -15,12 +15,12 @@ nav_exclude: true
         /* box-shadow: 1px 1px 2px #222 inset; */
     }
 
-    .content {
+    /* .content {
         /* background-color: #AAA !important; */
         padding: 20px;
         /* border-radius: 10px; */
         /* box-shadow: 1px 1px 10px #AAA; */
-    }
+    } */
 </style>
 
 <body onload="
@@ -30,8 +30,7 @@ nav_exclude: true
         document.getElementById('copy').innerHTML = copy;
     })();
 ">
-    <div class="main">
-        <div class="content" onclick="
+    <h1 onclick="
             (function() {
                 const textArea = document.createElement('textarea');
                 textArea.value = document.getElementById('copy').innerHTML;
@@ -47,8 +46,5 @@ nav_exclude: true
                 }
                 document.body.removeChild(textArea);
             })();
-        ">
-            <h1>Click or tap here to copy <code id="copy"></code> to your clipboard.</h1>
-        </div>
-    </div>
+        ">Click or tap here to copy <code id="copy"></code> to your clipboard.</h1>
 </body>

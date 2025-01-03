@@ -23,7 +23,7 @@ SendMessages
 
 What game is this submission for?
 
-Required: true
+Required: Yes
 
 Choices: *Choices will autocomplete.*
 
@@ -31,7 +31,7 @@ Choices: *Choices will autocomplete.*
 
 The code you want to submit.
 
-Required: true
+Required: Yes
 
 ### Rewards
 

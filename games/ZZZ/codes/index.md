@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'ZZZ Redeem Codes'
+title: 'Codes'
 parent: 'Zenless Zone Zero'
 search_exclude: true
 ---

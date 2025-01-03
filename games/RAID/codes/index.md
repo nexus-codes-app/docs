@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'RAID Redeem Codes'
+title: 'Codes'
 parent: 'Raid: Shadow Legends'
 search_exclude: true
 ---

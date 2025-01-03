@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'HSR Redeem Codes'
+title: 'Codes'
 parent: 'Honkai Star Rail'
 search_exclude: true
 ---

@@ -10,3 +10,6 @@ aux_links:
      - "https://invite.nexus-codes.app"
    "Nexus Support Server":
      - "https://support.nexus-codes.app"
+
+ga_tracking: G-3NVY258MHF
+ga_tracking_anonymize_ip: true

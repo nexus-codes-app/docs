@@ -12,15 +12,13 @@ nav_exclude: true
         background-color: #FFF;
         padding: 8px !important;
         border-radius: 3px;
-        /* box-shadow: 1px 1px 2px #222 inset; */
+        font-size: 150%;
+        line-height: 150%;
     }
-
-    /* .content {
-        /* background-color: #AAA !important; */
-        padding: 20px;
-        /* border-radius: 10px; */
-        /* box-shadow: 1px 1px 10px #AAA; */
-    } */
+    h1 {
+        font-size: 150%;
+        text-align: center;
+    }
 </style>
 
 <body onload="
@@ -46,5 +44,5 @@ nav_exclude: true
                 }
                 document.body.removeChild(textArea);
             })();
-        ">Click or tap here to copy <code id="copy"></code> to your clipboard.</h1>
+        ">Click or tap here to copy <br><code id="copy"></code><br> to your clipboard</h1>
 </body>

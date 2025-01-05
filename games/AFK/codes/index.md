@@ -14,6 +14,26 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`AFKJWhiteridge`](https://nexus-codes.app/copy/?code=AFKJWhiteridge)
+
+200 Diamonds<br />*Added Jan 5, 2025*
+
+### [`AFKJICESEASON`](https://nexus-codes.app/copy/?code=AFKJICESEASON)
+
+200 Diamonds<br />*Added Jan 5, 2025*
+
+### [`C7U11GL2FX`](https://nexus-codes.app/copy/?code=C7U11GL2FX)
+
+10x Summon Tickets<br />*Added Jan 5, 2025*
+
+### [`ChainsofEternity`](https://nexus-codes.app/copy/?code=ChainsofEternity)
+
+200 Diamonds<br />*Added Jan 5, 2025*
+
+### [`SNOWLORSAN`](https://nexus-codes.app/copy/?code=SNOWLORSAN)
+
+200 Diamonds<br />*Added Jan 5, 2025*
+
 ### [`3TL2U4S5M4`](https://nexus-codes.app/copy/?code=3TL2U4S5M4)
 
 500 Diamonds<br />*Added Nov 28, 2024*

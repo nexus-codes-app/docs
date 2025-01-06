@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`QI75N8V1J2G7`](https://hsr.hoyoverse.com/gift?code=QI75N8V1J2G7)
+
+20k Credits, Three Refined Aether, and Three Dreamville Specials<br />*Added Jan 6, 2025*
+
+### [`BZ61Z8D5Q6K1`](https://hsr.hoyoverse.com/gift?code=BZ61Z8D5Q6K1)
+
+20k Credits, Three Traveler S Guides, and Three Immortal S Delight<br />*Added Jan 6, 2025*
+
+### [`TT33Z3K5T7V1`](https://hsr.hoyoverse.com/gift?code=TT33Z3K5T7V1)
+
+20k Credits, Three Lost Crystals, and Three Clockie Pizzas  Whole<br />*Added Jan 6, 2025*
+
 ### [`IC66H7K4D1F3`](https://hsr.hoyoverse.com/gift?code=IC66H7K4D1F3)
 
 20,000 Credits, x3 Traveler S Guide, x3 Oat Cake Rolls<br />*Added Jan 6, 2025*

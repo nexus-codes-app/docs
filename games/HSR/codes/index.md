@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`IC66H7K4D1F3`](https://hsr.hoyoverse.com/gift?code=IC66H7K4D1F3)
+
+20,000 Credits, x3 Traveler S Guide, x3 Oat Cake Rolls<br />*Added Jan 6, 2025*
+
+### [`HSRFUGUE1225`](https://hsr.hoyoverse.com/gift?code=HSRFUGUE1225)
+
+x3 Traveler S Guide and x3 Immortal S Delight<br />*Added Jan 6, 2025*
+
 ### [`HSRSEASTHEDAY`](https://hsr.hoyoverse.com/gift?code=HSRSEASTHEDAY)
 
 60 Stellar Jade<br />*Added Jan 1, 2025*

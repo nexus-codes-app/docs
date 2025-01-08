@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`KAM7UKZGVRXZ`](https://genshin.hoyoverse.com/en/gift?code=KAM7UKZGVRXZ)
+
+20k Mora, One Stuffed N  Mashed Potatoes, One Fruity Trio, Two Chocolate, One Goulash, One Sweet Madame, One Chenyu Brew<br />*Added Jan 8, 2025*
+
 ### [`5A2WEGTVPXFV`](https://genshin.hoyoverse.com/en/gift?code=5A2WEGTVPXFV)
 
 x10 Mystic Enhancement Ore<br />*Added Jan 6, 2025*

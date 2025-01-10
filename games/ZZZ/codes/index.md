@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ASTRANOMICAL`](https://zenless.hoyoverse.com/redemption?code=ASTRANOMICAL)
+
+300 Polychrome, 30k Denny, Two Senior Investigator Logs, and Three W Engine Energy Modules<br />*Added Jan 10, 2025*
+
 ### [`LS7FG347AHRH`](https://zenless.hoyoverse.com/redemption?code=LS7FG347AHRH)
 
 10 Polychromes, 6666 Dennies, 4 Crystallized Plating Agent, 4 Official Investigator Log<br />*Added Jan 6, 2025*

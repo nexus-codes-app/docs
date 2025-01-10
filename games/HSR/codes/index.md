@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`LIGHTTHEWAY`](https://hsr.hoyoverse.com/gift?code=LIGHTTHEWAY)
+
+5000 Credits, x2 Odd Gummy Candy<br />*Added Jan 10, 2025*
+
+### [`HSRINGAMESTOP`](https://hsr.hoyoverse.com/gift?code=HSRINGAMESTOP)
+
+10,000 Credits, x4 Adventure Log, x2 Lost Gold Fragment, x3 Sweet Dreams Holographic Ticket<br />*Added Jan 10, 2025*
+
+### [`DEF3C9D0E1F2`](https://hsr.hoyoverse.com/gift?code=DEF3C9D0E1F2)
+
+20,000 Credits, x3 Traveler S Guide, x3 Cosmic Fried Rice<br />*Added Jan 10, 2025*
+
 ### [`QI75N8V1J2G7`](https://hsr.hoyoverse.com/gift?code=QI75N8V1J2G7)
 
 20k Credits, Three Refined Aether, and Three Dreamville Specials<br />*Added Jan 6, 2025*

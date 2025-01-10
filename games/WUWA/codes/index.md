@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`WUWA4PC`](https://nexus-codes.app/copy/?code=WUWA4PC)
+
+50 Astrites   Note  This Code Is Valid On Pc Only<br />*Added Jan 10, 2025*
+
 ### [`GETREADY`](https://nexus-codes.app/copy/?code=GETREADY)
 
 100 Astrite, Two Premium Resonance Potions, and Five Advanced Energy Cores<br />*Added Dec 21, 2024*

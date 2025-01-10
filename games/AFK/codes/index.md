@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`5BODYRYSRY`](https://nexus-codes.app/copy/?code=5BODYRYSRY)
+
+5x Epic Letters<br />*Added Jan 10, 2025*
+
 ### [`AFKJWhiteridge`](https://nexus-codes.app/copy/?code=AFKJWhiteridge)
 
 200 Diamonds<br />*Added Jan 5, 2025*

@@ -14,6 +14,22 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`AMPHOREUS0115`](https://hsr.hoyoverse.com/gift?code=AMPHOREUS0115)
+
+5,000 Credits and Two Clockie Pizzas  Whole<br />*Added Jan 13, 2025*
+
+### [`THEETERNALLAND`](https://hsr.hoyoverse.com/gift?code=THEETERNALLAND)
+
+5,000 Credits and Two Alfalfa Salads<br />*Added Jan 13, 2025*
+
+### [`AWAITSYOURLIGHT`](https://hsr.hoyoverse.com/gift?code=AWAITSYOURLIGHT)
+
+5,000 Credits and Two Golden Slumbernanas<br />*Added Jan 13, 2025*
+
+### [`REMEMBRANCE`](https://hsr.hoyoverse.com/gift?code=REMEMBRANCE)
+
+5,000 Credits and Two Potato Fries Sundaes<br />*Added Jan 13, 2025*
+
 ### [`LIGHTTHEWAY`](https://hsr.hoyoverse.com/gift?code=LIGHTTHEWAY)
 
 5000 Credits, x2 Odd Gummy Candy<br />*Added Jan 10, 2025*

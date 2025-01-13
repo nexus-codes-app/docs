@@ -45,16 +45,3 @@ x50 Polychromes<br />*Added Dec 13, 2024*
 ### [`VOIDHUNTER`](https://zenless.hoyoverse.com/redemption?code=VOIDHUNTER)
 
 *Added Dec 6, 2024*
-
-### [`ZENLESSGIFT`](https://zenless.hoyoverse.com/redemption?code=ZENLESSGIFT)
-
-50 Polychrome, 2 Official Investigator Log, 3 W Engine Power Supply, 1 Bangboo Algorithm Module<br />*Added Oct 7, 2024*
-
-### [`HSAHLWFEFE`](https://zenless.hoyoverse.com/redemption?code=HSAHLWFEFE)
-
-60 Polychrome, 6666 Dennies<br />*Added Oct 7, 2024*
-
-### [`ZZZ4PC`](https://zenless.hoyoverse.com/redemption?code=ZZZ4PC)
-
-50 Polychrome, 2 Official Investigator Log, 3 W Engine Power Supply, 1 Bangboo Algorithm Module 
-**This Code Can Only Be Redeemed In Game On Pc **<br />*Added Oct 7, 2024*

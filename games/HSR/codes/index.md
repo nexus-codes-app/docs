@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`EAJJPMN3DDE3`](https://hsr.hoyoverse.com/gift?code=EAJJPMN3DDE3)
+
+100 Stellar Jade and Four Refined Aether<br />*Added Jan 14, 2025*
+
+### [`BS3265PKCVXT`](https://hsr.hoyoverse.com/gift?code=BS3265PKCVXT)
+
+100 Stellar Jade and 50k Credits<br />*Added Jan 14, 2025*
+
+### [`RTKJPM6JVCFF`](https://hsr.hoyoverse.com/gift?code=RTKJPM6JVCFF)
+
+100 Stellar Jade and Five Traveler S Guides<br />*Added Jan 14, 2025*
+
 ### [`AMPHOREUS0115`](https://hsr.hoyoverse.com/gift?code=AMPHOREUS0115)
 
 5,000 Credits and Two Clockie Pizzas  Whole<br />*Added Jan 13, 2025*

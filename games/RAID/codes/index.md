@@ -14,6 +14,21 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`PESTCONTROL`](https://nexus-codes.app/copy/?code=PESTCONTROL)
+
+Hoskarul, Ten Spirit Brews, 200k Silver, and Ten Greater Spirit Potions  New  
+**New Players Only**<br />*Added Jan 15, 2025*
+
+### [`2QLRAID`](https://nexus-codes.app/copy/?code=2QLRAID)
+
+Luthiea, One Energy Refill, 15 Xp Brews, Multibattles, and 150k Silver  New  
+**New Players Only**<br />*Added Jan 15, 2025*
+
+### [`GETLOKI`](https://nexus-codes.app/copy/?code=GETLOKI)
+
+Loki the Deceiver, 15 Spirit Xp Brews, 300k Silver, and 15 Greater Spirit Potions  New  
+**New Players Only**<br />*Added Jan 15, 2025*
+
 ### [`snowraid`](https://nexus-codes.app/copy/?code=snowraid)
 
 *Added Dec 24, 2024*

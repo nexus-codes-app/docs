@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`HSRAWAITSYOU`](https://hsr.hoyoverse.com/gift?code=HSRAWAITSYOU)
+
+50 Stellar Jade, Two Traveler S Guides, Three Refined Aether, and 5k Credits<br />*Added Jan 15, 2025*
+
+### [`THISISTHEHERTA`](https://hsr.hoyoverse.com/gift?code=THISISTHEHERTA)
+
+2 Life Transmitter, 10,000 Credits<br />*Added Jan 15, 2025*
+
+### [`HELLOAMPHOREUS`](https://hsr.hoyoverse.com/gift?code=HELLOAMPHOREUS)
+
+2 High Tech Protective Gear, 10,000 Credits<br />*Added Jan 15, 2025*
+
 ### [`ABC1CDEF0123`](https://hsr.hoyoverse.com/gift?code=ABC1CDEF0123)
 
 50 Stellar Jade and 10k Credits<br />*Added Jan 15, 2025*

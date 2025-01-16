@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ZENLESSGIFT`](https://zenless.hoyoverse.com/redemption?code=ZENLESSGIFT)
+
+50 Polychrome, Two Official Investigator Logs, Three W Engine Power Supplies, and One Bangboo Algorithm Module<br />*Added Jan 16, 2025*
+
+### [`HSAHLWFEFE`](https://zenless.hoyoverse.com/redemption?code=HSAHLWFEFE)
+
+60 Polychrome and 6,666 Denny<br />*Added Jan 16, 2025*
+
+### [`ZZZ4PC`](https://zenless.hoyoverse.com/redemption?code=ZZZ4PC)
+
+50 Polychrome, Two Official Investigator Logs, Three W Engine Power Supply, and One Bangboo Algorithm Module   You Can Only Redeem Through the Game On Pc<br />*Added Jan 16, 2025*
+
 ### [`ASTRANOMICAL`](https://zenless.hoyoverse.com/redemption?code=ASTRANOMICAL)
 
 300 Polychrome, 30k Denny, Two Senior Investigator Logs, and Three W Engine Energy Modules<br />*Added Jan 10, 2025*

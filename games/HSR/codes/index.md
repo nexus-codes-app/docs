@@ -14,6 +14,26 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`WA3BP6Q7R8S9`](https://hsr.hoyoverse.com/gift?code=WA3BP6Q7R8S9)
+
+20k Credits and Three Rough Sketches<br />*Added Jan 20, 2025*
+
+### [`THEHERTAGIFT`](https://hsr.hoyoverse.com/gift?code=THEHERTAGIFT)
+
+Six Adventure Logs and Two Disposable Shields<br />*Added Jan 20, 2025*
+
+### [`NEWWORLD0115`](https://hsr.hoyoverse.com/gift?code=NEWWORLD0115)
+
+20k Credits and Three Steelclaw Daggers<br />*Added Jan 20, 2025*
+
+### [`HERTAGIFT`](https://hsr.hoyoverse.com/gift?code=HERTAGIFT)
+
+Six Adventure Logs and Two Automatic Wooden Dummies<br />*Added Jan 20, 2025*
+
+### [`HSRANIMATE2025`](https://hsr.hoyoverse.com/gift?code=HSRANIMATE2025)
+
+10k Credits, Three Lost Gold Fragments, and Two Chrysos Heir Doliums<br />*Added Jan 20, 2025*
+
 ### [`IFYOUAREREADINGTHIS`](https://hsr.hoyoverse.com/gift?code=IFYOUAREREADINGTHIS)
 
 60 Stellar Jade and One Fuel<br />*Added Jan 17, 2025*

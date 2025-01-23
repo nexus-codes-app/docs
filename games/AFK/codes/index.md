@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`FARLIGHTHAPPY2025`](https://nexus-codes.app/copy/?code=FARLIGHTHAPPY2025)
+
+5x Epic Letters + 2025 Diamonds<br />*Added Jan 22, 2025*
+
 ### [`5BODYRYSRY`](https://nexus-codes.app/copy/?code=5BODYRYSRY)
 
 5x Epic Letters<br />*Added Jan 10, 2025*

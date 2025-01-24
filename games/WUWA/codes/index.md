@@ -38,18 +38,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 100 Astrite, 20 Premium Tuners, and Five Advanced Sealed Tubes<br />*Added Dec 21, 2024*
 
-### [`PTTMYZSOM`](https://nexus-codes.app/copy/?code=PTTMYZSOM)
-
-5,000 Shell Credit, 5x Medium Energy Core, 2x Medium Resonance Potion<br />*Added Nov 15, 2024*
-
-### [`BAHAMUTKXMHM`](https://nexus-codes.app/copy/?code=BAHAMUTKXMHM)
-
-5,000 Shell Credit, 5x Medium Energy Core, 2x Medium Resonance Potion<br />*Added Nov 15, 2024*
-
-### [`DCARD3VN7M`](https://nexus-codes.app/copy/?code=DCARD3VN7M)
-
-5,000 Shell Credit, 5x Medium Energy Core, 2x Medium Resonance Potion<br />*Added Nov 15, 2024*
-
 ### [`WUTHERINGGIFT`](https://nexus-codes.app/copy/?code=WUTHERINGGIFT)
 
 Two Premium Resonance Potions, Two Medium Revival Inhalers, Two Medium Energy Bags, 10k Shell Credits, and 50 Astrite<br />

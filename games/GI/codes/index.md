@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`AisaBathhouse`](https://genshin.hoyoverse.com/en/gift?code=AisaBathhouse)
+
+100 Primogems and 50k Mora<br />*Added Jan 24, 2025*
+
+### [`Mizuki0212Mizuki`](https://genshin.hoyoverse.com/en/gift?code=Mizuki0212Mizuki)
+
+100 Primogems and Five Hero S Wit<br />*Added Jan 24, 2025*
+
+### [`GISpecialProgram54`](https://genshin.hoyoverse.com/en/gift?code=GISpecialProgram54)
+
+100 Primogems and Ten Mystic Enhancement Ore<br />*Added Jan 24, 2025*
+
 ### [`FORNATLAN`](https://genshin.hoyoverse.com/en/gift?code=FORNATLAN)
 
 40 Primogems, Five Withering Purpurbloom, and Three Warrior S Metal Whistles<br />*Added Jan 10, 2025*

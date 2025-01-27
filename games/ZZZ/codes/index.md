@@ -14,6 +14,34 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ZENLESSLAUNCH`](https://zenless.hoyoverse.com/redemption?code=ZENLESSLAUNCH)
+
+60 Polychrome, 6666 Denny<br />*Added Jan 27, 2025*
+
+### [`KANURBT5MQ8D`](https://zenless.hoyoverse.com/redemption?code=KANURBT5MQ8D)
+
+40 Polychrome<br />*Added Jan 27, 2025*
+
+### [`CATCHABOO`](https://zenless.hoyoverse.com/redemption?code=CATCHABOO)
+
+30 Polychrome<br />*Added Jan 27, 2025*
+
+### [`BANDP43VWC7H`](https://zenless.hoyoverse.com/redemption?code=BANDP43VWC7H)
+
+60 Polychromes, 6666 Dennies<br />*Added Jan 27, 2025*
+
+### [`TOURDEINFERNO`](https://zenless.hoyoverse.com/redemption?code=TOURDEINFERNO)
+
+300 Polychrome, 30,000 Dennies, 2 Senior Investigator Log, 3 W Engine Energy Modules<br />*Added Jan 27, 2025*
+
+### [`SGJADSHBF`](https://zenless.hoyoverse.com/redemption?code=SGJADSHBF)
+
+60 Polychrome, 6666 Dennies<br />*Added Jan 27, 2025*
+
+### [`YANAGIGIFTALL`](https://zenless.hoyoverse.com/redemption?code=YANAGIGIFTALL)
+
+10,000 Dennies, 10 Official Investigator Log, 1  W Engine Power Supply, 10 Crystallized Plating Agent<br />*Added Jan 27, 2025*
+
 ### [`ZZZ15MINA`](https://zenless.hoyoverse.com/redemption?code=ZZZ15MINA)
 
 60 Polychrome and 6,666 Dennies<br />*Added Jan 22, 2025*

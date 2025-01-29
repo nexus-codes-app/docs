@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`GS54MTX685`](https://genshin.hoyoverse.com/en/gift?code=GS54MTX685)
+
+30,000 Mora, x3 Vayuda Turquoise Sliver, x3 Guide To Transience, x3 Hero S Wit, x5 Fine Enhancement Ore<br />*Added Jan 29, 2025*
+
 ### [`UTLO4OA55PA7`](https://genshin.hoyoverse.com/en/gift?code=UTLO4OA55PA7)
 
 10,000 Mora, x5 Adventurer S Experience, x5 Fine Enhancement Ore, x5 Stir Fried Fish Noodles, x5 Jueyun Chili Chicken<br />*Added Jan 27, 2025*

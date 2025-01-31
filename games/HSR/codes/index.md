@@ -14,6 +14,26 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`3V2WG3H4I5J6`](https://hsr.hoyoverse.com/gift?code=3V2WG3H4I5J6)
+
+20,000 Credits, x3 Refined Aether, x3 Energy Drink<br />*Added Jan 31, 2025*
+
+### [`PYB9C9D0E1F2`](https://hsr.hoyoverse.com/gift?code=PYB9C9D0E1F2)
+
+20,000 Credits, x3 Traveler S Guide, x3 Tasty Field Nutrient Bar<br />*Added Jan 31, 2025*
+
+### [`M1K2I1J2K3L4`](https://hsr.hoyoverse.com/gift?code=M1K2I1J2K3L4)
+
+20,000 Credits, x3 Lost Crystal, x3 Disposable Kinetic Cannon<br />*Added Jan 31, 2025*
+
+### [`5O6PU1V2W3X4`](https://hsr.hoyoverse.com/gift?code=5O6PU1V2W3X4)
+
+20,000 Credits, x3 Traveler S Guide, x3 Dried Sagelore Fruit<br />*Added Jan 31, 2025*
+
+### [`PS9RM3N4O5P6`](https://hsr.hoyoverse.com/gift?code=PS9RM3N4O5P6)
+
+20,000 Credits, x3 Traveler S Guide, x3 Rough Brew Ambrosia<br />*Added Jan 31, 2025*
+
 ### [`W7X8Q8R9S0T1`](https://hsr.hoyoverse.com/gift?code=W7X8Q8R9S0T1)
 
 20k Credits, Three Lost Crystals, and Three Topological Acceleration Bands<br />*Added Jan 27, 2025*

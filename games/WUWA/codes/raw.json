@@ -1,5 +1,20 @@
 [
   {
+    "code": "SETSAIL",
+    "rewards": "100 Astrite, Three Advanced Enclosure Tanks, and 20k Shell Credits",
+    "date": "2025-02-07T12:00:09.723Z"
+  },
+  {
+    "code": "TREASUREHUNT",
+    "rewards": "100 Astrite, Three Advanced Resonance Potions, and Two Medium Revivals Inhalers",
+    "date": "2025-02-07T11:30:08.407Z"
+  },
+  {
+    "code": "VAULTOPS",
+    "rewards": "100 Astrite, Three Advanced Energy Cores, and Two Medium Nutrient Blocks",
+    "date": "2025-02-07T11:30:08.407Z"
+  },
+  {
     "code": "STARRYSTAGE",
     "rewards": "80 Astrite, Five Advanced Resonance Potions, and Five Advanced Enclosure Tanks",
     "date": "2025-01-20T18:00:03.680Z"

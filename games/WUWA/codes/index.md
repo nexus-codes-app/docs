@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`SETSAIL`](https://nexus-codes.app/copy/?code=SETSAIL)
+
+100 Astrite, Three Advanced Enclosure Tanks, and 20k Shell Credits<br />*Added Feb 7, 2025*
+
+### [`TREASUREHUNT`](https://nexus-codes.app/copy/?code=TREASUREHUNT)
+
+100 Astrite, Three Advanced Resonance Potions, and Two Medium Revivals Inhalers<br />*Added Feb 7, 2025*
+
+### [`VAULTOPS`](https://nexus-codes.app/copy/?code=VAULTOPS)
+
+100 Astrite, Three Advanced Energy Cores, and Two Medium Nutrient Blocks<br />*Added Feb 7, 2025*
+
 ### [`STARRYSTAGE`](https://nexus-codes.app/copy/?code=STARRYSTAGE)
 
 80 Astrite, Five Advanced Resonance Potions, and Five Advanced Enclosure Tanks<br />*Added Jan 20, 2025*

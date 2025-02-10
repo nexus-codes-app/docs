@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`AFKJfuyuyo`](https://nexus-codes.app/copy/?code=AFKJfuyuyo)
+
+200 Diamonds + Gold<br />*Added Feb 10, 2025*
+
+### [`MVH8L2O34J`](https://nexus-codes.app/copy/?code=MVH8L2O34J)
+
+500 Diamonds + Gold<br />*Added Feb 10, 2025*
+
 ### [`FARLIGHTHAPPY2025`](https://nexus-codes.app/copy/?code=FARLIGHTHAPPY2025)
 
 5x Epic Letters + 2025 Diamonds<br />*Added Jan 22, 2025*

@@ -282,14 +282,6 @@ Cm26efgh5678<br />*Added Dec 5, 2024*
 
 50 Stellar Jade and 10k Credits<br />*Added Dec 4, 2024*
 
-### [`WOVPRK19JGM41`](https://hsr.hoyoverse.com/gift?code=WOVPRK19JGM41)
-
-20,000 Credits, x3 Lost Crystal, x3 Dreamy Cone<br />*Added Dec 3, 2024*
-
-### [`VCUB4T2V4L8N5`](https://hsr.hoyoverse.com/gift?code=VCUB4T2V4L8N5)
-
-20,000 Credits, x3 Classic Soulglad, x3 Refined Aether<br />*Added Dec 3, 2024*
-
 ### [`5S6ZHRWTDNJB`](https://hsr.hoyoverse.com/gift?code=5S6ZHRWTDNJB)
 
 60 Stellar Jade<br />*Added Nov 12, 2024*

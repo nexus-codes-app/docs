@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`7A324EYX6SHT`](https://hsr.hoyoverse.com/gift?code=7A324EYX6SHT)
+
+100 Stellar Jade and 50k Credits<br />*Added Feb 14, 2025*
+
 ### [`BP6Q5Z6X7C8VB`](https://hsr.hoyoverse.com/gift?code=BP6Q5Z6X7C8VB)
 
 20k Credits and Three Bija Of Consciousness<br />*Added Feb 10, 2025*

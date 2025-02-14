@@ -85,7 +85,3 @@ x50 Polychromes<br />*Added Dec 13, 2024*
 ### [`ZZZFM`](https://zenless.hoyoverse.com/redemption?code=ZZZFM)
 
 50,000 Dennies, 3 Senior Investigator Log, 3 W Engine Energy Model, 3 Ether Plating Agent, 1 Ether Battery<br />*Added Dec 13, 2024*
-
-### [`VOIDHUNTER`](https://zenless.hoyoverse.com/redemption?code=VOIDHUNTER)
-
-*Added Dec 6, 2024*

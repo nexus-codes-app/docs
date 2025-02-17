@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`5S6ZHRWTDNJB`](https://hsr.hoyoverse.com/gift?code=5S6ZHRWTDNJB)
+
+60 Stellar Jade<br />*Added Feb 17, 2025*
+
+### [`4TKSX77Y58QK`](https://hsr.hoyoverse.com/gift?code=4TKSX77Y58QK)
+
+30 Stellar Jade, Three Traveler S Guides, Five Condensed Aether, Four Lost Gold Fragments, and 20k Credits<br />*Added Feb 17, 2025*
+
 ### [`4A2KLEHFPBGF`](https://hsr.hoyoverse.com/gift?code=4A2KLEHFPBGF)
 
 100 Stellar Jade, x5 Traveler S Guide<br />*Added Feb 14, 2025*
@@ -273,10 +281,6 @@ x3 Traveler S Guide and x2 Classic Soulglad<br />*Added Dec 19, 2024*
 ### [`HAPPYSUNDAY`](https://hsr.hoyoverse.com/gift?code=HAPPYSUNDAY)
 
 5k Credits and Two Halovian Winged Burgers<br />*Added Dec 16, 2024*
-
-### [`THANKSPOMPOM`](https://hsr.hoyoverse.com/gift?code=THANKSPOMPOM)
-
-Three Condensed Aether, Two Lost Gold Fragments, Three Halovian Winged Burgers, and 10k Credits<br />*Added Dec 9, 2024*
 
 ### [`STARRAILGIFT`](https://hsr.hoyoverse.com/gift?code=STARRAILGIFT)
 

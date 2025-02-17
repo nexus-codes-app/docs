@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`11KU0MNDK2RG`](https://genshin.hoyoverse.com/en/gift?code=11KU0MNDK2RG)
+
+60 Primogems and Five Adventurer S Experience<br />*Added Feb 17, 2025*
+
+### [`RB5PPN4BV355`](https://genshin.hoyoverse.com/en/gift?code=RB5PPN4BV355)
+
+30 Primogems, Three Sea Ganoderma, Three Hero S Wit, and 20k Mora<br />*Added Feb 17, 2025*
+
+### [`JCWJFZG57YFW`](https://genshin.hoyoverse.com/en/gift?code=JCWJFZG57YFW)
+
+10k Mora, Ten Adventurer S Experience, Five Mystic Enhancement Ore, Five Stir Fried Fish Noodles, and Five Jueyun Chili Chicken<br />*Added Feb 17, 2025*
+
 ### [`GS54MTX685`](https://genshin.hoyoverse.com/en/gift?code=GS54MTX685)
 
 30,000 Mora, x3 Vayuda Turquoise Sliver, x3 Guide To Transience, x3 Hero S Wit, x5 Fine Enhancement Ore<br />*Added Jan 29, 2025*

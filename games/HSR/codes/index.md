@@ -14,6 +14,78 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`XRPTL1P7K5H8W`](https://hsr.hoyoverse.com/gift?code=XRPTL1P7K5H8W)
+
+x3 Traveler S Guide, x3 Five Grain Jade Elixir, 20,000 Credits<br />*Added Feb 17, 2025*
+
+### [`NOHOTFOODPLEASE`](https://hsr.hoyoverse.com/gift?code=NOHOTFOODPLEASE)
+
+x3 Traveler S Guide and x2 Five Grain Jade Elixir<br />*Added Feb 17, 2025*
+
+### [`YUNLISNACK`](https://hsr.hoyoverse.com/gift?code=YUNLISNACK)
+
+x3 Traveler S Guide, x6 Berrypheasant Skewers<br />*Added Feb 17, 2025*
+
+### [`5TJE2WYM6C6T`](https://hsr.hoyoverse.com/gift?code=5TJE2WYM6C6T)
+
+5000 Credits and x2 Signature Chili Oil Beef Offal Stew<br />*Added Feb 17, 2025*
+
+### [`BKWHQ9B3G7T1M`](https://hsr.hoyoverse.com/gift?code=BKWHQ9B3G7T1M)
+
+x3 Traveler S Guide, x3 Immortal S Delight, 20,000 Credits<br />*Added Feb 17, 2025*
+
+### [`FEIXIAOGIFT`](https://hsr.hoyoverse.com/gift?code=FEIXIAOGIFT)
+
+x2 Adventure Log and 5000 Credits<br />*Added Feb 17, 2025*
+
+### [`3S3XKXZ5NU27`](https://hsr.hoyoverse.com/gift?code=3S3XKXZ5NU27)
+
+50 Stellar Jades, 10,000 Credits<br />*Added Feb 17, 2025*
+
+### [`MGLFK6N2C8Y4V`](https://hsr.hoyoverse.com/gift?code=MGLFK6N2C8Y4V)
+
+x3 Traveler S Guide, x3 Jade Marrow Difusion, 20,000 Credits<br />*Added Feb 17, 2025*
+
+### [`MISTERRATIO`](https://hsr.hoyoverse.com/gift?code=MISTERRATIO)
+
+20,000 Credits and x3 Origami Cake<br />*Added Feb 17, 2025*
+
+### [`VNQCT6Y2L8N4K`](https://hsr.hoyoverse.com/gift?code=VNQCT6Y2L8N4K)
+
+x3 Refined Aether, x3 Health Detox Pill, 20,000 Credits<br />*Added Feb 17, 2025*
+
+### [`VBKJP473VCS3`](https://hsr.hoyoverse.com/gift?code=VBKJP473VCS3)
+
+10,000 Credits, x50 Stellar Jade<br />*Added Feb 17, 2025*
+
+### [`4AKKCZQF92P3`](https://hsr.hoyoverse.com/gift?code=4AKKCZQF92P3)
+
+x3 Lost Crystal and x2 Dreamlight Mixed Sweets<br />*Added Feb 17, 2025*
+
+### [`HBKKDH9FR3NX`](https://hsr.hoyoverse.com/gift?code=HBKKDH9FR3NX)
+
+x3 Lost Crystal and x2 Scare Box<br />*Added Feb 17, 2025*
+
+### [`TINGYUNISBACK`](https://hsr.hoyoverse.com/gift?code=TINGYUNISBACK)
+
+5,000 Credits, x2 Immortal S Delight<br />*Added Feb 17, 2025*
+
+### [`HJSZQ4C8H2F6W`](https://hsr.hoyoverse.com/gift?code=HJSZQ4C8H2F6W)
+
+x3 Lost Crystal, x3 Amber Huadiao Wine, 20,000 Credits<br />*Added Feb 17, 2025*
+
+### [`CM25RWG44W62`](https://hsr.hoyoverse.com/gift?code=CM25RWG44W62)
+
+x3 Traveler S Guide, 30,000 Credits<br />*Added Feb 17, 2025*
+
+### [`HSRCHOCOLATE2025`](https://hsr.hoyoverse.com/gift?code=HSRCHOCOLATE2025)
+
+x6 Adventure Log and x2  Dreamlight  Mixed Sweet<br />*Added Feb 17, 2025*
+
+### [`THANKSPOMPOM`](https://hsr.hoyoverse.com/gift?code=THANKSPOMPOM)
+
+10,000 Credits, x3 Condensed Aether, x2 Lost Gold Fragment, x3 Halovian Winged Burger<br />*Added Feb 17, 2025*
+
 ### [`5S6ZHRWTDNJB`](https://hsr.hoyoverse.com/gift?code=5S6ZHRWTDNJB)
 
 60 Stellar Jade<br />*Added Feb 17, 2025*

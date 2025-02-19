@@ -37,10 +37,6 @@ Loki the Deceiver, 15 Spirit Xp Brews, 300k Silver, and 15 Greater Spirit Potion
 
 *Added Dec 24, 2024*
 
-### [`PP500`](https://nexus-codes.app/copy/?code=PP500)
-
-*Added Dec 11, 2024*
-
 ### [`only4midgamesubs`](https://nexus-codes.app/copy/?code=only4midgamesubs)
 
 *Added Dec 11, 2024*

@@ -257,7 +257,3 @@ x5 Hero S Wit<br />*Added Jan 6, 2025*
 ### [`UAMPGJASECZH`](https://genshin.hoyoverse.com/en/gift?code=UAMPGJASECZH)
 
 100 Primogems and Ten Mystic Enhancement Ore<br />*Added Dec 20, 2024*
-
-### [`EAOL18BJ8S64`](https://genshin.hoyoverse.com/en/gift?code=EAOL18BJ8S64)
-
-10,000 Mora, x10 Adventurer S Experience, x5 Fine Enhancement Ore, x5 Stir Fried Fish Noodles, x5 Jueyun Chili Chicken<br />*Added Dec 13, 2024*

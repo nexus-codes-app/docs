@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`POKAPOKAGENSHIN`](https://genshin.hoyoverse.com/en/gift?code=POKAPOKAGENSHIN)
+
+x5 Sea Ganoderma, x5 Kageuchi Handguard, x3 Hero S Wit, x1 Dreams Of Healing<br />*Added Feb 24, 2025*
+
 ### [`11KU0MNDK2RG`](https://genshin.hoyoverse.com/en/gift?code=11KU0MNDK2RG)
 
 60 Primogems and Five Adventurer S Experience<br />*Added Feb 17, 2025*

@@ -350,10 +350,6 @@ x3 Traveler S Guide and x2 Classic Soulglad<br />*Added Dec 19, 2024*
 
 30,000 Credits and x3 Traveler S Guide<br />*Added Dec 19, 2024*
 
-### [`HAPPYSUNDAY`](https://hsr.hoyoverse.com/gift?code=HAPPYSUNDAY)
-
-5k Credits and Two Halovian Winged Burgers<br />*Added Dec 16, 2024*
-
 ### [`STARRAILGIFT`](https://hsr.hoyoverse.com/gift?code=STARRAILGIFT)
 
 50 Stellar Jades + EXP materials<br />

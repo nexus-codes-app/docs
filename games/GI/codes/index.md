@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`7B476N4TDJ6V`](https://genshin.hoyoverse.com/en/gift?code=7B476N4TDJ6V)
+
+20,000 Mora, x2 Teyvat Fried Egg, x1 Crepes Suzette, x1 Cold Cut Platter, x1 Tea Break Pancake, x1 Matsutake Meat Rolls, x1 Sparkling Berry Juice<br />*Added Feb 27, 2025*
+
 ### [`POKAPOKAGENSHIN`](https://genshin.hoyoverse.com/en/gift?code=POKAPOKAGENSHIN)
 
 x5 Sea Ganoderma, x5 Kageuchi Handguard, x3 Hero S Wit, x1 Dreams Of Healing<br />*Added Feb 24, 2025*

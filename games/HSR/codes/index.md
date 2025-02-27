@@ -346,14 +346,6 @@ Three Traveler S Guides and 20k Credits<br />*Added Jan 1, 2025*
 
 Three Traveler S Guides and Two Potato Fries Sundaes<br />*Added Dec 20, 2024*
 
-### [`SUNDAYCALENDAR`](https://hsr.hoyoverse.com/gift?code=SUNDAYCALENDAR)
-
-x3 Traveler S Guide and x2 Classic Soulglad<br />*Added Dec 19, 2024*
-
-### [`YF61G7F3P4Q2`](https://hsr.hoyoverse.com/gift?code=YF61G7F3P4Q2)
-
-30,000 Credits and x3 Traveler S Guide<br />*Added Dec 19, 2024*
-
 ### [`STARRAILGIFT`](https://hsr.hoyoverse.com/gift?code=STARRAILGIFT)
 
 50 Stellar Jades + EXP materials<br />

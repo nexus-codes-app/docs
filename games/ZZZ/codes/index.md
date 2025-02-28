@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`SOLDIER0ANBY`](https://zenless.hoyoverse.com/redemption?code=SOLDIER0ANBY)
+
+300 Polychrome, 30k Denny, Two Senior Investigator Logs, and Three W Engine Energy Modules<br />*Added Feb 28, 2025*
+
 ### [`ZENLESSLAUNCH`](https://zenless.hoyoverse.com/redemption?code=ZENLESSLAUNCH)
 
 60 Polychrome, 6666 Denny<br />*Added Jan 27, 2025*

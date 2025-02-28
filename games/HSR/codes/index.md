@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`WHEREISTRIBBIE`](https://hsr.hoyoverse.com/gift?code=WHEREISTRIBBIE)
+
+x3 Traveler S Guide and x2 Oronyx Slate<br />*Added Feb 28, 2025*
+
 ### [`2A3LF64ANXSX`](https://hsr.hoyoverse.com/gift?code=2A3LF64ANXSX)
 
 50 Stellar Jade and 10k Credits<br />*Added Feb 26, 2025*

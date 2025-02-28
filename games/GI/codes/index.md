@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`XA4N66LAC349`](https://genshin.hoyoverse.com/en/gift?code=XA4N66LAC349)
+
+20,000 Mora, x2 Fruit Flavored Milk Candies, x2 Dreams Of Healing, x2 Impeccably Organized<br />*Added Feb 28, 2025*
+
 ### [`7B476N4TDJ6V`](https://genshin.hoyoverse.com/en/gift?code=7B476N4TDJ6V)
 
 20,000 Mora, x2 Teyvat Fried Egg, x1 Crepes Suzette, x1 Cold Cut Platter, x1 Tea Break Pancake, x1 Matsutake Meat Rolls, x1 Sparkling Berry Juice<br />*Added Feb 27, 2025*
@@ -253,15 +257,3 @@ x5 Hero S Wit<br />*Added Jan 6, 2025*
 ### [`SDKLSK67TZ1X`](https://genshin.hoyoverse.com/en/gift?code=SDKLSK67TZ1X)
 
 10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, and Three Seasoned Fangs<br />*Added Dec 27, 2024*
-
-### [`4SLPH3BSFVH9`](https://genshin.hoyoverse.com/en/gift?code=4SLPH3BSFVH9)
-
-100 Primogems and 50k Mora<br />*Added Dec 20, 2024*
-
-### [`LT5NH2TTXUHM`](https://genshin.hoyoverse.com/en/gift?code=LT5NH2TTXUHM)
-
-100 Primogems and Five Hero S Wit<br />*Added Dec 20, 2024*
-
-### [`UAMPGJASECZH`](https://genshin.hoyoverse.com/en/gift?code=UAMPGJASECZH)
-
-100 Primogems and Ten Mystic Enhancement Ore<br />*Added Dec 20, 2024*

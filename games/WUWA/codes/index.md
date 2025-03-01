@@ -38,18 +38,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 50 Astrites   Note  This Code Is Valid On Pc Only<br />*Added Jan 10, 2025*
 
-### [`GETREADY`](https://nexus-codes.app/copy/?code=GETREADY)
-
-100 Astrite, Two Premium Resonance Potions, and Five Advanced Energy Cores<br />*Added Dec 21, 2024*
-
-### [`OFFWEGO`](https://nexus-codes.app/copy/?code=OFFWEGO)
-
-100 Astrite, 40,000 Shell Credits, and Two Forgery Premium Supplies<br />*Added Dec 21, 2024*
-
-### [`JOINCARNEVALE`](https://nexus-codes.app/copy/?code=JOINCARNEVALE)
-
-100 Astrite, 20 Premium Tuners, and Five Advanced Sealed Tubes<br />*Added Dec 21, 2024*
-
 ### [`WUTHERINGGIFT`](https://nexus-codes.app/copy/?code=WUTHERINGGIFT)
 
 Two Premium Resonance Potions, Two Medium Revival Inhalers, Two Medium Energy Bags, 10k Shell Credits, and 50 Astrite<br />

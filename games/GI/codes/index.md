@@ -14,6 +14,22 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`4SLPH3BSFVH9`](https://genshin.hoyoverse.com/en/gift?code=4SLPH3BSFVH9)
+
+100 Primogems, 50,000 Mora<br />*Added Mar 3, 2025*
+
+### [`LT5NH2TTXUHM`](https://genshin.hoyoverse.com/en/gift?code=LT5NH2TTXUHM)
+
+100 Primogems, 5 Hero S Wit<br />*Added Mar 3, 2025*
+
+### [`UAMPGJASECZH`](https://genshin.hoyoverse.com/en/gift?code=UAMPGJASECZH)
+
+100 Primogems, 10 Mystic Enhancement Ore<br />*Added Mar 3, 2025*
+
+### [`EAOL18BJ8S64`](https://genshin.hoyoverse.com/en/gift?code=EAOL18BJ8S64)
+
+10,000 Mora, x10 Adventurer S Experience, x5 Fine Enhancement Ore, x5 Stir Fried Fish Noodles, x5 Jueyun Chili Chicken<br />*Added Mar 3, 2025*
+
 ### [`XA4N66LAC349`](https://genshin.hoyoverse.com/en/gift?code=XA4N66LAC349)
 
 20,000 Mora, x2 Fruit Flavored Milk Candies, x2 Dreams Of Healing, x2 Impeccably Organized<br />*Added Feb 28, 2025*

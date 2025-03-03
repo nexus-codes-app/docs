@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`OFFWEGO`](https://nexus-codes.app/copy/?code=OFFWEGO)
+
+100 Astrite, x2 Forgery Premium Supply, 40,000 Shell Credits<br />*Added Mar 3, 2025*
+
+### [`JOINCARNEVALE`](https://nexus-codes.app/copy/?code=JOINCARNEVALE)
+
+100 Astrite, x20 Premium Tuner, x5 Advanced Sealed Tube<br />*Added Mar 3, 2025*
+
+### [`GETREADY`](https://nexus-codes.app/copy/?code=GETREADY)
+
+100 Astrite, x4 Premium Resonance Potions, x5 Advanced Energy Core<br />*Added Mar 3, 2025*
+
 ### [`SETSAIL`](https://nexus-codes.app/copy/?code=SETSAIL)
 
 100 Astrite, Three Advanced Enclosure Tanks, and 20k Shell Credits<br />*Added Feb 7, 2025*

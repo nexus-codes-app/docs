@@ -1,5 +1,20 @@
 [
   {
+    "code": "OFFWEGO",
+    "rewards": "100 Astrite, x2 Forgery Premium Supply, 40,000 Shell Credits",
+    "date": "2025-03-03T17:30:03.410Z"
+  },
+  {
+    "code": "JOINCARNEVALE",
+    "rewards": "100 Astrite, x20 Premium Tuner, x5 Advanced Sealed Tube",
+    "date": "2025-03-03T17:30:03.410Z"
+  },
+  {
+    "code": "GETREADY",
+    "rewards": "100 Astrite, x4 Premium Resonance Potions, x5 Advanced Energy Core",
+    "date": "2025-03-03T17:30:03.410Z"
+  },
+  {
     "code": "SETSAIL",
     "rewards": "100 Astrite, Three Advanced Enclosure Tanks, and 20k Shell Credits",
     "date": "2025-02-07T12:00:09.723Z"

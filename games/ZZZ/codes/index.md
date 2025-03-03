@@ -69,7 +69,3 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 ### [`LS7FG347AHRH`](https://zenless.hoyoverse.com/redemption?code=LS7FG347AHRH)
 
 10 Polychromes, 6666 Dennies, 4 Crystallized Plating Agent, 4 Official Investigator Log<br />*Added Jan 6, 2025*
-
-### [`ZZZGFN24`](https://zenless.hoyoverse.com/redemption?code=ZZZGFN24)
-
-20,000 Dennies, 3 Official Investigator Log, 3 W Engine Power Supply<br />*Added Dec 23, 2024*

@@ -37,10 +37,6 @@ Luthiea, One Energy Refill, 15 Xp Brews, Multibattles, and 150k Silver  New
 Loki the Deceiver, 15 Spirit Xp Brews, 300k Silver, and 15 Greater Spirit Potions  New  
 **New Players Only**<br />*Added Jan 15, 2025*
 
-### [`snowraid`](https://nexus-codes.app/copy/?code=snowraid)
-
-*Added Dec 24, 2024*
-
 ### [`only4midgamesubs`](https://nexus-codes.app/copy/?code=only4midgamesubs)
 
 *Added Dec 11, 2024*

@@ -342,10 +342,6 @@ x3 Traveler S Guide and x3 Immortal S Delight<br />*Added Jan 6, 2025*
 
 Three Traveler S Guides and 20k Credits<br />*Added Jan 1, 2025*
 
-### [`AS3J6MNJVCA7`](https://hsr.hoyoverse.com/gift?code=AS3J6MNJVCA7)
-
-50 Stellar Jade and 10k Credits<br />*Added Dec 25, 2024*
-
 ### [`STARRAILTREND2024`](https://hsr.hoyoverse.com/gift?code=STARRAILTREND2024)
 
 Three Traveler S Guides and Two Potato Fries Sundaes<br />*Added Dec 20, 2024*

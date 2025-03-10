@@ -258,10 +258,6 @@ x5 Hero S Wit<br />*Added Jan 6, 2025*
 
 10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Stir Fried Fish Noodles, Five Jueyun Chili Chicken<br />*Added Dec 27, 2024*
 
-### [`GSMTCT96`](https://genshin.hoyoverse.com/en/gift?code=GSMTCT96)
-
-30k Mora, Three Hero S Wit, Five Mystic Enhancemennt Ore, Three Guides To Contention, and Three Agnidus Agate Slivers<br />*Added Dec 27, 2024*
-
 ### [`ACUI96V85FCK`](https://genshin.hoyoverse.com/en/gift?code=ACUI96V85FCK)
 
 10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, and Three Seasoned Fangs<br />*Added Dec 27, 2024*

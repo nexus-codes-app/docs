@@ -326,14 +326,6 @@ x3 Traveler S Guide and x3 Immortal S Delight<br />*Added Jan 6, 2025*
 
 60 Stellar Jade<br />*Added Jan 1, 2025*
 
-### [`HSR3DAWEISGIFT`](https://hsr.hoyoverse.com/gift?code=HSR3DAWEISGIFT)
-
-100 Stellar Jade and Five Refined Aether<br />*Added Jan 1, 2025*
-
-### [`HSR3AMPHOREUS`](https://hsr.hoyoverse.com/gift?code=HSR3AMPHOREUS)
-
-100 Stellar Jade and Five Traveler S Guides<br />*Added Jan 1, 2025*
-
 ### [`STARRAILTREND2024`](https://hsr.hoyoverse.com/gift?code=STARRAILTREND2024)
 
 Three Traveler S Guides and Two Potato Fries Sundaes<br />*Added Dec 20, 2024*

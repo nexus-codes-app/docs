@@ -322,10 +322,6 @@ Six Adventure Logs and Two Automatic Wooden Dummies<br />*Added Jan 20, 2025*
 
 x3 Traveler S Guide and x3 Immortal S Delight<br />*Added Jan 6, 2025*
 
-### [`HSRSEASTHEDAY`](https://hsr.hoyoverse.com/gift?code=HSRSEASTHEDAY)
-
-60 Stellar Jade<br />*Added Jan 1, 2025*
-
 ### [`STARRAILTREND2024`](https://hsr.hoyoverse.com/gift?code=STARRAILTREND2024)
 
 Three Traveler S Guides and Two Potato Fries Sundaes<br />*Added Dec 20, 2024*

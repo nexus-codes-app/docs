@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ZZZ16SPECIAL`](https://zenless.hoyoverse.com/redemption?code=ZZZ16SPECIAL)
+
+60 Polychrome and 6,666 Dennies<br />*Added Mar 12, 2025*
+
 ### [`ZZZFM`](https://zenless.hoyoverse.com/redemption?code=ZZZFM)
 
 50,000 Dennies, 3 Senior Investigator Log, 3 W Engine Energy Model, 3 Ether Plating Agent, 1 Ether Battery<br />*Added Mar 3, 2025*

@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`CoachIansan0326`](https://genshin.hoyoverse.com/en/gift?code=CoachIansan0326)
+
+100 Primogems, 50,000 Mora<br />*Added Mar 14, 2025*
+
+### [`GoGoVaresa0326`](https://genshin.hoyoverse.com/en/gift?code=GoGoVaresa0326)
+
+100 Primogems, 5 Hero S Wit<br />*Added Mar 14, 2025*
+
+### [`GI55Teteocan`](https://genshin.hoyoverse.com/en/gift?code=GI55Teteocan)
+
+100 Primogems, 10 Mystic Enhancement Ore<br />*Added Mar 14, 2025*
+
 ### [`4SLPH3BSFVH9`](https://genshin.hoyoverse.com/en/gift?code=4SLPH3BSFVH9)
 
 100 Primogems, 50,000 Mora<br />*Added Mar 3, 2025*

@@ -38,10 +38,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 200 Diamonds<br />*Added Jan 5, 2025*
 
-### [`C7U11GL2FX`](https://nexus-codes.app/copy/?code=C7U11GL2FX)
-
-10x Summon Tickets<br />*Added Jan 5, 2025*
-
 ### [`ChainsofEternity`](https://nexus-codes.app/copy/?code=ChainsofEternity)
 
 200 Diamonds<br />*Added Jan 5, 2025*

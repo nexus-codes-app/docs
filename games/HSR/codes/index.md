@@ -322,14 +322,6 @@ Six Adventure Logs and Two Automatic Wooden Dummies<br />*Added Jan 20, 2025*
 
 20k Credits, Three Lost Crystals, and Three Clockie Pizzas  Whole<br />*Added Jan 6, 2025*
 
-### [`IC66H7K4D1F3`](https://hsr.hoyoverse.com/gift?code=IC66H7K4D1F3)
-
-20,000 Credits, x3 Traveler S Guide, x3 Oat Cake Rolls<br />*Added Jan 6, 2025*
-
-### [`HSRFUGUE1225`](https://hsr.hoyoverse.com/gift?code=HSRFUGUE1225)
-
-x3 Traveler S Guide and x3 Immortal S Delight<br />*Added Jan 6, 2025*
-
 ### [`STARRAILTREND2024`](https://hsr.hoyoverse.com/gift?code=STARRAILTREND2024)
 
 Three Traveler S Guides and Two Potato Fries Sundaes<br />*Added Dec 20, 2024*

@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`HSRCHOCO`](https://hsr.hoyoverse.com/gift?code=HSRCHOCO)
+
+Three Traveler S Guides, Three Lost Lightdust, and Three Trick Snacks<br />*Added Mar 17, 2025*
+
+### [`HSRWHITEDAY2025`](https://hsr.hoyoverse.com/gift?code=HSRWHITEDAY2025)
+
+Six Adventure Logs and Two Hundred Layer Sundaes  Zero Calories<br />*Added Mar 17, 2025*
+
 ### [`WHEREISTRIBBIE`](https://hsr.hoyoverse.com/gift?code=WHEREISTRIBBIE)
 
 x3 Traveler S Guide and x2 Oronyx Slate<br />*Added Feb 28, 2025*

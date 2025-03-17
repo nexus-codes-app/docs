@@ -310,18 +310,6 @@ Six Adventure Logs and Two Automatic Wooden Dummies<br />*Added Jan 20, 2025*
 
 20,000 Credits, x3 Traveler S Guide, x3 Cosmic Fried Rice<br />*Added Jan 10, 2025*
 
-### [`QI75N8V1J2G7`](https://hsr.hoyoverse.com/gift?code=QI75N8V1J2G7)
-
-20k Credits, Three Refined Aether, and Three Dreamville Specials<br />*Added Jan 6, 2025*
-
-### [`BZ61Z8D5Q6K1`](https://hsr.hoyoverse.com/gift?code=BZ61Z8D5Q6K1)
-
-20k Credits, Three Traveler S Guides, and Three Immortal S Delight<br />*Added Jan 6, 2025*
-
-### [`TT33Z3K5T7V1`](https://hsr.hoyoverse.com/gift?code=TT33Z3K5T7V1)
-
-20k Credits, Three Lost Crystals, and Three Clockie Pizzas  Whole<br />*Added Jan 6, 2025*
-
 ### [`STARRAILTREND2024`](https://hsr.hoyoverse.com/gift?code=STARRAILTREND2024)
 
 Three Traveler S Guides and Two Potato Fries Sundaes<br />*Added Dec 20, 2024*

@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`FIGHTWELLMYDEI`](https://hsr.hoyoverse.com/gift?code=FIGHTWELLMYDEI)
+
+Three Traveler S Guides and Two Golden Honeycakes<br />*Added Mar 19, 2025*
+
+### [`DBKMW7MA6XB3`](https://hsr.hoyoverse.com/gift?code=DBKMW7MA6XB3)
+
+50 Stellar Jade and 10k Credits<br />*Added Mar 19, 2025*
+
 ### [`HSRCHOCO`](https://hsr.hoyoverse.com/gift?code=HSRCHOCO)
 
 Three Traveler S Guides, Three Lost Lightdust, and Three Trick Snacks<br />*Added Mar 17, 2025*

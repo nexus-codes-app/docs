@@ -27,6 +27,10 @@ The game features fast-paced combat with a variety of mechanics such as Extreme 
 
 [https://twitter.com/Wuthering_Waves](https://twitter.com/Wuthering_Waves)
 
+### Twitch
+
+[https://www.twitch.tv/directory/category/wuthering-waves](https://www.twitch.tv/directory/category/wuthering-waves)
+
 ### Youtube
 
 [https://www.youtube.com/channel/UC0Bi5KMcECRVYis5Gb_ZYZQ](https://www.youtube.com/channel/UC0Bi5KMcECRVYis5Gb_ZYZQ)
@@ -48,6 +52,10 @@ The game features fast-paced combat with a variety of mechanics such as Extreme 
 ### Download on the Google Play Store
 
 [https://play.google.com/store/apps/details?id=com.kurogame.wutheringwaves.global](https://play.google.com/store/apps/details?id=com.kurogame.wutheringwaves.global)
+
+### Download on Steam
+
+[https://store.steampowered.com/app/3513350](https://store.steampowered.com/app/3513350)
 
 ### Download on Epic Games
 

@@ -306,17 +306,9 @@ Six Adventure Logs and Two Automatic Wooden Dummies<br />*Added Jan 20, 2025*
 
 5,000 Credits and Two Potato Fries Sundaes<br />*Added Jan 13, 2025*
 
-### [`LIGHTTHEWAY`](https://hsr.hoyoverse.com/gift?code=LIGHTTHEWAY)
-
-5000 Credits, x2 Odd Gummy Candy<br />*Added Jan 10, 2025*
-
 ### [`HSRINGAMESTOP`](https://hsr.hoyoverse.com/gift?code=HSRINGAMESTOP)
 
 10,000 Credits, x4 Adventure Log, x2 Lost Gold Fragment, x3 Sweet Dreams Holographic Ticket<br />*Added Jan 10, 2025*
-
-### [`DEF3C9D0E1F2`](https://hsr.hoyoverse.com/gift?code=DEF3C9D0E1F2)
-
-20,000 Credits, x3 Traveler S Guide, x3 Cosmic Fried Rice<br />*Added Jan 10, 2025*
 
 ### [`STARRAILTREND2024`](https://hsr.hoyoverse.com/gift?code=STARRAILTREND2024)
 

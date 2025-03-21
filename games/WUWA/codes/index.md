@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`LEVIATHAN`](https://nexus-codes.app/copy/?code=LEVIATHAN)
+
+100 Astrite, Three Advanced Energy Cores, and Two Medium Nutrient Blocks<br />*Added Mar 21, 2025*
+
+### [`WHOAMI`](https://nexus-codes.app/copy/?code=WHOAMI)
+
+100 Astrite, Three Advanced Enclosure Tanks, and 20k Shell Credits<br />*Added Mar 21, 2025*
+
+### [`IMPERATOR`](https://nexus-codes.app/copy/?code=IMPERATOR)
+
+100 Astrite, Three Advanced Resonance Potions, and Two Medium Revival Inhalers<br />*Added Mar 21, 2025*
+
 ### [`OFFWEGO`](https://nexus-codes.app/copy/?code=OFFWEGO)
 
 100 Astrite, x2 Forgery Premium Supply, 40,000 Shell Credits<br />*Added Mar 3, 2025*

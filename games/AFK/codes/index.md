@@ -26,10 +26,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 5x Epic Letters + 2025 Diamonds<br />*Added Jan 22, 2025*
 
-### [`5BODYRYSRY`](https://nexus-codes.app/copy/?code=5BODYRYSRY)
-
-5x Epic Letters<br />*Added Jan 10, 2025*
-
 ### [`AFKJWhiteridge`](https://nexus-codes.app/copy/?code=AFKJWhiteridge)
 
 200 Diamonds<br />*Added Jan 5, 2025*

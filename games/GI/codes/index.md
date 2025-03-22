@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`HS4NM7YDGC99`](https://genshin.hoyoverse.com/en/gift?code=HS4NM7YDGC99)
+
+60 Primogems and Five Adventurer S Experience<br />*Added Mar 22, 2025*
+
+### [`GS55YTPY8X`](https://genshin.hoyoverse.com/en/gift?code=GS55YTPY8X)
+
+30k Mora, Three Hero S Wit, Five Mystic Enhancement Ore, Three Teachings Of Conflict, and Three Vajrada Amethyst Slivers<br />*Added Mar 22, 2025*
+
 ### [`CoachIansan0326`](https://genshin.hoyoverse.com/en/gift?code=CoachIansan0326)
 
 100 Primogems, 50,000 Mora<br />*Added Mar 14, 2025*

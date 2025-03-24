@@ -290,22 +290,6 @@ Six Adventure Logs and Two Automatic Wooden Dummies<br />*Added Jan 20, 2025*
 
 100 Stellar Jade and Five Traveler S Guides<br />*Added Jan 14, 2025*
 
-### [`AMPHOREUS0115`](https://hsr.hoyoverse.com/gift?code=AMPHOREUS0115)
-
-5,000 Credits and Two Clockie Pizzas  Whole<br />*Added Jan 13, 2025*
-
-### [`THEETERNALLAND`](https://hsr.hoyoverse.com/gift?code=THEETERNALLAND)
-
-5,000 Credits and Two Alfalfa Salads<br />*Added Jan 13, 2025*
-
-### [`AWAITSYOURLIGHT`](https://hsr.hoyoverse.com/gift?code=AWAITSYOURLIGHT)
-
-5,000 Credits and Two Golden Slumbernanas<br />*Added Jan 13, 2025*
-
-### [`REMEMBRANCE`](https://hsr.hoyoverse.com/gift?code=REMEMBRANCE)
-
-5,000 Credits and Two Potato Fries Sundaes<br />*Added Jan 13, 2025*
-
 ### [`HSRINGAMESTOP`](https://hsr.hoyoverse.com/gift?code=HSRINGAMESTOP)
 
 10,000 Credits, x4 Adventure Log, x2 Lost Gold Fragment, x3 Sweet Dreams Holographic Ticket<br />*Added Jan 10, 2025*

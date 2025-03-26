@@ -26,21 +26,6 @@ x1 50 Auto Battles x20 Brews x1 Energy Refill x200k Silver<br />*Added Feb 19, 2
 
 *Added Feb 12, 2025*
 
-### [`PESTCONTROL`](https://nexus-codes.app/copy/?code=PESTCONTROL)
-
-Hoskarul, Ten Spirit Brews, 200k Silver, and Ten Greater Spirit Potions  New  
-**New Players Only**<br />*Added Jan 15, 2025*
-
-### [`2QLRAID`](https://nexus-codes.app/copy/?code=2QLRAID)
-
-Luthiea, One Energy Refill, 15 Xp Brews, Multibattles, and 150k Silver  New  
-**New Players Only**<br />*Added Jan 15, 2025*
-
-### [`GETLOKI`](https://nexus-codes.app/copy/?code=GETLOKI)
-
-Loki the Deceiver, 15 Spirit Xp Brews, 300k Silver, and 15 Greater Spirit Potions  New  
-**New Players Only**<br />*Added Jan 15, 2025*
-
 ### [`only4midgamesubs`](https://nexus-codes.app/copy/?code=only4midgamesubs)
 
 *Added Dec 11, 2024*

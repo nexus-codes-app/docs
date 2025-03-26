@@ -274,10 +274,6 @@ Six Adventure Logs and Two Automatic Wooden Dummies<br />*Added Jan 20, 2025*
 
 2 High Tech Protective Gear, 10,000 Credits<br />*Added Jan 15, 2025*
 
-### [`ABC1CDEF0123`](https://hsr.hoyoverse.com/gift?code=ABC1CDEF0123)
-
-50 Stellar Jade and 10k Credits<br />*Added Jan 15, 2025*
-
 ### [`EAJJPMN3DDE3`](https://hsr.hoyoverse.com/gift?code=EAJJPMN3DDE3)
 
 100 Stellar Jade and Four Refined Aether<br />*Added Jan 14, 2025*

@@ -14,6 +14,22 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`132NEWSFROMPN`](https://nexus-codes.app/copy/?code=132NEWSFROMPN)
+
+300 Diamonds and 20k Gold<br />*Added Mar 26, 2025*
+
+### [`AFKJNewS2025`](https://nexus-codes.app/copy/?code=AFKJNewS2025)
+
+200 Diamonds and 20k Gold<br />*Added Mar 26, 2025*
+
+### [`NewSeasonWithCC`](https://nexus-codes.app/copy/?code=NewSeasonWithCC)
+
+100 Diamonds and 10k Gold<br />*Added Mar 26, 2025*
+
+### [`AFKJSY2025`](https://nexus-codes.app/copy/?code=AFKJSY2025)
+
+100 Diamonds and 10k Gold<br />*Added Mar 26, 2025*
+
 ### [`AFKJfuyuyo`](https://nexus-codes.app/copy/?code=AFKJfuyuyo)
 
 200 Diamonds + Gold<br />*Added Feb 10, 2025*

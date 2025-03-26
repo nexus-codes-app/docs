@@ -266,14 +266,6 @@ Six Adventure Logs and Two Automatic Wooden Dummies<br />*Added Jan 20, 2025*
 
 50 Stellar Jade, Two Traveler S Guides, Three Refined Aether, and 5k Credits<br />*Added Jan 15, 2025*
 
-### [`THISISTHEHERTA`](https://hsr.hoyoverse.com/gift?code=THISISTHEHERTA)
-
-2 Life Transmitter, 10,000 Credits<br />*Added Jan 15, 2025*
-
-### [`HELLOAMPHOREUS`](https://hsr.hoyoverse.com/gift?code=HELLOAMPHOREUS)
-
-2 High Tech Protective Gear, 10,000 Credits<br />*Added Jan 15, 2025*
-
 ### [`EAJJPMN3DDE3`](https://hsr.hoyoverse.com/gift?code=EAJJPMN3DDE3)
 
 100 Stellar Jade and Four Refined Aether<br />*Added Jan 14, 2025*

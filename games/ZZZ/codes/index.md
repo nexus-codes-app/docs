@@ -74,10 +74,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 60 Polychrome and 6,666 Denny<br />*Added Jan 16, 2025*
 
-### [`ZZZ4PC`](https://zenless.hoyoverse.com/redemption?code=ZZZ4PC)
-
-50 Polychrome, Two Official Investigator Logs, Three W Engine Power Supply, and One Bangboo Algorithm Module   You Can Only Redeem Through the Game On Pc<br />*Added Jan 16, 2025*
-
 ### [`LS7FG347AHRH`](https://zenless.hoyoverse.com/redemption?code=LS7FG347AHRH)
 
 10 Polychromes, 6666 Dennies, 4 Crystallized Plating Agent, 4 Official Investigator Log<br />*Added Jan 6, 2025*

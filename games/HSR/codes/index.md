@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`CA353MC6WMQB`](https://hsr.hoyoverse.com/gift?code=CA353MC6WMQB)
+
+100 Stellar Jade and Five Refined Aether<br />*Added Mar 28, 2025*
+
 ### [`LT25JMU7F477`](https://hsr.hoyoverse.com/gift?code=LT25JMU7F477)
 
 100 Stellar Jades, 5 Traveler S Guide<br />*Added Mar 28, 2025*

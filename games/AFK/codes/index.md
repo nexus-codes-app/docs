@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`HAPPYEVERYDAY`](https://nexus-codes.app/copy/?code=HAPPYEVERYDAY)
+
+300 Diamonds and 20k Gold<br />*Added Mar 28, 2025*
+
+### [`AFKJWHATSNEW`](https://nexus-codes.app/copy/?code=AFKJWHATSNEW)
+
+300 Diamonds and 20k Gold<br />*Added Mar 28, 2025*
+
+### [`AFKOnederfulJourney`](https://nexus-codes.app/copy/?code=AFKOnederfulJourney)
+
+x1 Glorious Hero Chest Iii, 20 Summon Tickets, 100k Gold<br />*Added Mar 28, 2025*
+
 ### [`132NEWSFROMPN`](https://nexus-codes.app/copy/?code=132NEWSFROMPN)
 
 300 Diamonds and 20k Gold<br />*Added Mar 26, 2025*

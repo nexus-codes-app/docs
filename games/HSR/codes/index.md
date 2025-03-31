@@ -286,10 +286,6 @@ Six Adventure Logs and Two Automatic Wooden Dummies<br />*Added Jan 20, 2025*
 
 100 Stellar Jade and Five Traveler S Guides<br />*Added Jan 14, 2025*
 
-### [`HSRINGAMESTOP`](https://hsr.hoyoverse.com/gift?code=HSRINGAMESTOP)
-
-10,000 Credits, x4 Adventure Log, x2 Lost Gold Fragment, x3 Sweet Dreams Holographic Ticket<br />*Added Jan 10, 2025*
-
 ### [`STARRAILTREND2024`](https://hsr.hoyoverse.com/gift?code=STARRAILTREND2024)
 
 Three Traveler S Guides and Two Potato Fries Sundaes<br />*Added Dec 20, 2024*

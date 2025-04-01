@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'Codes'
-parent: 'Girls' Frontline 2: Exilium'
+parent: 'Girls` Frontline 2: Exilium'
 search_exclude: true
 ---
 

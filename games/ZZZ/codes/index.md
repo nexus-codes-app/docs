@@ -62,10 +62,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 10,000 Dennies, 10 Official Investigator Log, 1  W Engine Power Supply, 10 Crystallized Plating Agent<br />*Added Jan 27, 2025*
 
-### [`ZZZ15MINA`](https://zenless.hoyoverse.com/redemption?code=ZZZ15MINA)
-
-60 Polychrome and 6,666 Dennies<br />*Added Jan 22, 2025*
-
 ### [`ZENLESSGIFT`](https://zenless.hoyoverse.com/redemption?code=ZENLESSGIFT)
 
 50 Polychrome, Two Official Investigator Logs, Three W Engine Power Supplies, and One Bangboo Algorithm Module<br />*Added Jan 16, 2025*

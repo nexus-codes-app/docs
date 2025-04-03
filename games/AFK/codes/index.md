@@ -50,10 +50,6 @@ x1 Glorious Hero Chest Iii, 20 Summon Tickets, 100k Gold<br />*Added Mar 28, 202
 
 500 Diamonds + Gold<br />*Added Feb 10, 2025*
 
-### [`FARLIGHTHAPPY2025`](https://nexus-codes.app/copy/?code=FARLIGHTHAPPY2025)
-
-5x Epic Letters + 2025 Diamonds<br />*Added Jan 22, 2025*
-
 ### [`AFKJWhiteridge`](https://nexus-codes.app/copy/?code=AFKJWhiteridge)
 
 200 Diamonds<br />*Added Jan 5, 2025*

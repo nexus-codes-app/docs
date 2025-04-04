@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`e8kxz1s9yh`](https://nexus-codes.app/copy/?code=e8kxz1s9yh)
+
+500 Diamonds, x10 Origami Hamsters, 50k Gold<br />*Added Apr 4, 2025*
+
 ### [`HAPPYEVERYDAY`](https://nexus-codes.app/copy/?code=HAPPYEVERYDAY)
 
 300 Diamonds and 20k Gold<br />*Added Mar 28, 2025*

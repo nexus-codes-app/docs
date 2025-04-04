@@ -14,4 +14,4 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
-There are no codes known to Nexus for Girls' Frontline 2: Exilium yet. Please check back later.
+There are no codes currently known to Nexus for Girls' Frontline 2: Exilium. Please check back later.

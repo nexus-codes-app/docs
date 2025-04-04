@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'AFK Journey'
+title: "AFK Journey"
 parent: Games
 ---
 

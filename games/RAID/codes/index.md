@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'Codes'
-parent: 'Raid: Shadow Legends'
+parent: "Raid: Shadow Legends"
 search_exclude: true
 ---
 

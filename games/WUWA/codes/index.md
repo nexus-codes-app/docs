@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'Codes'
-parent: 'Wuthering Waves'
+parent: "Wuthering Waves"
 search_exclude: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Genshin Impact'
+title: "Genshin Impact"
 parent: Games
 ---
 

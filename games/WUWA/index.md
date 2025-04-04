@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Wuthering Waves'
+title: "Wuthering Waves"
 parent: Games
 ---
 

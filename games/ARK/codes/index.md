@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'Codes'
-parent: 'Arknights'
+parent: "Arknights"
 search_exclude: true
 ---
 

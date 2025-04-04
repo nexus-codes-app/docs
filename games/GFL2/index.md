@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Girls` Frontline 2: Exilium'
+title: "Girls' Frontline 2: Exilium"
 parent: Games
 ---
 

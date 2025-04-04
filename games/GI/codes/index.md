@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'Codes'
-parent: 'Genshin Impact'
+parent: "Genshin Impact"
 search_exclude: true
 ---
 

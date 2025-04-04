@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'Codes'
-parent: 'Goddess of Victory: Nikke'
+parent: "Goddess of Victory: Nikke"
 search_exclude: true
 ---
 

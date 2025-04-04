@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'Codes'
-parent: 'Honkai Star Rail'
+parent: "Honkai Star Rail"
 search_exclude: true
 ---
 

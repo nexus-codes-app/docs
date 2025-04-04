@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Zenless Zone Zero'
+title: "Zenless Zone Zero"
 parent: Games
 ---
 

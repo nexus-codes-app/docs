@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Arknights'
+title: "Arknights"
 parent: Games
 ---
 

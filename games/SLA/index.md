@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Solo Leveling: Arise'
+title: "Solo Leveling: Arise"
 parent: Games
 ---
 

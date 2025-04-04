@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Raid: Shadow Legends'
+title: "Raid: Shadow Legends"
 parent: Games
 ---
 

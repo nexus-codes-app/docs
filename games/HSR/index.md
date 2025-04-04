@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Honkai Star Rail'
+title: "Honkai Star Rail"
 parent: Games
 ---
 

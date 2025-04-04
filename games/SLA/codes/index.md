@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'Codes'
-parent: 'Solo Leveling: Arise'
+parent: "Solo Leveling: Arise"
 search_exclude: true
 ---
 

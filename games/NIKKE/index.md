@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Goddess of Victory: Nikke'
+title: "Goddess of Victory: Nikke"
 parent: Games
 ---
 

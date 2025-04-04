@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'Codes'
-parent: 'Zenless Zone Zero'
+parent: "Zenless Zone Zero"
 search_exclude: true
 ---
 

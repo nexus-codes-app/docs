@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'Codes'
-parent: 'AFK Journey'
+parent: "AFK Journey"
 search_exclude: true
 ---
 

@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`HSRCASTORICE`](https://hsr.hoyoverse.com/gift?code=HSRCASTORICE)
+
+Three Traveler S Guides and Two Redsoil Feeds<br />*Added Apr 9, 2025*
+
+### [`FAREWELL`](https://hsr.hoyoverse.com/gift?code=FAREWELL)
+
+60 Stellar Jade and One Fuel<br />*Added Apr 9, 2025*
+
 ### [`LS342LYLC5FP`](https://hsr.hoyoverse.com/gift?code=LS342LYLC5FP)
 
 50 Stellar Jade and 10k Credits<br />*Added Apr 9, 2025*

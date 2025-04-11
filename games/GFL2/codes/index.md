@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`404RETURN`](https://nexus-codes.app/copy/?code=404RETURN)
+
+100x Collapse Pieces, 3,000 Sardis Gold, 2x Access Keys<br />*Added Apr 11, 2025*
+
+### [`IAMPERFECT`](https://nexus-codes.app/copy/?code=IAMPERFECT)
+
+50x Collapse Pieces, 5,000 Combat Reports, 5,000 Analysis Blueprints<br />*Added Apr 11, 2025*
+
 ### [`ULLRID1205`](https://nexus-codes.app/copy/?code=ULLRID1205)
 
 5,000x Combat Reports, 5,000x Analysis Blueprints<br />*Added Apr 8, 2025*

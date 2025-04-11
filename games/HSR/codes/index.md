@@ -166,26 +166,6 @@ Three Traveler S Guides and Two Chrysis Heir Dolium<br />*Added Feb 10, 2025*
 
 50 Stellar Jade and 10k Credits<br />*Added Feb 5, 2025*
 
-### [`3V2WG3H4I5J6`](https://hsr.hoyoverse.com/gift?code=3V2WG3H4I5J6)
-
-20,000 Credits, x3 Refined Aether, x3 Energy Drink<br />*Added Jan 31, 2025*
-
-### [`PYB9C9D0E1F2`](https://hsr.hoyoverse.com/gift?code=PYB9C9D0E1F2)
-
-20,000 Credits, x3 Traveler S Guide, x3 Tasty Field Nutrient Bar<br />*Added Jan 31, 2025*
-
-### [`M1K2I1J2K3L4`](https://hsr.hoyoverse.com/gift?code=M1K2I1J2K3L4)
-
-20,000 Credits, x3 Lost Crystal, x3 Disposable Kinetic Cannon<br />*Added Jan 31, 2025*
-
-### [`5O6PU1V2W3X4`](https://hsr.hoyoverse.com/gift?code=5O6PU1V2W3X4)
-
-20,000 Credits, x3 Traveler S Guide, x3 Dried Sagelore Fruit<br />*Added Jan 31, 2025*
-
-### [`PS9RM3N4O5P6`](https://hsr.hoyoverse.com/gift?code=PS9RM3N4O5P6)
-
-20,000 Credits, x3 Traveler S Guide, x3 Rough Brew Ambrosia<br />*Added Jan 31, 2025*
-
 ### [`WA3BP6Q7R8S9`](https://hsr.hoyoverse.com/gift?code=WA3BP6Q7R8S9)
 
 20k Credits and Three Rough Sketches<br />*Added Jan 20, 2025*

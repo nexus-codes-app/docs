@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`MOCKINGBIRD`](https://zenless.hoyoverse.com/redemption?code=MOCKINGBIRD)
+
+300 Polychromes  and 30,000 Dennies<br />*Added Apr 11, 2025*
+
 ### [`ZZZ16SPECIAL`](https://zenless.hoyoverse.com/redemption?code=ZZZ16SPECIAL)
 
 60 Polychrome and 6,666 Dennies<br />*Added Mar 12, 2025*

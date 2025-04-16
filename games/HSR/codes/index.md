@@ -162,10 +162,6 @@ x6 Adventure Log and x2  Dreamlight  Mixed Sweet<br />*Added Feb 17, 2025*
 
 Three Traveler S Guides and Two Chrysis Heir Dolium<br />*Added Feb 10, 2025*
 
-### [`XYZ7OPQR9012`](https://hsr.hoyoverse.com/gift?code=XYZ7OPQR9012)
-
-50 Stellar Jade and 10k Credits<br />*Added Feb 5, 2025*
-
 ### [`WA3BP6Q7R8S9`](https://hsr.hoyoverse.com/gift?code=WA3BP6Q7R8S9)
 
 20k Credits and Three Rough Sketches<br />*Added Jan 20, 2025*

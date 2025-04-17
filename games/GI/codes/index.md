@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`OSOIDWA2R5H3`](https://genshin.hoyoverse.com/en/gift?code=OSOIDWA2R5H3)
+
+10,000 Mora, x10 Adventurer S Experience, x5 Fine Enhancement Ore, x5 Stir Fried Fish Noodles, x5 Jueyun Chili Chicken<br />*Added Apr 17, 2025*
+
 ### [`5AM75NYUGTTR`](https://genshin.hoyoverse.com/en/gift?code=5AM75NYUGTTR)
 
 30 Primogems, Three Hero S Wit, Five Blazed Meat Stews, and 20k Mora<br />*Added Mar 28, 2025*

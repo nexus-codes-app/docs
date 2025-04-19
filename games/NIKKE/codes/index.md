@@ -14,6 +14,22 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`NIKKEUNDERSEA`](https://nexus-codes.app/copy/?code=NIKKEUNDERSEA)
+
+2 5th Anniversary Cake x1<br />*Added Apr 19, 2025*
+
+### [`BUBBLEPARADISEYO`](https://nexus-codes.app/copy/?code=BUBBLEPARADISEYO)
+
+Recruit Voucher x10<br />*Added Apr 19, 2025*
+
+### [`THXMISSILIS`](https://nexus-codes.app/copy/?code=THXMISSILIS)
+
+Gem x300<br />*Added Apr 19, 2025*
+
+### [`TACTICALBUBBLE`](https://nexus-codes.app/copy/?code=TACTICALBUBBLE)
+
+Gem x600<br />*Added Apr 19, 2025*
+
 ### [`NIKKEPC`](https://nexus-codes.app/copy/?code=NIKKEPC)
 
 Gem x100<br />*Added Mar 27, 2025*

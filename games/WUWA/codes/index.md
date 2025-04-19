@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`1STANNIVERSARY`](https://nexus-codes.app/copy/?code=1STANNIVERSARY)
+
+100 Astrite, Four Premium Resonance Potions, and Five Advanced Energy Cores<br />*Added Apr 19, 2025*
+
+### [`EVERFLOWING`](https://nexus-codes.app/copy/?code=EVERFLOWING)
+
+100 Astrite, Two Forgery Premium Supplies, and 40k Shell Credits<br />*Added Apr 19, 2025*
+
 ### [`LEVIATHAN`](https://nexus-codes.app/copy/?code=LEVIATHAN)
 
 100 Astrite, Three Advanced Energy Cores, and Two Medium Nutrient Blocks<br />*Added Mar 21, 2025*

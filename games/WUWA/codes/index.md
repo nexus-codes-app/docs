@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`WITHYOU`](https://nexus-codes.app/copy/?code=WITHYOU)
+
+100 Astrite, 20 Premium Tuners, and Five Advanced Sealed Tubes<br />*Added Apr 19, 2025*
+
 ### [`1STANNIVERSARY`](https://nexus-codes.app/copy/?code=1STANNIVERSARY)
 
 100 Astrite, Four Premium Resonance Potions, and Five Advanced Energy Cores<br />*Added Apr 19, 2025*

@@ -50,18 +50,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 100 Astrite, x4 Premium Resonance Potions, x5 Advanced Energy Core<br />*Added Mar 3, 2025*
 
-### [`SETSAIL`](https://nexus-codes.app/copy/?code=SETSAIL)
-
-100 Astrite, Three Advanced Enclosure Tanks, and 20k Shell Credits<br />*Added Feb 7, 2025*
-
-### [`TREASUREHUNT`](https://nexus-codes.app/copy/?code=TREASUREHUNT)
-
-100 Astrite, Three Advanced Resonance Potions, and Two Medium Revivals Inhalers<br />*Added Feb 7, 2025*
-
-### [`VAULTOPS`](https://nexus-codes.app/copy/?code=VAULTOPS)
-
-100 Astrite, Three Advanced Energy Cores, and Two Medium Nutrient Blocks<br />*Added Feb 7, 2025*
-
 ### [`WUWA4PC`](https://nexus-codes.app/copy/?code=WUWA4PC)
 
 50 Astrites   Note  This Code Is Valid On Pc Only<br />*Added Jan 10, 2025*

@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`NIRUSHEMIRA4EVER!`](https://nexus-codes.app/copy/?code=NIRUSHEMIRA4EVER!)
+
+300 Diamonds and 20k Gold<br />*Added Apr 22, 2025*
+
 ### [`oneyearshowdown`](https://nexus-codes.app/copy/?code=oneyearshowdown)
 
 300 Diamonds and 20k Gold<br />*Added Apr 11, 2025*

@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`416HOLIDAY`](https://nexus-codes.app/copy/?code=416HOLIDAY)
+
+50x Collapse Pieces, 3,000 Sardis Gold, 5,000 Combat Reports, 5,000 Analysis Blueprint<br />*Added Apr 22, 2025*
+
 ### [`404RETURN`](https://nexus-codes.app/copy/?code=404RETURN)
 
 100x Collapse Pieces, 3,000 Sardis Gold, 2x Access Keys<br />*Added Apr 11, 2025*

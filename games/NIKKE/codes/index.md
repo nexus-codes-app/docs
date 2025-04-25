@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`NIKKEMYSGTWOHALFANNI`](https://nexus-codes.app/copy/?code=NIKKEMYSGTWOHALFANNI)
+
+Gem x100<br />*Added Apr 25, 2025*
+
+### [`DUAKOMALIMATAHUNNIKKE`](https://nexus-codes.app/copy/?code=DUAKOMALIMATAHUNNIKKE)
+
+Gem x100<br />*Added Apr 25, 2025*
+
+### [`MUNTINGSIRENA`](https://nexus-codes.app/copy/?code=MUNTINGSIRENA)
+
+Gem x100<br />*Added Apr 25, 2025*
+
 ### [`NIKKEUNDERSEA`](https://nexus-codes.app/copy/?code=NIKKEUNDERSEA)
 
 2 5th Anniversary Cake x1<br />*Added Apr 19, 2025*

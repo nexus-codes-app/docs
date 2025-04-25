@@ -150,10 +150,6 @@ x6 Adventure Log and x2  Dreamlight  Mixed Sweet<br />*Added Feb 17, 2025*
 
 100 Stellar Jade and Five Refined Aether<br />*Added Feb 14, 2025*
 
-### [`7A324EYX6SHT`](https://hsr.hoyoverse.com/gift?code=7A324EYX6SHT)
-
-100 Stellar Jade and 50k Credits<br />*Added Feb 14, 2025*
-
 ### [`WA3BP6Q7R8S9`](https://hsr.hoyoverse.com/gift?code=WA3BP6Q7R8S9)
 
 20k Credits and Three Rough Sketches<br />*Added Jan 20, 2025*

@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`EBKLKMGLVMG7`](https://hsr.hoyoverse.com/gift?code=EBKLKMGLVMG7)
+
+120 Stellar Jade<br />*Added Apr 28, 2025*
+
 ### [`HSRCASTORICE`](https://hsr.hoyoverse.com/gift?code=HSRCASTORICE)
 
 Three Traveler S Guides and Two Redsoil Feeds<br />*Added Apr 9, 2025*

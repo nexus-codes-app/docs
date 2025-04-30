@@ -14,6 +14,26 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`FATUI`](https://genshin.hoyoverse.com/en/gift?code=FATUI)
+
+30 Primogems<br />*Added Apr 30, 2025*
+
+### [`FROSTMOONSCIONS`](https://genshin.hoyoverse.com/en/gift?code=FROSTMOONSCIONS)
+
+30 Primogems<br />*Added Apr 30, 2025*
+
+### [`LIGHTKEEPERS`](https://genshin.hoyoverse.com/en/gift?code=LIGHTKEEPERS)
+
+30 Primogems  New   Expires May 3<br />*Added Apr 30, 2025*
+
+### [`THEWILDHUNT`](https://genshin.hoyoverse.com/en/gift?code=THEWILDHUNT)
+
+30 Primogems  New   Expires May 3<br />*Added Apr 30, 2025*
+
+### [`VOYNICHGUILD`](https://genshin.hoyoverse.com/en/gift?code=VOYNICHGUILD)
+
+30 Primogems  New   Expires May 3<br />*Added Apr 30, 2025*
+
 ### [`ChefEscoffier0507`](https://genshin.hoyoverse.com/en/gift?code=ChefEscoffier0507)
 
 100 Primogems, 5 Hero S Wit<br />*Added Apr 25, 2025*

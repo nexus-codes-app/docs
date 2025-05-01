@@ -18,10 +18,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 *Added Mar 12, 2025*
 
-### [`RAIDCURIOUSER`](https://nexus-codes.app/copy/?code=RAIDCURIOUSER)
-
-x1 50 Auto Battles x20 Brews x1 Energy Refill x200k Silver<br />*Added Feb 19, 2025*
-
 ### [`WELCOMEGIFT`](https://nexus-codes.app/copy/?code=WELCOMEGIFT)
 
 *Added Feb 12, 2025*

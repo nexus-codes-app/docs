@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ZT5RJ4AX4WYV`](https://genshin.hoyoverse.com/en/gift?code=ZT5RJ4AX4WYV)
+
+x60 Primogems and x5 Adventurer S Experience<br />*Added May 1, 2025*
+
 ### [`NODKRAI0910`](https://genshin.hoyoverse.com/en/gift?code=NODKRAI0910)
 
 200 Primogems  New   Expires May 3<br />*Added Apr 30, 2025*

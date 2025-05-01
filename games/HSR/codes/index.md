@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ATELIERANAXA`](https://hsr.hoyoverse.com/gift?code=ATELIERANAXA)
+
+Three Traveler S Guides and Two Dried Sagelore Fruit<br />*Added May 1, 2025*
+
+### [`7T34K5YLU5GT`](https://hsr.hoyoverse.com/gift?code=7T34K5YLU5GT)
+
+50 Stellar Jade and 10k Credits<br />*Added May 1, 2025*
+
 ### [`EBKLKMGLVMG7`](https://hsr.hoyoverse.com/gift?code=EBKLKMGLVMG7)
 
 120 Stellar Jade<br />*Added Apr 28, 2025*

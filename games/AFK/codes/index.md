@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`GDXLTJNCKL`](https://nexus-codes.app/copy/?code=GDXLTJNCKL)
+
+x10 Original Hamsters, 500 Diamonds, and 50k Gold<br />*Added May 3, 2025*
+
+### [`amwhrvsbsz`](https://nexus-codes.app/copy/?code=amwhrvsbsz)
+
+x10 Invite Letters<br />*Added May 3, 2025*
+
 ### [`NIRUSHEMIRA4EVER!`](https://nexus-codes.app/copy/?code=NIRUSHEMIRA4EVER!)
 
 300 Diamonds and 20k Gold<br />*Added Apr 22, 2025*

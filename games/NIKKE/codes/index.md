@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`30MONTHSTOGETHER`](https://nexus-codes.app/copy/?code=30MONTHSTOGETHER)
+
+Growth Set 1h x6<br />*Added May 4, 2025*
+
 ### [`NIKKEMYSGTWOHALFANNI`](https://nexus-codes.app/copy/?code=NIKKEMYSGTWOHALFANNI)
 
 Gem x100<br />*Added Apr 25, 2025*

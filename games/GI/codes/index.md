@@ -118,17 +118,9 @@ x60 Primogems and x5 Adventurer S Experience<br />*Added May 1, 2025*
 
 x5 Sea Ganoderma, x5 Kageuchi Handguard, x3 Hero S Wit, x1 Dreams Of Healing<br />*Added Feb 24, 2025*
 
-### [`11KU0MNDK2RG`](https://genshin.hoyoverse.com/en/gift?code=11KU0MNDK2RG)
-
-60 Primogems and Five Adventurer S Experience<br />*Added Feb 17, 2025*
-
 ### [`RB5PPN4BV355`](https://genshin.hoyoverse.com/en/gift?code=RB5PPN4BV355)
 
 30 Primogems, Three Sea Ganoderma, Three Hero S Wit, and 20k Mora<br />*Added Feb 17, 2025*
-
-### [`JCWJFZG57YFW`](https://genshin.hoyoverse.com/en/gift?code=JCWJFZG57YFW)
-
-10k Mora, Ten Adventurer S Experience, Five Mystic Enhancement Ore, Five Stir Fried Fish Noodles, and Five Jueyun Chili Chicken<br />*Added Feb 17, 2025*
 
 ### [`5A2WEGTVPXFV`](https://genshin.hoyoverse.com/en/gift?code=5A2WEGTVPXFV)
 

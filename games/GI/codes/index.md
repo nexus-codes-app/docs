@@ -114,10 +114,6 @@ x60 Primogems and x5 Adventurer S Experience<br />*Added May 1, 2025*
 
 20,000 Mora, x2 Teyvat Fried Egg, x1 Crepes Suzette, x1 Cold Cut Platter, x1 Tea Break Pancake, x1 Matsutake Meat Rolls, x1 Sparkling Berry Juice<br />*Added Feb 27, 2025*
 
-### [`POKAPOKAGENSHIN`](https://genshin.hoyoverse.com/en/gift?code=POKAPOKAGENSHIN)
-
-x5 Sea Ganoderma, x5 Kageuchi Handguard, x3 Hero S Wit, x1 Dreams Of Healing<br />*Added Feb 24, 2025*
-
 ### [`RB5PPN4BV355`](https://genshin.hoyoverse.com/en/gift?code=RB5PPN4BV355)
 
 30 Primogems, Three Sea Ganoderma, Three Hero S Wit, and 20k Mora<br />*Added Feb 17, 2025*

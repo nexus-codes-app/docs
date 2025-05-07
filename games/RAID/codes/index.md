@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`TRIVIADUNGEON`](https://nexus-codes.app/copy/?code=TRIVIADUNGEON)
+
+*Added May 7, 2025*
+
 ### [`2GTSpringTricks`](https://nexus-codes.app/copy/?code=2GTSpringTricks)
 
 *Added Mar 12, 2025*

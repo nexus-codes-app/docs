@@ -74,10 +74,6 @@ Six Adventure Logs and Two Hundred Layer Sundaes  Zero Calories<br />*Added Mar 
 
 x3 Traveler S Guide and x2 Oronyx Slate<br />*Added Feb 28, 2025*
 
-### [`2A3LF64ANXSX`](https://hsr.hoyoverse.com/gift?code=2A3LF64ANXSX)
-
-50 Stellar Jade and 10k Credits<br />*Added Feb 26, 2025*
-
 ### [`XRPTL1P7K5H8W`](https://hsr.hoyoverse.com/gift?code=XRPTL1P7K5H8W)
 
 x3 Traveler S Guide, x3 Five Grain Jade Elixir, 20,000 Credits<br />*Added Feb 17, 2025*

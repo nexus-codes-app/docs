@@ -158,14 +158,6 @@ x6 Adventure Log and x2  Dreamlight  Mixed Sweet<br />*Added Feb 17, 2025*
 
 10,000 Credits, x3 Condensed Aether, x2 Lost Gold Fragment, x3 Halovian Winged Burger<br />*Added Feb 17, 2025*
 
-### [`5S6ZHRWTDNJB`](https://hsr.hoyoverse.com/gift?code=5S6ZHRWTDNJB)
-
-60 Stellar Jade<br />*Added Feb 17, 2025*
-
-### [`4TKSX77Y58QK`](https://hsr.hoyoverse.com/gift?code=4TKSX77Y58QK)
-
-30 Stellar Jade, Three Traveler S Guides, Five Condensed Aether, Four Lost Gold Fragments, and 20k Credits<br />*Added Feb 17, 2025*
-
 ### [`WA3BP6Q7R8S9`](https://hsr.hoyoverse.com/gift?code=WA3BP6Q7R8S9)
 
 20k Credits and Three Rough Sketches<br />*Added Jan 20, 2025*

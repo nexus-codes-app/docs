@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ZXUYP2X2EF14`](https://genshin.hoyoverse.com/en/gift?code=ZXUYP2X2EF14)
+
+Two Fish and Chips, Two Lasagna, Two Tomates Narbonnaises, Two Barbeque Ribs, Two Bulle Sauce Duck Breasts, and Three Meshing Gears<br />*Added May 16, 2025*
+
+### [`VSL93LTE5WY5`](https://genshin.hoyoverse.com/en/gift?code=VSL93LTE5WY5)
+
+Five Beryl Conch, Two Lasagna, Two Fish and Chips, Two Tomates Narbonnaises, Two Bulle Sauce Duck Breast, Two Barbeque Ribs, and Three Meshing Gears<br />*Added May 16, 2025*
+
+### [`56CacucuVSAjaw`](https://genshin.hoyoverse.com/en/gift?code=56CacucuVSAjaw)
+
+30 Primogems, 20k Mora, and Three Hero S Wit<br />*Added May 16, 2025*
+
 ### [`ZXUY83279WB1`](https://genshin.hoyoverse.com/en/gift?code=ZXUY83279WB1)
 
 10k  Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Fish Noodles<br />*Added May 9, 2025*

@@ -14,6 +14,30 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`NHHLRMMDDY`](https://nexus-codes.app/copy/?code=NHHLRMMDDY)
+
+500 Diamonds, x10 Origami Hamster, 50k Gold<br />*Added May 16, 2025*
+
+### [`IronholdBay`](https://nexus-codes.app/copy/?code=IronholdBay)
+
+100 Diamonds and 10k Gold<br />*Added May 16, 2025*
+
+### [`AFKJDungeon`](https://nexus-codes.app/copy/?code=AFKJDungeon)
+
+x3 Invite Letters, 200 Diamonds, and 20k Gold<br />*Added May 16, 2025*
+
+### [`AFKJEOF`](https://nexus-codes.app/copy/?code=AFKJEOF)
+
+200 Diamonds and 20k Gold<br />*Added May 16, 2025*
+
+### [`AFKJEOF0523`](https://nexus-codes.app/copy/?code=AFKJEOF0523)
+
+200 Diamonds and 20k Gold<br />*Added May 16, 2025*
+
+### [`RYDEN&LUNADEBUT`](https://nexus-codes.app/copy/?code=RYDEN%26LUNADEBUT)
+
+300 Diamonds and 20k Gold<br />*Added May 16, 2025*
+
 ### [`LILITH12TH`](https://nexus-codes.app/copy/?code=LILITH12TH)
 
 1 2k Diamonds and x12 Invite Letters<br />*Added May 9, 2025*

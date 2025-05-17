@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`TREEHUGGER`](https://nexus-codes.app/copy/?code=TREEHUGGER)
+
+**New Players Only**<br />*Added May 17, 2025*
+
+### [`GETLOKI`](https://nexus-codes.app/copy/?code=GETLOKI)
+
+**New Players Only**<br />*Added May 17, 2025*
+
+### [`GETALICE`](https://nexus-codes.app/copy/?code=GETALICE)
+
+**New Players Only**<br />*Added May 17, 2025*
+
 ### [`TRIVIADUNGEON`](https://nexus-codes.app/copy/?code=TRIVIADUNGEON)
 
 *Added May 7, 2025*

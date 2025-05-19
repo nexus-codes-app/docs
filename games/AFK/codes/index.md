@@ -90,27 +90,11 @@ x1 Glorious Hero Chest Iii, 20 Summon Tickets, 100k Gold<br />*Added Mar 28, 202
 
 100 Diamonds and 10k Gold<br />*Added Mar 26, 2025*
 
-### [`AFKJfuyuyo`](https://nexus-codes.app/copy/?code=AFKJfuyuyo)
-
-200 Diamonds + Gold<br />*Added Feb 10, 2025*
-
-### [`MVH8L2O34J`](https://nexus-codes.app/copy/?code=MVH8L2O34J)
-
-500 Diamonds + Gold<br />*Added Feb 10, 2025*
-
 ### [`AFKJWhiteridge`](https://nexus-codes.app/copy/?code=AFKJWhiteridge)
 
 200 Diamonds<br />*Added Jan 5, 2025*
 
 ### [`AFKJICESEASON`](https://nexus-codes.app/copy/?code=AFKJICESEASON)
-
-200 Diamonds<br />*Added Jan 5, 2025*
-
-### [`ChainsofEternity`](https://nexus-codes.app/copy/?code=ChainsofEternity)
-
-200 Diamonds<br />*Added Jan 5, 2025*
-
-### [`SNOWLORSAN`](https://nexus-codes.app/copy/?code=SNOWLORSAN)
 
 200 Diamonds<br />*Added Jan 5, 2025*
 

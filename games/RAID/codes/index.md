@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`PP500`](https://nexus-codes.app/copy/?code=PP500)
+
+*Added May 21, 2025*
+
+### [`1WEEKGIFT`](https://nexus-codes.app/copy/?code=1WEEKGIFT)
+
+*Added May 21, 2025*
+
 ### [`TREEHUGGER`](https://nexus-codes.app/copy/?code=TREEHUGGER)
 
 **New Players Only**<br />*Added May 17, 2025*

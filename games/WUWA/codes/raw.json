@@ -1,5 +1,20 @@
 [
   {
+    "code": "AGONISON",
+    "rewards": "100 Astrite, One Weekly Challenge Supply Pack, and Two Advanced Sealed Tubes",
+    "date": "2025-05-30T12:00:15.575Z"
+  },
+  {
+    "code": "FLAMESOFHEART",
+    "rewards": "100 Astrite, Two Forgery Premium Supplies, and 40,000 Shell Credits",
+    "date": "2025-05-30T11:30:04.425Z"
+  },
+  {
+    "code": "SHADOWOFGLORY",
+    "rewards": "100 Astrite, Four Premium Resonance Potions, and Five Advanced Energy Cores",
+    "date": "2025-05-30T11:30:04.425Z"
+  },
+  {
     "code": "WITHYOU",
     "rewards": "100 Astrite, 20 Premium Tuners, and Five Advanced Sealed Tubes",
     "date": "2025-04-19T12:30:04.942Z"
@@ -13,21 +28,6 @@
     "code": "EVERFLOWING",
     "rewards": "100 Astrite, Two Forgery Premium Supplies, and 40k Shell Credits",
     "date": "2025-04-19T12:00:06.510Z"
-  },
-  {
-    "code": "LEVIATHAN",
-    "rewards": "100 Astrite, Three Advanced Energy Cores, and Two Medium Nutrient Blocks",
-    "date": "2025-03-21T12:00:03.223Z"
-  },
-  {
-    "code": "WHOAMI",
-    "rewards": "100 Astrite, Three Advanced Enclosure Tanks, and 20k Shell Credits",
-    "date": "2025-03-21T12:00:03.223Z"
-  },
-  {
-    "code": "IMPERATOR",
-    "rewards": "100 Astrite, Three Advanced Resonance Potions, and Two Medium Revival Inhalers",
-    "date": "2025-03-21T11:30:05.956Z"
   },
   {
     "code": "WUWA4PC",

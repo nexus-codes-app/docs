@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`HYACINEHEALS`](https://hsr.hoyoverse.com/gift?code=HYACINEHEALS)
+
+x3 Traveler S Guide and x2 Golden Honycake<br />*Added May 22, 2025*
+
+### [`WAJ7CVBC4SG3`](https://hsr.hoyoverse.com/gift?code=WAJ7CVBC4SG3)
+
+50 Stellar Jade and 10k Credits<br />*Added May 22, 2025*
+
+### [`WAJ7CVBC4SG3T`](https://hsr.hoyoverse.com/gift?code=WAJ7CVBC4SG3T)
+
+50 Stellar Jades + Exp Materials<br />*Added May 22, 2025*
+
 ### [`5S6ZHRWTDNJB`](https://hsr.hoyoverse.com/gift?code=5S6ZHRWTDNJB)
 
 60 Stellar Jade<br />*Added May 12, 2025*
@@ -62,33 +74,9 @@ Three Traveler S Guides and Two Redsoil Feeds<br />*Added Apr 9, 2025*
 
 50 Stellar Jade and 10k Credits<br />*Added Apr 9, 2025*
 
-### [`CA353MC6WMQB`](https://hsr.hoyoverse.com/gift?code=CA353MC6WMQB)
-
-100 Stellar Jade and Five Refined Aether<br />*Added Mar 28, 2025*
-
-### [`LT25JMU7F477`](https://hsr.hoyoverse.com/gift?code=LT25JMU7F477)
-
-100 Stellar Jades, 5 Traveler S Guide<br />*Added Mar 28, 2025*
-
-### [`JS3MKMVNEL63`](https://hsr.hoyoverse.com/gift?code=JS3MKMVNEL63)
-
-100 Stellar Jades, 50,000 Credits<br />*Added Mar 28, 2025*
-
 ### [`FIGHTWELLMYDEI`](https://hsr.hoyoverse.com/gift?code=FIGHTWELLMYDEI)
 
 Three Traveler S Guides and Two Golden Honeycakes<br />*Added Mar 19, 2025*
-
-### [`DBKMW7MA6XB3`](https://hsr.hoyoverse.com/gift?code=DBKMW7MA6XB3)
-
-50 Stellar Jade and 10k Credits<br />*Added Mar 19, 2025*
-
-### [`HSRCHOCO`](https://hsr.hoyoverse.com/gift?code=HSRCHOCO)
-
-Three Traveler S Guides, Three Lost Lightdust, and Three Trick Snacks<br />*Added Mar 17, 2025*
-
-### [`HSRWHITEDAY2025`](https://hsr.hoyoverse.com/gift?code=HSRWHITEDAY2025)
-
-Six Adventure Logs and Two Hundred Layer Sundaes  Zero Calories<br />*Added Mar 17, 2025*
 
 ### [`WHEREISTRIBBIE`](https://hsr.hoyoverse.com/gift?code=WHEREISTRIBBIE)
 

@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`HALFANNI`](https://nexus-codes.app/copy/?code=HALFANNI)
+
+200x Collapse Pieces, 3,000x Sardis Gold, 2,000x Analysis Blueprint, 2x Next Gen Memory Sticks<br />*Added Jun 6, 2025*
+
+### [`DRAGONBOAT`](https://nexus-codes.app/copy/?code=DRAGONBOAT)
+
+100x Collapse Pieces, 2x Next Gen Memory Sticks, 1x Access Permission Key<br />*Added Jun 2, 2025*
+
+### [`DOLLSGIFT`](https://nexus-codes.app/copy/?code=DOLLSGIFT)
+
+2x Next Gen Memory Sticks, 100x Collapse Pieces, 1 Access Permission Key<br />*Added May 23, 2025*
+
 ### [`GOLDENWEEK`](https://nexus-codes.app/copy/?code=GOLDENWEEK)
 
 2x Next Gen Memory Sticks, 100x Collapse Pieces, 1x Access Permission Key<br />*Added May 9, 2025*

@@ -1,5 +1,15 @@
 [
   {
+    "code": "ZZZ2NDSEASON",
+    "rewards": "50 Polychrome",
+    "date": "2025-05-29T09:30:04.832Z"
+  },
+  {
+    "code": "ZZZANNIVERSARY",
+    "rewards": "300 Polychrome, 30k Denny, Two Senior Investigator Logs, and Three W Engine Energy Modules",
+    "date": "2025-05-23T11:30:14.289Z"
+  },
+  {
     "code": "ZZZ17TIMOTHYRANDY",
     "rewards": "60 Polychrome and 6,666 Dennies",
     "date": "2025-04-24T10:30:06.918Z"
@@ -10,43 +20,8 @@
     "date": "2025-04-11T15:00:06.496Z"
   },
   {
-    "code": "ZZZ16SPECIAL",
-    "rewards": "60 Polychrome and 6,666 Dennies",
-    "date": "2025-03-12T17:30:04.925Z"
-  },
-  {
-    "code": "ZZZFM",
-    "rewards": "50,000 Dennies, 3 Senior Investigator Log, 3 W Engine Energy Model, 3 Ether Plating Agent, 1 Ether Battery",
-    "date": "2025-03-03T16:30:04.707Z"
-  },
-  {
-    "code": "MIYABIRELEASE",
-    "rewards": "60 Polychromes  and 6666 Dennies",
-    "date": "2025-03-03T16:30:04.707Z"
-  },
-  {
-    "code": "ZZZASSEMBLE",
-    "rewards": "30 Polychromes",
-    "date": "2025-03-03T16:30:04.707Z"
-  },
-  {
-    "code": "SOLDIER0ANBY",
-    "rewards": "300 Polychrome, 30k Denny, Two Senior Investigator Logs, and Three W Engine Energy Modules",
-    "date": "2025-02-28T12:00:05.363Z"
-  },
-  {
     "code": "ZENLESSGIFT",
     "rewards": "50 Polychrome, Two Official Investigator Logs, Three W Engine Power Supplies, and One Bangboo Algorithm Module",
     "date": "2025-01-16T10:30:05.084Z"
-  },
-  {
-    "code": "HSAHLWFEFE",
-    "rewards": "60 Polychrome and 6,666 Denny",
-    "date": "2025-01-16T10:30:05.084Z"
-  },
-  {
-    "code": "LS7FG347AHRH",
-    "rewards": "10 Polychromes, 6666 Dennies, 4 Crystallized Plating Agent, 4 Official Investigator Log",
-    "date": "2025-01-06T13:30:05.507Z"
   }
 ]

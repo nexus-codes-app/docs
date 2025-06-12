@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`AWWFTEJHMG`](https://nexus-codes.app/copy/?code=AWWFTEJHMG)
+
+500 Diamonds, x10 Origami Hamsters, 50k Gold<br />*Added Jun 2, 2025*
+
+### [`WMTRWAKILO`](https://nexus-codes.app/copy/?code=WMTRWAKILO)
+
+500 Diamonds + Gold<br />*Added May 30, 2025*
+
 ### [`NHHLRMMDDY`](https://nexus-codes.app/copy/?code=NHHLRMMDDY)
 
 500 Diamonds, x10 Origami Hamster, 50k Gold<br />*Added May 16, 2025*
@@ -69,14 +77,6 @@ x10 Invite Letters<br />*Added May 3, 2025*
 ### [`AFKJWHATSNEW`](https://nexus-codes.app/copy/?code=AFKJWHATSNEW)
 
 300 Diamonds and 20k Gold<br />*Added Mar 28, 2025*
-
-### [`AFKOnederfulJourney`](https://nexus-codes.app/copy/?code=AFKOnederfulJourney)
-
-x1 Glorious Hero Chest Iii, 20 Summon Tickets, 100k Gold<br />*Added Mar 28, 2025*
-
-### [`132NEWSFROMPN`](https://nexus-codes.app/copy/?code=132NEWSFROMPN)
-
-300 Diamonds and 20k Gold<br />*Added Mar 26, 2025*
 
 ### [`AFKJNewS2025`](https://nexus-codes.app/copy/?code=AFKJNewS2025)
 

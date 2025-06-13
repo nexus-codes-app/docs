@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`RMGGNPGLDQ`](https://nexus-codes.app/copy/?code=RMGGNPGLDQ)
+
+500 Diamonds, x10 Origami Hamsters, 50k Gold<br />*Added Jun 13, 2025*
+
 ### [`AWWFTEJHMG`](https://nexus-codes.app/copy/?code=AWWFTEJHMG)
 
 500 Diamonds, x10 Origami Hamsters, 50k Gold<br />*Added Jun 2, 2025*
@@ -65,10 +69,6 @@ x10 Invite Letters<br />*Added May 3, 2025*
 ### [`oneyearshowdown`](https://nexus-codes.app/copy/?code=oneyearshowdown)
 
 300 Diamonds and 20k Gold<br />*Added Apr 11, 2025*
-
-### [`e8kxz1s9yh`](https://nexus-codes.app/copy/?code=e8kxz1s9yh)
-
-500 Diamonds, x10 Origami Hamsters, 50k Gold<br />*Added Apr 4, 2025*
 
 ### [`HAPPYEVERYDAY`](https://nexus-codes.app/copy/?code=HAPPYEVERYDAY)
 

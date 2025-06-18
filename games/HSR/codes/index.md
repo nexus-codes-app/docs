@@ -74,10 +74,6 @@ Three Traveler S Guides and Two Redsoil Feeds<br />*Added Apr 9, 2025*
 
 60 Stellar Jade and One Fuel<br />*Added Apr 9, 2025*
 
-### [`LS342LYLC5FP`](https://hsr.hoyoverse.com/gift?code=LS342LYLC5FP)
-
-50 Stellar Jade and 10k Credits<br />*Added Apr 9, 2025*
-
 ### [`FIGHTWELLMYDEI`](https://hsr.hoyoverse.com/gift?code=FIGHTWELLMYDEI)
 
 Three Traveler S Guides and Two Golden Honeycakes<br />*Added Mar 19, 2025*

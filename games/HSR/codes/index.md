@@ -66,10 +66,6 @@ Three Traveler S Guides and Two Dried Sagelore Fruit<br />*Added May 1, 2025*
 
 120 Stellar Jade<br />*Added Apr 28, 2025*
 
-### [`HSRCASTORICE`](https://hsr.hoyoverse.com/gift?code=HSRCASTORICE)
-
-Three Traveler S Guides and Two Redsoil Feeds<br />*Added Apr 9, 2025*
-
 ### [`FAREWELL`](https://hsr.hoyoverse.com/gift?code=FAREWELL)
 
 60 Stellar Jade and One Fuel<br />*Added Apr 9, 2025*

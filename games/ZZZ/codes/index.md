@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ABZVGEWK3O`](https://zenless.hoyoverse.com/redemption?code=ABZVGEWK3O)
+
+20k Dennies<br />*Added Jun 19, 2025*
+
+### [`ZZZ20NEWSEASON`](https://zenless.hoyoverse.com/redemption?code=ZZZ20NEWSEASON)
+
+60 Polychrome and 6,666 Dennies<br />*Added Jun 19, 2025*
+
+### [`ZZZ20SIMI`](https://zenless.hoyoverse.com/redemption?code=ZZZ20SIMI)
+
+60 Polychrome and 6,666 Dennies<br />*Added Jun 19, 2025*
+
 ### [`ZZZ2NDSEASON`](https://zenless.hoyoverse.com/redemption?code=ZZZ2NDSEASON)
 
 50 Polychrome<br />*Added May 29, 2025*

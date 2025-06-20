@@ -38,10 +38,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 60 Polychrome and 6,666 Dennies<br />*Added Apr 24, 2025*
 
-### [`MOCKINGBIRD`](https://zenless.hoyoverse.com/redemption?code=MOCKINGBIRD)
-
-300 Polychromes  and 30,000 Dennies<br />*Added Apr 11, 2025*
-
 ### [`ZENLESSGIFT`](https://zenless.hoyoverse.com/redemption?code=ZENLESSGIFT)
 
 50 Polychrome, Two Official Investigator Logs, Three W Engine Power Supplies, and One Bangboo Algorithm Module<br />*Added Jan 16, 2025*

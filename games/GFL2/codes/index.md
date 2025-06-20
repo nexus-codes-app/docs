@@ -34,14 +34,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 50x Collapse Pieces, 3,000 Sardis Gold, 5,000 Combat Reports, 5,000 Analysis Blueprint<br />*Added Apr 22, 2025*
 
-### [`404RETURN`](https://nexus-codes.app/copy/?code=404RETURN)
-
-100x Collapse Pieces, 3,000 Sardis Gold, 2x Access Keys<br />*Added Apr 11, 2025*
-
-### [`IAMPERFECT`](https://nexus-codes.app/copy/?code=IAMPERFECT)
-
-50x Collapse Pieces, 5,000 Combat Reports, 5,000 Analysis Blueprints<br />*Added Apr 11, 2025*
-
 ### [`GFL2GIFT`](https://nexus-codes.app/copy/?code=GFL2GIFT)
 
 1k Sardis Gold, 3k Analysis Blueprints, 150 Collapse Pieces<br />*Added Apr 8, 2025*

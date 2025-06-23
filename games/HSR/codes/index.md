@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`FAREWELL`](https://hsr.hoyoverse.com/gift?code=FAREWELL)
+
+60 Stellar Jade and One Fuel<br />*Added Jun 23, 2025*
+
 ### [`ZS36CVBUMTZB`](https://hsr.hoyoverse.com/gift?code=ZS36CVBUMTZB)
 
 100 Stellar Jade and x5 Traveler S Guide<br />*Added Jun 20, 2025*

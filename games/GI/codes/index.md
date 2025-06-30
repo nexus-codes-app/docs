@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`GIFTFROMSKIRK57`](https://genshin.hoyoverse.com/en/gift?code=GIFTFROMSKIRK57)
+
+Three Shivada Jade Fragments, Three Meshing Gears, Three Fine Enhancement Ore, and 30k Mora<br />*Added Jun 30, 2025*
+
 ### [`GS57YTSNLJ`](https://genshin.hoyoverse.com/en/gift?code=GS57YTSNLJ)
 
 Three Hero S Wit, Five Mystic Enhancement Ore, Three Teachings Of Contention, Three Shivada Jade Slivers, and 30k Mora<br />*Added Jun 19, 2025*

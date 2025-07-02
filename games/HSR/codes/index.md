@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`PHAINONSENDOFF`](https://hsr.hoyoverse.com/gift?code=PHAINONSENDOFF)
+
+Three Traveler S Guides and Two  Dried Bread<br />*Added Jul 2, 2025*
+
+### [`ABKN6KR9UB5B`](https://hsr.hoyoverse.com/gift?code=ABKN6KR9UB5B)
+
+50 Stellar Jade and 10k Credits<br />*Added Jul 2, 2025*
+
+### [`CREATIONNYMPH`](https://hsr.hoyoverse.com/gift?code=CREATIONNYMPH)
+
+60 Stellar Jade and One Fuel<br />*Added Jul 2, 2025*
+
 ### [`FAREWELL`](https://hsr.hoyoverse.com/gift?code=FAREWELL)
 
 60 Stellar Jade and One Fuel<br />*Added Jun 23, 2025*

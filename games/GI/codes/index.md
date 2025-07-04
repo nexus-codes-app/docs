@@ -102,18 +102,6 @@ x60 Primogems and x5 Adventurer S Experience<br />*Added May 1, 2025*
 
 30 Primogems  New   Expires May 3<br />*Added Apr 30, 2025*
 
-### [`ChefEscoffier0507`](https://genshin.hoyoverse.com/en/gift?code=ChefEscoffier0507)
-
-100 Primogems, 5 Hero S Wit<br />*Added Apr 25, 2025*
-
-### [`IfaCacucu0507`](https://genshin.hoyoverse.com/en/gift?code=IfaCacucu0507)
-
-100 Primogems and 50k Mora<br />*Added Apr 25, 2025*
-
-### [`GI56Paralogism`](https://genshin.hoyoverse.com/en/gift?code=GI56Paralogism)
-
-100 Primogems and Ten Mystic Enhancement Ore<br />*Added Apr 25, 2025*
-
 ### [`OSOIDWA2R5H3`](https://genshin.hoyoverse.com/en/gift?code=OSOIDWA2R5H3)
 
 10,000 Mora, x10 Adventurer S Experience, x5 Fine Enhancement Ore, x5 Stir Fried Fish Noodles, x5 Jueyun Chili Chicken<br />*Added Apr 17, 2025*

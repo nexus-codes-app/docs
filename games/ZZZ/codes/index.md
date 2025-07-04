@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`SPOOKSHACK`](https://zenless.hoyoverse.com/redemption?code=SPOOKSHACK)
+
+300 Polychrome, 30k Denny, Two Senior Investigator Logs, and Three W Engine Energy Modules<br />*Added Jul 4, 2025*
+
 ### [`ABZVGEWK3O`](https://zenless.hoyoverse.com/redemption?code=ABZVGEWK3O)
 
 20k Dennies<br />*Added Jun 19, 2025*

@@ -82,26 +82,6 @@ x60 Primogems and x5 Adventurer S Experience<br />*Added May 1, 2025*
 
 200 Primogems<br />*Added Apr 30, 2025*
 
-### [`FATUI`](https://genshin.hoyoverse.com/en/gift?code=FATUI)
-
-30 Primogems<br />*Added Apr 30, 2025*
-
-### [`FROSTMOONSCIONS`](https://genshin.hoyoverse.com/en/gift?code=FROSTMOONSCIONS)
-
-30 Primogems<br />*Added Apr 30, 2025*
-
-### [`LIGHTKEEPERS`](https://genshin.hoyoverse.com/en/gift?code=LIGHTKEEPERS)
-
-30 Primogems  New   Expires May 3<br />*Added Apr 30, 2025*
-
-### [`THEWILDHUNT`](https://genshin.hoyoverse.com/en/gift?code=THEWILDHUNT)
-
-30 Primogems  New   Expires May 3<br />*Added Apr 30, 2025*
-
-### [`VOYNICHGUILD`](https://genshin.hoyoverse.com/en/gift?code=VOYNICHGUILD)
-
-30 Primogems  New   Expires May 3<br />*Added Apr 30, 2025*
-
 ### [`OSOIDWA2R5H3`](https://genshin.hoyoverse.com/en/gift?code=OSOIDWA2R5H3)
 
 10,000 Mora, x10 Adventurer S Experience, x5 Fine Enhancement Ore, x5 Stir Fried Fish Noodles, x5 Jueyun Chili Chicken<br />*Added Apr 17, 2025*

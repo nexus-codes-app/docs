@@ -74,10 +74,6 @@ Five Beryl Conch, Two Lasagna, Two Fish and Chips, Two Tomates Narbonnaises, Two
 
 x60 Primogems and x5 Adventurer S Experience<br />*Added May 1, 2025*
 
-### [`NODKRAI0910`](https://genshin.hoyoverse.com/en/gift?code=NODKRAI0910)
-
-200 Primogems  New   Expires May 3<br />*Added Apr 30, 2025*
-
 ### [`OSOIDWA2R5H3`](https://genshin.hoyoverse.com/en/gift?code=OSOIDWA2R5H3)
 
 10,000 Mora, x10 Adventurer S Experience, x5 Fine Enhancement Ore, x5 Stir Fried Fish Noodles, x5 Jueyun Chili Chicken<br />*Added Apr 17, 2025*

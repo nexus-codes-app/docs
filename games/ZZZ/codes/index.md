@@ -14,6 +14,26 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ZZZYOU`](https://zenless.hoyoverse.com/redemption?code=ZZZYOU)
+
+20 Polychrome, 30k Dennies, and Five Ether Plating Agents<br />*Added Jul 10, 2025*
+
+### [`ZZZTHANK`](https://zenless.hoyoverse.com/redemption?code=ZZZTHANK)
+
+20 Polychrome, 30k Dennies, and Five Senior Investigator Logs<br />*Added Jul 10, 2025*
+
+### [`ZZZWITHUS`](https://zenless.hoyoverse.com/redemption?code=ZZZWITHUS)
+
+20 Polychrome, 30k Dennies, and Five Senior Investigator Logs<br />*Added Jul 10, 2025*
+
+### [`ZZZSTAYING`](https://zenless.hoyoverse.com/redemption?code=ZZZSTAYING)
+
+20 Polychrome, 30k Dennies, and Five Bangboo System Widgets<br />*Added Jul 10, 2025*
+
+### [`ZZZFOR`](https://zenless.hoyoverse.com/redemption?code=ZZZFOR)
+
+20 Polychrome, 30k Dennies, and Five W Engine Energy Modules<br />*Added Jul 10, 2025*
+
 ### [`SPOOKSHACK`](https://zenless.hoyoverse.com/redemption?code=SPOOKSHACK)
 
 300 Polychrome, 30k Denny, Two Senior Investigator Logs, and Three W Engine Energy Modules<br />*Added Jul 4, 2025*

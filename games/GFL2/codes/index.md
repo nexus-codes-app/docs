@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ELMORADIO`](https://nexus-codes.app/copy/?code=ELMORADIO)
+
+50 Collapse Pieces, 5,000 Combat Reports, 5,000 Analysis Blueprints<br />*Added Jul 11, 2025*
+
 ### [`HALFANNI`](https://nexus-codes.app/copy/?code=HALFANNI)
 
 200x Collapse Pieces, 3,000x Sardis Gold, 2,000x Analysis Blueprint, 2x Next Gen Memory Sticks<br />*Added Jun 6, 2025*

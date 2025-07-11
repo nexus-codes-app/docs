@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`EZIZ8W3J47NA`](https://genshin.hoyoverse.com/en/gift?code=EZIZ8W3J47NA)
+
+10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Stir Fried Fish Noodles, and Five Jueyum Chili Chicken<br />*Added Jul 11, 2025*
+
+### [`Vamosacorrer25`](https://genshin.hoyoverse.com/en/gift?code=Vamosacorrer25)
+
+20k Mora, One Delicious Puff Pop, One Blazed Meat Stew, and One Grainfruit Chip<br />*Added Jul 11, 2025*
+
 ### [`GIFTFROMSKIRK57`](https://genshin.hoyoverse.com/en/gift?code=GIFTFROMSKIRK57)
 
 Three Shivada Jade Fragments, Three Meshing Gears, Three Fine Enhancement Ore, and 30k Mora<br />*Added Jun 30, 2025*

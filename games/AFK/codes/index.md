@@ -58,10 +58,6 @@ x3 Invite Letters, 200 Diamonds, and 20k Gold<br />*Added May 16, 2025*
 
 1 2k Diamonds and x12 Invite Letters<br />*Added May 9, 2025*
 
-### [`GDXLTJNCKL`](https://nexus-codes.app/copy/?code=GDXLTJNCKL)
-
-x10 Original Hamsters, 500 Diamonds, and 50k Gold<br />*Added May 3, 2025*
-
 ### [`amwhrvsbsz`](https://nexus-codes.app/copy/?code=amwhrvsbsz)
 
 x10 Invite Letters<br />*Added May 3, 2025*

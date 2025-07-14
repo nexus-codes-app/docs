@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`STARRAILFATE`](https://hsr.hoyoverse.com/gift?code=STARRAILFATE)
+
+Three Traveler S Guides and Two Sword In the Stones<br />*Added Jul 14, 2025*
+
 ### [`PHAINONSENDOFF`](https://hsr.hoyoverse.com/gift?code=PHAINONSENDOFF)
 
 Three Traveler S Guides and Two  Dried Bread<br />*Added Jul 2, 2025*

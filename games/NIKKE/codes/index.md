@@ -18,26 +18,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 Advanced Recruit Voucher x5<br />*Added Jun 7, 2025*
 
-### [`30MONTHSTOGETHER`](https://nexus-codes.app/copy/?code=30MONTHSTOGETHER)
-
-Growth Set 1h x6<br />*Added May 4, 2025*
-
-### [`NIKKEUNDERSEA`](https://nexus-codes.app/copy/?code=NIKKEUNDERSEA)
-
-2 5th Anniversary Cake x1<br />*Added Apr 19, 2025*
-
-### [`BUBBLEPARADISEYO`](https://nexus-codes.app/copy/?code=BUBBLEPARADISEYO)
-
-Recruit Voucher x10<br />*Added Apr 19, 2025*
-
-### [`THXMISSILIS`](https://nexus-codes.app/copy/?code=THXMISSILIS)
-
-Gem x300<br />*Added Apr 19, 2025*
-
-### [`TACTICALBUBBLE`](https://nexus-codes.app/copy/?code=TACTICALBUBBLE)
-
-Gem x600<br />*Added Apr 19, 2025*
-
 ### [`NIKKE1104`](https://nexus-codes.app/copy/?code=NIKKE1104)
 
 Credit 2h X1<br />*Added Aug 6, 2024*

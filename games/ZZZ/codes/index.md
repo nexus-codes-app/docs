@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ZZZ21SUMMER`](https://zenless.hoyoverse.com/redemption?code=ZZZ21SUMMER)
+
+60 Polychrome and 6,666 Dennies<br />*Added Jul 16, 2025*
+
 ### [`ZZZYOU`](https://zenless.hoyoverse.com/redemption?code=ZZZYOU)
 
 20 Polychrome, 30k Dennies, and Five Ether Plating Agents<br />*Added Jul 10, 2025*

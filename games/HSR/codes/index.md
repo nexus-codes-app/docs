@@ -74,14 +74,6 @@ x3 Traveler S Guide and x2 Golden Honycake<br />*Added May 22, 2025*
 
 100 Stellar Jade and Five Refined Aether<br />*Added May 9, 2025*
 
-### [`GT34K5Z4U4EX`](https://hsr.hoyoverse.com/gift?code=GT34K5Z4U4EX)
-
-100 Stellar Jade and Five Traveler S Guides<br />*Added May 9, 2025*
-
-### [`WS25K4Y4C5ET`](https://hsr.hoyoverse.com/gift?code=WS25K4Y4C5ET)
-
-100 Stellar Jade and 50k Credits<br />*Added May 9, 2025*
-
 ### [`ATELIERANAXA`](https://hsr.hoyoverse.com/gift?code=ATELIERANAXA)
 
 Three Traveler S Guides and Two Dried Sagelore Fruit<br />*Added May 1, 2025*

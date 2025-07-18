@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`THISISFINALE`](https://nexus-codes.app/copy/?code=THISISFINALE)
+
+100 Astrite, Three Advanced Enclosure Tanks, and 20k Shell Credits<br />*Added Jul 18, 2025*
+
+### [`DREAMSPERSIST`](https://nexus-codes.app/copy/?code=DREAMSPERSIST)
+
+100 Astrite, Three Advanced Energy Cores, and Two Medium Nutrient Blocks<br />*Added Jul 18, 2025*
+
+### [`ILLUSIONHAUNTS`](https://nexus-codes.app/copy/?code=ILLUSIONHAUNTS)
+
+100 Astrite, Three Advanced Resonance Potions, and Two Medium Revival Inhalers<br />*Added Jul 18, 2025*
+
 ### [`AGONISON`](https://nexus-codes.app/copy/?code=AGONISON)
 
 100 Astrite, One Weekly Challenge Supply Pack, and Two Advanced Sealed Tubes<br />*Added May 30, 2025*

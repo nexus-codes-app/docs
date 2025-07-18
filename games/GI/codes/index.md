@@ -74,10 +74,6 @@ Five Beryl Conch, Two Lasagna, Two Fish and Chips, Two Tomates Narbonnaises, Two
 
 30 Primogems, 20k Mora, and Three Hero S Wit<br />*Added May 16, 2025*
 
-### [`ZXUY83279WB1`](https://genshin.hoyoverse.com/en/gift?code=ZXUY83279WB1)
-
-10k  Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Fish Noodles<br />*Added May 9, 2025*
-
 ### [`ZT5RJ4AX4WYV`](https://genshin.hoyoverse.com/en/gift?code=ZT5RJ4AX4WYV)
 
 x60 Primogems and x5 Adventurer S Experience<br />*Added May 1, 2025*

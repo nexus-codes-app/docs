@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`TranquilBanquet`](https://genshin.hoyoverse.com/en/gift?code=TranquilBanquet)
+
+100 Primogems and 50k Mora<br />*Added Jul 18, 2025*
+
+### [`Summer0730Asha`](https://genshin.hoyoverse.com/en/gift?code=Summer0730Asha)
+
+100 Primogems and Five Hero S Wit<br />*Added Jul 18, 2025*
+
+### [`Ineffa0730Birgitta`](https://genshin.hoyoverse.com/en/gift?code=Ineffa0730Birgitta)
+
+100 Primogems and Ten Mystic Enhancement Ore<br />*Added Jul 18, 2025*
+
 ### [`EZIZ8W3J47NA`](https://genshin.hoyoverse.com/en/gift?code=EZIZ8W3J47NA)
 
 10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Stir Fried Fish Noodles, and Five Jueyum Chili Chicken<br />*Added Jul 11, 2025*

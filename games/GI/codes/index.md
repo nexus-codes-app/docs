@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`VSWSRL22S4PD`](https://genshin.hoyoverse.com/en/gift?code=VSWSRL22S4PD)
+
+20k Mora, Three Ideal Circumstance Meals, and Three the Endeavour Meals<br />*Added Jul 22, 2025*
+
+### [`CLD6ZWU35GTH`](https://genshin.hoyoverse.com/en/gift?code=CLD6ZWU35GTH)
+
+60 Primogems and Five Adventurer S Experience<br />*Added Jul 22, 2025*
+
+### [`GS58YTPGFY`](https://genshin.hoyoverse.com/en/gift?code=GS58YTPGFY)
+
+30k Mora, Three Hero S Wit, Five Mystic Enhancement Ore, Three Vajrada Amethyst Slivers, and Three Teachings Of Conflict<br />*Added Jul 22, 2025*
+
 ### [`TranquilBanquet`](https://genshin.hoyoverse.com/en/gift?code=TranquilBanquet)
 
 100 Primogems and 50k Mora<br />*Added Jul 18, 2025*

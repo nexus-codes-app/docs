@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ALICEYUZUHA`](https://zenless.hoyoverse.com/redemption?code=ALICEYUZUHA)
+
+50 Polychrome<br />*Added Jul 22, 2025*
+
 ### [`ZZZ21SUMMER`](https://zenless.hoyoverse.com/redemption?code=ZZZ21SUMMER)
 
 60 Polychrome and 6,666 Dennies<br />*Added Jul 16, 2025*

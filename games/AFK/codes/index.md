@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`AFKJ143NEWS`](https://nexus-codes.app/copy/?code=AFKJ143NEWS)
+
+300 Diamonds + Gold<br />*Added Jul 23, 2025*
+
+### [`ONEDERFULAFKJ`](https://nexus-codes.app/copy/?code=ONEDERFULAFKJ)
+
+10 Summon Tickets + Selector Box + Gold<br />*Added Jul 23, 2025*
+
 ### [`EXPLOREESSAIL`](https://nexus-codes.app/copy/?code=EXPLOREESSAIL)
 
 300 Diamonds and 20k Gold<br />*Added Jun 23, 2025*

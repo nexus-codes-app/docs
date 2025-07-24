@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`YUZUHAGIFT`](https://zenless.hoyoverse.com/redemption?code=YUZUHAGIFT)
+
+10k Dennies, Ten Official Investigator Logs, Ten W Engine Power Supplies, and Ten Crystallized Plating Agents<br />*Added Jul 24, 2025*
+
 ### [`ALICEYUZUHA`](https://zenless.hoyoverse.com/redemption?code=ALICEYUZUHA)
 
 50 Polychrome<br />*Added Jul 22, 2025*

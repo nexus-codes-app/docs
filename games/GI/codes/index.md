@@ -86,18 +86,6 @@ Three Hero S Wit, Five Mystic Enhancement Ore, Three Teachings Of Contention, Th
 
 10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Stir Fried Fish Noodles, and Five Jueyun Chili Chicken<br />*Added May 30, 2025*
 
-### [`ZXUYP2X2EF14`](https://genshin.hoyoverse.com/en/gift?code=ZXUYP2X2EF14)
-
-Two Fish and Chips, Two Lasagna, Two Tomates Narbonnaises, Two Barbeque Ribs, Two Bulle Sauce Duck Breasts, and Three Meshing Gears<br />*Added May 16, 2025*
-
-### [`VSL93LTE5WY5`](https://genshin.hoyoverse.com/en/gift?code=VSL93LTE5WY5)
-
-Five Beryl Conch, Two Lasagna, Two Fish and Chips, Two Tomates Narbonnaises, Two Bulle Sauce Duck Breast, Two Barbeque Ribs, and Three Meshing Gears<br />*Added May 16, 2025*
-
-### [`56CacucuVSAjaw`](https://genshin.hoyoverse.com/en/gift?code=56CacucuVSAjaw)
-
-30 Primogems, 20k Mora, and Three Hero S Wit<br />*Added May 16, 2025*
-
 ### [`ZT5RJ4AX4WYV`](https://genshin.hoyoverse.com/en/gift?code=ZT5RJ4AX4WYV)
 
 x60 Primogems and x5 Adventurer S Experience<br />*Added May 1, 2025*

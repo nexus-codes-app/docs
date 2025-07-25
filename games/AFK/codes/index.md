@@ -38,10 +38,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 500 Diamonds + Gold<br />*Added May 30, 2025*
 
-### [`NHHLRMMDDY`](https://nexus-codes.app/copy/?code=NHHLRMMDDY)
-
-500 Diamonds, x10 Origami Hamster, 50k Gold<br />*Added May 16, 2025*
-
 ### [`IronholdBay`](https://nexus-codes.app/copy/?code=IronholdBay)
 
 100 Diamonds and 10k Gold<br />*Added May 16, 2025*

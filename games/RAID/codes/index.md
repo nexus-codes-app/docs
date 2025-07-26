@@ -22,18 +22,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 *Added May 21, 2025*
 
-### [`TREEHUGGER`](https://nexus-codes.app/copy/?code=TREEHUGGER)
-
-**New Players Only**<br />*Added May 17, 2025*
-
-### [`GETLOKI`](https://nexus-codes.app/copy/?code=GETLOKI)
-
-**New Players Only**<br />*Added May 17, 2025*
-
-### [`GETALICE`](https://nexus-codes.app/copy/?code=GETALICE)
-
-**New Players Only**<br />*Added May 17, 2025*
-
 ### [`TRIVIADUNGEON`](https://nexus-codes.app/copy/?code=TRIVIADUNGEON)
 
 *Added May 7, 2025*

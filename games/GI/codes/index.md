@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`NSXD6FDNHCS5`](https://genshin.hoyoverse.com/en/gift?code=NSXD6FDNHCS5)
+
+20k Mora, Five Adventurer S Experience, and Three Saurus Crackers<br />*Added Jul 30, 2025*
+
 ### [`VSWSRL22S4PD`](https://genshin.hoyoverse.com/en/gift?code=VSWSRL22S4PD)
 
 20k Mora, Three Ideal Circumstance Meals, and Three the Endeavour Meals<br />*Added Jul 22, 2025*

@@ -62,10 +62,6 @@ x3 Traveler S Guide and x2 Golden Honycake<br />*Added May 22, 2025*
 
 50 Stellar Jade and 10k Credits<br />*Added May 22, 2025*
 
-### [`WAJ7CVBC4SG3T`](https://hsr.hoyoverse.com/gift?code=WAJ7CVBC4SG3T)
-
-50 Stellar Jades + Exp Materials<br />*Added May 22, 2025*
-
 ### [`5S6ZHRWTDNJB`](https://hsr.hoyoverse.com/gift?code=5S6ZHRWTDNJB)
 
 60 Stellar Jade<br />*Added May 12, 2025*

@@ -26,10 +26,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 100x Collapse Pieces, 2x Next Gen Memory Sticks, 1x Access Permission Key<br />*Added Jun 2, 2025*
 
-### [`DOLLSGIFT`](https://nexus-codes.app/copy/?code=DOLLSGIFT)
-
-2x Next Gen Memory Sticks, 100x Collapse Pieces, 1 Access Permission Key<br />*Added May 23, 2025*
-
 ### [`GFL2GIFT`](https://nexus-codes.app/copy/?code=GFL2GIFT)
 
 1k Sardis Gold, 3k Analysis Blueprints, 150 Collapse Pieces<br />*Added Apr 8, 2025*

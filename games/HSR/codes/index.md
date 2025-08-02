@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`CT2N72RRUAJK`](https://hsr.hoyoverse.com/gift?code=CT2N72RRUAJK)
+
+100 Stellar Jade and Five Traveler S Guides<br />*Added Aug 2, 2025*
+
+### [`TB2NPKQ8USKF`](https://hsr.hoyoverse.com/gift?code=TB2NPKQ8USKF)
+
+100 Stellar Jade and 50k Credits<br />*Added Aug 2, 2025*
+
 ### [`YA266JQ8VA4X`](https://hsr.hoyoverse.com/gift?code=YA266JQ8VA4X)
 
 50 Stellar Jade and 10k Credits<br />*Added Jul 28, 2025*

@@ -90,10 +90,6 @@ Three Hero S Wit, Five Mystic Enhancement Ore, Three Teachings Of Contention, Th
 
 100 Primogems, 10 Mystic Enhancement Ore<br />*Added Jun 6, 2025*
 
-### [`LWKC638ULB16`](https://genshin.hoyoverse.com/en/gift?code=LWKC638ULB16)
-
-10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Stir Fried Fish Noodles, and Five Jueyun Chili Chicken<br />*Added May 30, 2025*
-
 ### [`ZT5RJ4AX4WYV`](https://genshin.hoyoverse.com/en/gift?code=ZT5RJ4AX4WYV)
 
 x60 Primogems and x5 Adventurer S Experience<br />*Added May 1, 2025*

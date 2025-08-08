@@ -26,18 +26,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 100 Astrite, Three Advanced Resonance Potions, and Two Medium Revival Inhalers<br />*Added Jul 18, 2025*
 
-### [`AGONISON`](https://nexus-codes.app/copy/?code=AGONISON)
-
-100 Astrite, One Weekly Challenge Supply Pack, and Two Advanced Sealed Tubes<br />*Added May 30, 2025*
-
-### [`FLAMESOFHEART`](https://nexus-codes.app/copy/?code=FLAMESOFHEART)
-
-100 Astrite, Two Forgery Premium Supplies, and 40,000 Shell Credits<br />*Added May 30, 2025*
-
-### [`SHADOWOFGLORY`](https://nexus-codes.app/copy/?code=SHADOWOFGLORY)
-
-100 Astrite, Four Premium Resonance Potions, and Five Advanced Energy Cores<br />*Added May 30, 2025*
-
 ### [`WUWA4PC`](https://nexus-codes.app/copy/?code=WUWA4PC)
 
 50 Astrites   Note  This Code Is Valid On Pc Only<br />*Added Jan 10, 2025*

@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`STARTTHEFEAST`](https://hsr.hoyoverse.com/gift?code=STARTTHEFEAST)
+
+Two Boneflute Of Fish Calling and Three Traveler S Guides<br />*Added Aug 13, 2025*
+
+### [`7S2QGPW4R7YK`](https://hsr.hoyoverse.com/gift?code=7S2QGPW4R7YK)
+
+50 Stellar Jades and 10k Credits<br />*Added Aug 13, 2025*
+
 ### [`5S6ZHRWTDNJB`](https://hsr.hoyoverse.com/gift?code=5S6ZHRWTDNJB)
 
 60 Stellar Jade<br />*Added Aug 4, 2025*

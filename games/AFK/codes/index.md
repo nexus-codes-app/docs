@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ZVZCJAIAZE`](https://nexus-codes.app/copy/?code=ZVZCJAIAZE)
+
+x10 Invite Letters and 1k Diamonds<br />*Added Aug 15, 2025*
+
 ### [`AFKJ143NEWS`](https://nexus-codes.app/copy/?code=AFKJ143NEWS)
 
 300 Diamonds + Gold<br />*Added Jul 23, 2025*

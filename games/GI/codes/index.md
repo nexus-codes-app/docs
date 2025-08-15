@@ -82,18 +82,6 @@ Three Hero S Wit, Five Mystic Enhancement Ore, Three Teachings Of Contention, Th
 
 60 Primogems and Five Adventurer S Experience<br />*Added Jun 19, 2025*
 
-### [`VoidStar0618`](https://genshin.hoyoverse.com/en/gift?code=VoidStar0618)
-
-100 Primogems, 50,000 Mora<br />*Added Jun 6, 2025*
-
-### [`YourSpaceTime`](https://genshin.hoyoverse.com/en/gift?code=YourSpaceTime)
-
-100 Primogems, 5 Hero S Wit<br />*Added Jun 6, 2025*
-
-### [`MasterSkirk0618`](https://genshin.hoyoverse.com/en/gift?code=MasterSkirk0618)
-
-100 Primogems, 10 Mystic Enhancement Ore<br />*Added Jun 6, 2025*
-
 ### [`ZT5RJ4AX4WYV`](https://genshin.hoyoverse.com/en/gift?code=ZT5RJ4AX4WYV)
 
 x60 Primogems and x5 Adventurer S Experience<br />*Added May 1, 2025*

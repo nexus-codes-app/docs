@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`BURNINGSUN`](https://nexus-codes.app/copy/?code=BURNINGSUN)
+
+100 Astrite, Four Premium Resonance Potions, and Five Advanced Energy Cores  New   Expires August 18, 2025<br />*Added Aug 16, 2025*
+
+### [`MOONLIGHT`](https://nexus-codes.app/copy/?code=MOONLIGHT)
+
+100 Astrite, Two Forgery Premium Supplies, and 40k Shell Credits  New   Expires August 18, 2025<br />*Added Aug 16, 2025*
+
+### [`FACETHEFATE`](https://nexus-codes.app/copy/?code=FACETHEFATE)
+
+100 Astrite, 20 Premium Tuners, and Five Advanced Sealed Tubes  New   Expires August 18, 2025<br />*Added Aug 16, 2025*
+
 ### [`THISISFINALE`](https://nexus-codes.app/copy/?code=THISISFINALE)
 
 100 Astrite, Three Advanced Enclosure Tanks, and 20k Shell Credits<br />*Added Jul 18, 2025*

@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`NODKRAIGAMESCOM`](https://genshin.hoyoverse.com/en/gift?code=NODKRAIGAMESCOM)
+
+39 Primogems, 20000 Mora, 3 Hero S Wit, 5 Mystic Enhancement Ore<br />*Added Aug 20, 2025*
+
 ### [`4BWU6FCNYUSH`](https://genshin.hoyoverse.com/en/gift?code=4BWU6FCNYUSH)
 
 30 Primogems, 20k Mora, and Three Glowing Hornshroom<br />*Added Aug 8, 2025*

@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`RAVIONINDRIS`](https://nexus-codes.app/copy/?code=RAVIONINDRIS)
+
+300 Diamonds and 20k Gold<br />*Added Aug 22, 2025*
+
 ### [`ZVZCJAIAZE`](https://nexus-codes.app/copy/?code=ZVZCJAIAZE)
 
 x10 Invite Letters and 1k Diamonds<br />*Added Aug 15, 2025*

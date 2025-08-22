@@ -78,10 +78,6 @@ Three Traveler S Guides and Two  Dried Bread<br />*Added Jul 2, 2025*
 
 100 Stellar Jade and Five Refined Aether<br />*Added Jun 20, 2025*
 
-### [`7B36DCTC5SZ7`](https://hsr.hoyoverse.com/gift?code=7B36DCTC5SZ7)
-
-50 Stellar Jade and 10k Credits<br />*Added Jun 13, 2025*
-
 ### [`HYACINEHEALS`](https://hsr.hoyoverse.com/gift?code=HYACINEHEALS)
 
 x3 Traveler S Guide and x2 Golden Honycake<br />*Added May 22, 2025*

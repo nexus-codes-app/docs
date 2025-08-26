@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`MIDSUMMER`](https://nexus-codes.app/copy/?code=MIDSUMMER)
+
+*Added Aug 26, 2025*
+
+### [`CHAOSAWAKES`](https://nexus-codes.app/copy/?code=CHAOSAWAKES)
+
+*Added Aug 26, 2025*
+
+### [`raidvision`](https://nexus-codes.app/copy/?code=raidvision)
+
+*Added Aug 26, 2025*
+
 ### [`PP500`](https://nexus-codes.app/copy/?code=PP500)
 
 *Added May 21, 2025*

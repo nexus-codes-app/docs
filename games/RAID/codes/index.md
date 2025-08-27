@@ -14,6 +14,91 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`HUNTMASTER`](https://nexus-codes.app/copy/?code=HUNTMASTER)
+
+Stag Knight, 15 Spirit Brews, 150k Silver, and 15 Greater Arcane Potions 
+**New Players Only**<br />*Added Aug 27, 2025*
+
+### [`SUPREME6`](https://nexus-codes.app/copy/?code=SUPREME6)
+
+Supreme Galek, 25 Void Brews, Five Great Void Potions, and 300k Silver 
+**New Players Only**<br />*Added Aug 27, 2025*
+
+### [`SUBSCRIBEMIDGAMECHANNEL`](https://nexus-codes.app/copy/?code=SUBSCRIBEMIDGAMECHANNEL)
+
+Urticata, Ten Spirit Brews, and 100k Silver 
+**New Players Only**<br />*Added Aug 27, 2025*
+
+### [`DEMONSLAYER`](https://nexus-codes.app/copy/?code=DEMONSLAYER)
+
+Tholin Foulbeard, 25 Spirit Brews, Five Upgrade Potions, and 300k Silver 
+**New Players Only**<br />*Added Aug 27, 2025*
+
+### [`STONECOLD`](https://nexus-codes.app/copy/?code=STONECOLD)
+
+Thylessia, 25 Force Brews, Three Three Star Chickens, Three Epic Skill Tomes, and 300k Silver 
+**New Players Only**<br />*Added Aug 27, 2025*
+
+### [`MIDGAMETOP`](https://nexus-codes.app/copy/?code=MIDGAMETOP)
+
+Sigmund the Highshield, 100 Energy, Five Magic Brews, 700k Silver, 50 Multi Battles, Five Greater Arcane Potions, Three Day Exp Boost, and a Silver Chest 
+**New Players Only**<br />*Added Aug 27, 2025*
+
+### [`REVIVER`](https://nexus-codes.app/copy/?code=REVIVER)
+
+Rector Drath, Ten Force Brews, and 300k Silver 
+**New Players Only**<br />*Added Aug 27, 2025*
+
+### [`MYCELIUM`](https://nexus-codes.app/copy/?code=MYCELIUM)
+
+Myceliac Priest Orn, Ten Spirit Brews, 200k Silver, and Ten Greater Spirit Potions 
+**New Players Only**<br />*Added Aug 27, 2025*
+
+### [`FIREBURN`](https://nexus-codes.app/copy/?code=FIREBURN)
+
+Mordecai, 50 Multi Battles, Ten Force Xp Brews, and 200k Silver 
+**New Players Only**<br />*Added Aug 27, 2025*
+
+### [`MAGEOUT`](https://nexus-codes.app/copy/?code=MAGEOUT)
+
+Mausoleum Mage, Five Energy Refills, 300k Silver, Three Day Xp Booster, and 30 Force Brews 
+**New Players Only**<br />*Added Aug 27, 2025*
+
+### [`2QLRAID`](https://nexus-codes.app/copy/?code=2QLRAID)
+
+Luthiea, One Energy Refill, 15 Xp Brews, 20 Multi Battles, and 150k Silver 
+**New Players Only**<br />*Added Aug 27, 2025*
+
+### [`GETLOKI`](https://nexus-codes.app/copy/?code=GETLOKI)
+
+Loki the Deceiver, 15 Spirit Brews, 300k Silver, and 15 Greater Spirit Potions 
+**New Players Only**<br />*Added Aug 27, 2025*
+
+### [`RAIDWITHKYTIS`](https://nexus-codes.app/copy/?code=RAIDWITHKYTIS)
+
+Five Energy Refill, Five Spirit Brews, 200k Silver 
+**New Players Only**<br />*Added Aug 27, 2025*
+
+### [`LILHELPER`](https://nexus-codes.app/copy/?code=LILHELPER)
+
+Jinglehunter, Ten Spirit Brews, 200k Silver, and Ten Greater Spirit Potions 
+**New Players Only**<br />*Added Aug 27, 2025*
+
+### [`PESTCONTROL`](https://nexus-codes.app/copy/?code=PESTCONTROL)
+
+Hoskarul, Ten Spirit Brews, 200k Silver, and Ten Greater Spirit Potions 
+**New Players Only**<br />*Added Aug 27, 2025*
+
+### [`BOUNTY`](https://nexus-codes.app/copy/?code=BOUNTY)
+
+Fenshi, Ten Force Brews, Ten Greater Force Potions, and 200k Silver 
+**New Players Only**<br />*Added Aug 27, 2025*
+
+### [`XOXO25`](https://nexus-codes.app/copy/?code=XOXO25)
+
+Fenax and Tallia 
+**New Players Only**<br />*Added Aug 27, 2025*
+
 ### [`MIDSUMMER`](https://nexus-codes.app/copy/?code=MIDSUMMER)
 
 *Added Aug 26, 2025*

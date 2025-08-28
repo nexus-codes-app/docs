@@ -27,7 +27,7 @@ Solo Leveling: Arise is an action RPG based on the South Korean web novel of the
 
 ### Twitch
 
-[https://www.twitch.tv/directory/game/Solo%20Leveling%20Arise](https://www.twitch.tv/directory/game/Solo%20Leveling%20Arise)
+[https://www.twitch.tv/directory/category/solo-leveling-arise](https://www.twitch.tv/directory/category/solo-leveling-arise)
 
 ### Youtube
 
@@ -50,7 +50,3 @@ Solo Leveling: Arise is an action RPG based on the South Korean web novel of the
 ### Download on the Google Play Store
 
 [https://play.google.com/store/apps/details?id=com.netmarble.sololv](https://play.google.com/store/apps/details?id=com.netmarble.sololv)
-
-### Download on Steam
-
-[https://store.steampowered.com/app/2373990](https://store.steampowered.com/app/2373990)

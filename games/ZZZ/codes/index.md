@@ -50,18 +50,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 300 Polychrome, 30k Denny, Two Senior Investigator Logs, and Three W Engine Energy Modules<br />*Added Jul 4, 2025*
 
-### [`ABZVGEWK3O`](https://zenless.hoyoverse.com/redemption?code=ABZVGEWK3O)
-
-20k Dennies<br />*Added Jun 19, 2025*
-
-### [`ZZZ20NEWSEASON`](https://zenless.hoyoverse.com/redemption?code=ZZZ20NEWSEASON)
-
-60 Polychrome and 6,666 Dennies<br />*Added Jun 19, 2025*
-
-### [`ZZZ20SIMI`](https://zenless.hoyoverse.com/redemption?code=ZZZ20SIMI)
-
-60 Polychrome and 6,666 Dennies<br />*Added Jun 19, 2025*
-
 ### [`ZZZANNIVERSARY`](https://zenless.hoyoverse.com/redemption?code=ZZZANNIVERSARY)
 
 300 Polychrome, 30k Denny, Two Senior Investigator Logs, and Three W Engine Energy Modules<br />*Added May 23, 2025*

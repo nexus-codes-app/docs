@@ -66,22 +66,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 Three Shivada Jade Fragments, Three Meshing Gears, Three Fine Enhancement Ore, and 30k Mora<br />*Added Jun 30, 2025*
 
-### [`GS57YTSNLJ`](https://genshin.hoyoverse.com/en/gift?code=GS57YTSNLJ)
-
-Three Hero S Wit, Five Mystic Enhancement Ore, Three Teachings Of Contention, Three Shivada Jade Slivers, and 30k Mora<br />*Added Jun 19, 2025*
-
-### [`8QD412QXCEU1`](https://genshin.hoyoverse.com/en/gift?code=8QD412QXCEU1)
-
-60 Primogems and Five Adventurer S Experience<br />*Added Jun 19, 2025*
-
-### [`YTYD336W7K77`](https://genshin.hoyoverse.com/en/gift?code=YTYD336W7K77)
-
-10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Stir Fried Fish Noodles, and Five Jueyun Chili Chicken<br />*Added Jun 19, 2025*
-
-### [`FIGHTLIKESKIRK57`](https://genshin.hoyoverse.com/en/gift?code=FIGHTLIKESKIRK57)
-
-40 Primogems, Three Hero S Wit and One Abyssal Bounty<br />*Added Jun 19, 2025*
-
 ### [`G9VY57AWQACW`](https://genshin.hoyoverse.com/en/gift?code=G9VY57AWQACW)
 
 60 Primogems and Five Adventurer S Experience<br />*Added Jun 19, 2025*

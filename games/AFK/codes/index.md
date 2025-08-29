@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`AFKJLOVERSWISH`](https://nexus-codes.app/copy/?code=AFKJLOVERSWISH)
+
+x10 Origami Hamsters, 500 Diamonds, and 50k Gold<br />*Added Aug 29, 2025*
+
 ### [`RAVIONINDRIS`](https://nexus-codes.app/copy/?code=RAVIONINDRIS)
 
 300 Diamonds and 20k Gold<br />*Added Aug 22, 2025*

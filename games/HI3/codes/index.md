@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`8XW7BPQALA`](https://nexus-codes.app/copy/?code=8XW7BPQALA)
+
+Rewards<br />*Added Aug 29, 2025*
+
+### [`EVILDRAGON`](https://nexus-codes.app/copy/?code=EVILDRAGON)
+
+Rewards<br />*Added Aug 29, 2025*
+
 ### [`THIRTEEN`](https://nexus-codes.app/copy/?code=THIRTEEN)
 
 1x Material Option Type a and 1x Ae Imaginon<br />*Added Aug 26, 2025*

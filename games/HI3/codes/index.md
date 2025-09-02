@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`CHILLSUMMER`](https://nexus-codes.app/copy/?code=CHILLSUMMER)
+
+30 Crystals<br />*Added Sep 2, 2025*
+
 ### [`8XW7BPQALA`](https://nexus-codes.app/copy/?code=8XW7BPQALA)
 
 Rewards<br />*Added Aug 29, 2025*

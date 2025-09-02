@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`TB39Z7X49NZ7`](https://hsr.hoyoverse.com/gift?code=TB39Z7X49NZ7)
+
+50 Stellar Jades and 10k Credits<br />*Added Sep 2, 2025*
+
 ### [`STARTTHEFEAST`](https://hsr.hoyoverse.com/gift?code=STARTTHEFEAST)
 
 Two Boneflute Of Fish Calling and Three Traveler S Guides<br />*Added Aug 13, 2025*

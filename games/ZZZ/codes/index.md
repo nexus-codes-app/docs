@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ZZZ22OBOLSQUAD`](https://zenless.hoyoverse.com/redemption?code=ZZZ22OBOLSQUAD)
+
+60 Polychrome and 6,666 Dennies<br />*Added Sep 4, 2025*
+
 ### [`YUZUHAGIFT`](https://zenless.hoyoverse.com/redemption?code=YUZUHAGIFT)
 
 10k Dennies, Ten Official Investigator Logs, Ten W Engine Power Supplies, and Ten Crystallized Plating Agents<br />*Added Jul 24, 2025*

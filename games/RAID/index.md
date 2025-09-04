@@ -16,31 +16,3 @@ To save the world of Teleria, you will recruit its most legendary warriors from 
 
 [Summary Provided by IGDB](https://www.igdb.com/games/raid-shadow-legends)
 {: .fs-2 }
-
-## Websites & Social
-
-### Twitter
-
-[https://twitter.com/RaidRPG](https://twitter.com/RaidRPG)
-
-### Reddit
-
-[https://www.reddit.com/r/RaidShadowLegends/](https://www.reddit.com/r/RaidShadowLegends/)
-
-### Discord
-
-[https://discord.gg/raidshadowlegends](https://discord.gg/raidshadowlegends)
-
-## Download Raid: Shadow Legends
-
-### Download on the Apple App Store
-
-[https://apps.apple.com/us/app/raid-shadow-legends/id1371565796](https://apps.apple.com/us/app/raid-shadow-legends/id1371565796)
-
-### Download on Steam
-
-[https://store.steampowered.com/app/2333480](https://store.steampowered.com/app/2333480)
-
-### Download on Epic Games
-
-[https://store.epicgames.com/en-US/p/raid-shadow-legends-b70e14](https://store.epicgames.com/en-US/p/raid-shadow-legends-b70e14)

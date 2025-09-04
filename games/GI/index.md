@@ -14,27 +14,3 @@ Genshin Impact is an open-world action RPG, where you embark on a journey across
 
 [Summary Provided by IGDB](https://www.igdb.com/games/genshin-impact)
 {: .fs-2 }
-
-## Websites & Social
-
-### Twitch
-
-[https://www.twitch.tv/genshinimpactofficial](https://www.twitch.tv/genshinimpactofficial)
-
-### Discord
-
-[https://discord.gg/invite/genshinimpact](https://discord.gg/invite/genshinimpact)
-
-## Download Genshin Impact
-
-### Download on the Apple App Store
-
-[https://apps.apple.com/app/id1517783697](https://apps.apple.com/app/id1517783697)
-
-### Download on the Google Play Store
-
-[https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact](https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact)
-
-### Download on Epic Games
-
-[https://www.epicgames.com/p/genshin-impact](https://www.epicgames.com/p/genshin-impact)

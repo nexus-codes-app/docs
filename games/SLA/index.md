@@ -14,13 +14,3 @@ Solo Leveling: Arise is an action RPG based on the South Korean web novel of the
 
 [Summary Provided by IGDB](https://www.igdb.com/games/solo-leveling-arise)
 {: .fs-2 }
-
-## Websites & Social
-
-### Twitch
-
-[https://www.twitch.tv/directory/category/solo-leveling-arise](https://www.twitch.tv/directory/category/solo-leveling-arise)
-
-### Youtube
-
-[https://www.youtube.com/@SoloLevelingARISE_GL](https://www.youtube.com/@SoloLevelingARISE_GL)

@@ -14,27 +14,3 @@ Zenless Zone Zero is an all-new 3D action game from HoYoverse, here to provide a
 
 [Summary Provided by IGDB](https://www.igdb.com/games/zenless-zone-zero)
 {: .fs-2 }
-
-## Websites & Social
-
-### Official Website
-
-[https://zenless.hoyoverse.com/](https://zenless.hoyoverse.com/)
-
-### Youtube
-
-[https://www.youtube.com/channel/UC2SpC8rL9LaeQriE4YNdyzA](https://www.youtube.com/channel/UC2SpC8rL9LaeQriE4YNdyzA)
-
-### Reddit
-
-[https://www.reddit.com/r/ZZZ_Official](https://www.reddit.com/r/ZZZ_Official)
-
-### Discord
-
-[https://discord.gg/zenlesszonezero](https://discord.gg/zenlesszonezero)
-
-## Download Zenless Zone Zero
-
-### Download on the Apple App Store
-
-[https://itunes.apple.com/us/app/id1606356401](https://itunes.apple.com/us/app/id1606356401)

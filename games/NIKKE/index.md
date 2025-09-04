@@ -14,31 +14,3 @@ Goddess of Victory: Nikke is an immersive sci-fi RPG shooter game, where you rec
 
 [Summary Provided by IGDB](https://www.igdb.com/games/goddess-of-victory-nikke--1)
 {: .fs-2 }
-
-## Websites & Social
-
-### Official Website
-
-[https://nikke-en.com/](https://nikke-en.com/)
-
-### Twitter
-
-[https://twitter.com/NIKKE_en](https://twitter.com/NIKKE_en)
-
-### Youtube
-
-[https://www.youtube.com/c/NIKKEEN](https://www.youtube.com/c/NIKKEEN)
-
-### Reddit
-
-[https://www.reddit.com/r/NikkeOutpost](https://www.reddit.com/r/NikkeOutpost)
-
-### Discord
-
-[https://discord.gg/nikke-en](https://discord.gg/nikke-en)
-
-## Download Goddess of Victory: Nikke
-
-### Download on the Apple App Store
-
-[https://itunes.apple.com/us/app/id1585915174#?platform=ipad](https://itunes.apple.com/us/app/id1585915174#?platform=ipad)

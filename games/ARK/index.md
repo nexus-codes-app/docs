@@ -14,27 +14,3 @@ Take on the role of a key member of Rhodes Island, a pharmaceutical company that
 
 [Summary Provided by IGDB](https://www.igdb.com/games/arknights)
 {: .fs-2 }
-
-## Websites & Social
-
-### Official Website
-
-[https://www.arknights.global/](https://www.arknights.global/)
-
-### Twitter
-
-[https://twitter.com/ArknightsEN](https://twitter.com/ArknightsEN)
-
-### Youtube
-
-[https://www.youtube.com/channel/UCR0J2NYGuC8epsa1O4DMmXQ](https://www.youtube.com/channel/UCR0J2NYGuC8epsa1O4DMmXQ)
-
-### Discord
-
-[https://discord.gg/FEpaBv7](https://discord.gg/FEpaBv7)
-
-## Download Arknights
-
-### Download on the Apple App Store
-
-[https://apps.apple.com/app/id1464872022](https://apps.apple.com/app/id1464872022)

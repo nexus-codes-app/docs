@@ -21,10 +21,6 @@ Honkai Impact 3rd follows Valkyries as they defend the world from Honkai, the â€
 
 [https://honkaiimpact3.mihoyo.com/global/en-us](https://honkaiimpact3.mihoyo.com/global/en-us)
 
-### Twitter
-
-[https://twitter.com/HonkaiImpact3rd](https://twitter.com/HonkaiImpact3rd)
-
 ### Twitch
 
 [https://www.twitch.tv/directory/game/Honkai%20Impact%203](https://www.twitch.tv/directory/game/Honkai%20Impact%203)
@@ -32,14 +28,6 @@ Honkai Impact 3rd follows Valkyries as they defend the world from Honkai, the â€
 ### Youtube
 
 [https://www.youtube.com/channel/UCko6H6LokKM__B03i5_vBQQ](https://www.youtube.com/channel/UCko6H6LokKM__B03i5_vBQQ)
-
-### Reddit
-
-[https://www.reddit.com/r/HonkaiImpact3rd](https://www.reddit.com/r/HonkaiImpact3rd)
-
-### Discord
-
-[https://discord.gg/hi3](https://discord.gg/hi3)
 
 ## Download Honkai Impact 3rd
 
@@ -50,11 +38,3 @@ Honkai Impact 3rd follows Valkyries as they defend the world from Honkai, the â€
 ### Download on the Google Play Store
 
 [https://play.google.com/store/apps/details?id=com.miHoYo.bh3global](https://play.google.com/store/apps/details?id=com.miHoYo.bh3global)
-
-### Download on Steam
-
-[https://store.steampowered.com/app/1671200/Honkai_Impact_3rd](https://store.steampowered.com/app/1671200/Honkai_Impact_3rd)
-
-### Download on Epic Games
-
-[https://www.epicgames.com/store/p/honkai-impact-3rd](https://www.epicgames.com/store/p/honkai-impact-3rd)

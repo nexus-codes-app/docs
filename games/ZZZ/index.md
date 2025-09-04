@@ -21,14 +21,6 @@ Zenless Zone Zero is an all-new 3D action game from HoYoverse, here to provide a
 
 [https://zenless.hoyoverse.com/](https://zenless.hoyoverse.com/)
 
-### Twitter
-
-[https://twitter.com/ZZZ_EN](https://twitter.com/ZZZ_EN)
-
-### Twitch
-
-[https://www.twitch.tv/directory/game/Zenless%20Zone%20Zero](https://www.twitch.tv/directory/game/Zenless%20Zone%20Zero)
-
 ### Youtube
 
 [https://www.youtube.com/channel/UC2SpC8rL9LaeQriE4YNdyzA](https://www.youtube.com/channel/UC2SpC8rL9LaeQriE4YNdyzA)
@@ -46,11 +38,3 @@ Zenless Zone Zero is an all-new 3D action game from HoYoverse, here to provide a
 ### Download on the Apple App Store
 
 [https://itunes.apple.com/us/app/id1606356401](https://itunes.apple.com/us/app/id1606356401)
-
-### Download on the Google Play Store
-
-[https://play.google.com/store/apps/details?id=com.HoYoverse.Nap&hl=en_CA&pli=1](https://play.google.com/store/apps/details?id=com.HoYoverse.Nap&hl=en_CA&pli=1)
-
-### Download on Epic Games
-
-[https://store.epicgames.com/p/zenless-zone-zero-c7c151](https://store.epicgames.com/p/zenless-zone-zero-c7c151)

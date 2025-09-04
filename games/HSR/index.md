@@ -17,25 +17,9 @@ Honkai: Star Rail is an all-new strategy-RPG title in the Honkai series that tak
 
 ## Websites & Social
 
-### Official Website
-
-[https://www.honkaistarrail.com/](https://www.honkaistarrail.com/)
-
-### Twitter
-
-[https://twitter.com/honkaistarrail](https://twitter.com/honkaistarrail)
-
 ### Twitch
 
 [https://www.twitch.tv/directory/game/Honkai:%20Star%20Rail](https://www.twitch.tv/directory/game/Honkai:%20Star%20Rail)
-
-### Youtube
-
-[https://www.youtube.com/@HonkaiStarRail](https://www.youtube.com/@HonkaiStarRail)
-
-### Reddit
-
-[https://www.reddit.com/r/HonkaiStarRail](https://www.reddit.com/r/HonkaiStarRail)
 
 ### Discord
 
@@ -43,14 +27,6 @@ Honkai: Star Rail is an all-new strategy-RPG title in the Honkai series that tak
 
 ## Download Honkai Star Rail
 
-### Download on the Apple App Store
-
-[http://itunes.apple.com/us/app/id1599719154#?platform=ipad](http://itunes.apple.com/us/app/id1599719154#?platform=ipad)
-
 ### Download on the Google Play Store
 
 [https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea](https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea)
-
-### Download on Epic Games
-
-[https://store.epicgames.com/p/honkai-star-rail](https://store.epicgames.com/p/honkai-star-rail)

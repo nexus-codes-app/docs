@@ -19,44 +19,16 @@ The game features fast-paced combat with a variety of mechanics such as Extreme 
 
 ## Websites & Social
 
-### Official Website
-
-[https://wutheringwaves.kurogame.com/](https://wutheringwaves.kurogame.com/)
-
-### Twitter
-
-[https://twitter.com/Wuthering_Waves](https://twitter.com/Wuthering_Waves)
-
 ### Twitch
 
 [https://www.twitch.tv/directory/category/wuthering-waves](https://www.twitch.tv/directory/category/wuthering-waves)
-
-### Youtube
-
-[https://www.youtube.com/channel/UC0Bi5KMcECRVYis5Gb_ZYZQ](https://www.youtube.com/channel/UC0Bi5KMcECRVYis5Gb_ZYZQ)
-
-### Reddit
-
-[https://www.reddit.com/r/WutheringWaves](https://www.reddit.com/r/WutheringWaves)
-
-### Discord
-
-[https://discord.gg/wutheringwaves](https://discord.gg/wutheringwaves)
 
 ## Download Wuthering Waves
 
 ### Download on the Apple App Store
 
-[https://apps.apple.com/app/id6475033368?platform=ipad](https://apps.apple.com/app/id6475033368?platform=ipad)
+[https://apps.apple.com/app/id6475033368?platform=iphone](https://apps.apple.com/app/id6475033368?platform=iphone)
 
 ### Download on the Google Play Store
 
 [https://play.google.com/store/apps/details?id=com.kurogame.wutheringwaves.global](https://play.google.com/store/apps/details?id=com.kurogame.wutheringwaves.global)
-
-### Download on Steam
-
-[https://store.steampowered.com/app/3513350](https://store.steampowered.com/app/3513350)
-
-### Download on Epic Games
-
-[https://store.epicgames.com/p/wuthering-waves-76ebc5](https://store.epicgames.com/p/wuthering-waves-76ebc5)

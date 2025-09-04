@@ -25,17 +25,9 @@ Take on the role of a key member of Rhodes Island, a pharmaceutical company that
 
 [https://twitter.com/ArknightsEN](https://twitter.com/ArknightsEN)
 
-### Twitch
-
-[https://www.twitch.tv/directory/game/Arknights](https://www.twitch.tv/directory/game/Arknights)
-
 ### Youtube
 
 [https://www.youtube.com/channel/UCR0J2NYGuC8epsa1O4DMmXQ](https://www.youtube.com/channel/UCR0J2NYGuC8epsa1O4DMmXQ)
-
-### Reddit
-
-[https://www.reddit.com/r/arknights](https://www.reddit.com/r/arknights)
 
 ### Discord
 
@@ -45,8 +37,4 @@ Take on the role of a key member of Rhodes Island, a pharmaceutical company that
 
 ### Download on the Apple App Store
 
-[https://itunes.apple.com/us/app/id1464872022#?platform=ipad](https://itunes.apple.com/us/app/id1464872022#?platform=ipad)
-
-### Download on the Google Play Store
-
-[https://play.google.com/store/apps/details?id=com.YoStarEN.Arknights](https://play.google.com/store/apps/details?id=com.YoStarEN.Arknights)
+[https://apps.apple.com/app/id1464872022](https://apps.apple.com/app/id1464872022)

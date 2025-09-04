@@ -17,25 +17,9 @@ Genshin Impact is an open-world action RPG, where you embark on a journey across
 
 ## Websites & Social
 
-### Official Website
-
-[https://genshin.hoyoverse.com/](https://genshin.hoyoverse.com/)
-
-### Twitter
-
-[https://twitter.com/GenshinImpact](https://twitter.com/GenshinImpact)
-
 ### Twitch
 
 [https://www.twitch.tv/genshinimpactofficial](https://www.twitch.tv/genshinimpactofficial)
-
-### Youtube
-
-[https://www.youtube.com/channel/UCiS882YPwZt1NfaM0gR0D9Q](https://www.youtube.com/channel/UCiS882YPwZt1NfaM0gR0D9Q)
-
-### Reddit
-
-[https://www.reddit.com/r/Genshin_Impact](https://www.reddit.com/r/Genshin_Impact)
 
 ### Discord
 
@@ -45,7 +29,7 @@ Genshin Impact is an open-world action RPG, where you embark on a journey across
 
 ### Download on the Apple App Store
 
-[https://itunes.apple.com/us/app/id1517783697](https://itunes.apple.com/us/app/id1517783697)
+[https://apps.apple.com/app/id1517783697](https://apps.apple.com/app/id1517783697)
 
 ### Download on the Google Play Store
 

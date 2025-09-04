@@ -17,25 +17,9 @@ GIRLS' FRONTLINE 2: EXILIUM is the official sequel to the mobile game Girls' Fro
 
 ## Websites & Social
 
-### Official Website
-
-[https://gf2exilium.sunborngame.com/](https://gf2exilium.sunborngame.com/)
-
-### Twitter
-
-[https://twitter.com/GFL2EXILIUM_EN](https://twitter.com/GFL2EXILIUM_EN)
-
 ### Twitch
 
 [https://www.twitch.tv/directory/game/GIRLS%27%20FRONTLINE%202:%20EXILIUM](https://www.twitch.tv/directory/game/GIRLS%27%20FRONTLINE%202:%20EXILIUM)
-
-### Youtube
-
-[https://www.youtube.com/@GFL2EXILIUM](https://www.youtube.com/@GFL2EXILIUM)
-
-### Discord
-
-[https://discord.gg/invite/gfl2](https://discord.gg/invite/gfl2)
 
 ## Download Girls' Frontline 2: Exilium
 
@@ -46,7 +30,3 @@ GIRLS' FRONTLINE 2: EXILIUM is the official sequel to the mobile game Girls' Fro
 ### Download on the Google Play Store
 
 [https://play.google.com/store/apps/details?id=com.Sunborn.SnqxExilium.Glo](https://play.google.com/store/apps/details?id=com.Sunborn.SnqxExilium.Glo)
-
-### Download on Steam
-
-[https://store.steampowered.com/app/3347400/GIRLS_FRONTLINE_2_EXILIUM/](https://store.steampowered.com/app/3347400/GIRLS_FRONTLINE_2_EXILIUM/)

@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`R4SCAU7CR1G9`](https://genshin.hoyoverse.com/en/gift?code=R4SCAU7CR1G9)
+
+60 Primogems<br />*Added Sep 5, 2025*
+
 ### [`HiFiveTraveler`](https://genshin.hoyoverse.com/en/gift?code=HiFiveTraveler)
 
 100 Primogems, 50,000 Mora<br />*Added Aug 29, 2025*

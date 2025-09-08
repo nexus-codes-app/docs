@@ -82,10 +82,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 20k Mora, One Delicious Puff Pop, One Blazed Meat Stew, and One Grainfruit Chip<br />*Added Jul 11, 2025*
 
-### [`GIFTFROMSKIRK57`](https://genshin.hoyoverse.com/en/gift?code=GIFTFROMSKIRK57)
-
-Three Shivada Jade Fragments, Three Meshing Gears, Three Fine Enhancement Ore, and 30k Mora<br />*Added Jun 30, 2025*
-
 ### [`GENSHINGIFT`](https://genshin.hoyoverse.com/en/gift?code=GENSHINGIFT)
 
 50 Primogems and Three Hero S Wit  This Code Works Periodically<br />*Added Dec 27, 2024*

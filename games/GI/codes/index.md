@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`GS60YTQ4NT`](https://genshin.hoyoverse.com/en/gift?code=GS60YTQ4NT)
+
+30k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Fish Noodles<br />*Added Sep 9, 2025*
+
+### [`EPIC2025`](https://genshin.hoyoverse.com/en/gift?code=EPIC2025)
+
+40 Primogems, 20k Mora, and Five Adventurer S Experience<br />*Added Sep 9, 2025*
+
 ### [`R4SCAU7CR1G9`](https://genshin.hoyoverse.com/en/gift?code=R4SCAU7CR1G9)
 
 60 Primogems<br />*Added Sep 5, 2025*

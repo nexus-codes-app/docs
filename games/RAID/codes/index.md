@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`golden2gt`](https://nexus-codes.app/copy/?code=golden2gt)
+
+*Added Sep 10, 2025*
+
 ### [`HUNTMASTER`](https://nexus-codes.app/copy/?code=HUNTMASTER)
 
 Stag Knight, 15 Spirit Brews, 150k Silver, and 15 Greater Arcane Potions 

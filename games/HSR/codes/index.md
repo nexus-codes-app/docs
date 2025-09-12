@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`AA39GPEL9NHB`](https://hsr.hoyoverse.com/gift?code=AA39GPEL9NHB)
+
+100 Stellar Jade and Five Traveler S Guides<br />*Added Sep 12, 2025*
+
+### [`WTK9Z6EM1PEP`](https://hsr.hoyoverse.com/gift?code=WTK9Z6EM1PEP)
+
+100 Stellar Jade and 50k Credits<br />*Added Sep 12, 2025*
+
 ### [`LIFTTHEKING`](https://hsr.hoyoverse.com/gift?code=LIFTTHEKING)
 
 Two Monarch S Maneuvers and Three Traveler S Guides<br />*Added Sep 2, 2025*

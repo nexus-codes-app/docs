@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`BEMYIDLE`](https://nexus-codes.app/copy/?code=BEMYIDLE)
+
+One Mana Power Extract and Ten Shadow Skill Scrolls Ii<br />*Added Sep 12, 2025*
+
+### [`BOSSBOSSBOSS`](https://nexus-codes.app/copy/?code=BOSSBOSSBOSS)
+
+Ten Custom Draw Tickets<br />*Added Sep 12, 2025*
+
 ### [`DEVNOTEARCHUPD`](https://nexus-codes.app/copy/?code=DEVNOTEARCHUPD)
 
 20 Custom Draw Tickets, 1mil Gold, and 1k Low Tier Mana Crystals<br />*Added Sep 1, 2025*

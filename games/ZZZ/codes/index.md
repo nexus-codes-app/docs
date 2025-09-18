@@ -30,26 +30,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 60 Polychrome and 6,666 Dennies<br />*Added Jul 16, 2025*
 
-### [`ZZZYOU`](https://zenless.hoyoverse.com/redemption?code=ZZZYOU)
-
-20 Polychrome, 30k Dennies, and Five Ether Plating Agents<br />*Added Jul 10, 2025*
-
-### [`ZZZTHANK`](https://zenless.hoyoverse.com/redemption?code=ZZZTHANK)
-
-20 Polychrome, 30k Dennies, and Five Senior Investigator Logs<br />*Added Jul 10, 2025*
-
-### [`ZZZWITHUS`](https://zenless.hoyoverse.com/redemption?code=ZZZWITHUS)
-
-20 Polychrome, 30k Dennies, and Five Senior Investigator Logs<br />*Added Jul 10, 2025*
-
-### [`ZZZSTAYING`](https://zenless.hoyoverse.com/redemption?code=ZZZSTAYING)
-
-20 Polychrome, 30k Dennies, and Five Bangboo System Widgets<br />*Added Jul 10, 2025*
-
-### [`ZZZFOR`](https://zenless.hoyoverse.com/redemption?code=ZZZFOR)
-
-20 Polychrome, 30k Dennies, and Five W Engine Energy Modules<br />*Added Jul 10, 2025*
-
 ### [`ZZZANNIVERSARY`](https://zenless.hoyoverse.com/redemption?code=ZZZANNIVERSARY)
 
 300 Polychrome, 30k Denny, Two Senior Investigator Logs, and Three W Engine Energy Modules<br />*Added May 23, 2025*

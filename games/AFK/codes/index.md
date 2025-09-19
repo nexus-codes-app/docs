@@ -14,6 +14,26 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`AFKJSeptember`](https://nexus-codes.app/copy/?code=AFKJSeptember)
+
+3 Summon Tickets, 200 Diamonds, and 20k Gold<br />*Added Sep 19, 2025*
+
+### [`NEWSTORYBEGINS`](https://nexus-codes.app/copy/?code=NEWSTORYBEGINS)
+
+100 Diamonds and 10k Gold<br />*Added Sep 19, 2025*
+
+### [`ThornsofDevotion`](https://nexus-codes.app/copy/?code=ThornsofDevotion)
+
+200 Diamonds and 10k Gold<br />*Added Sep 19, 2025*
+
+### [`NewSeasonTOD151`](https://nexus-codes.app/copy/?code=NewSeasonTOD151)
+
+300 Diamonds and 20k Gold<br />*Added Sep 19, 2025*
+
+### [`AFKJSEASONGIFT2025`](https://nexus-codes.app/copy/?code=AFKJSEASONGIFT2025)
+
+200 Diamonds and 20k Gold<br />*Added Sep 19, 2025*
+
 ### [`AFKJLOVERSWISH`](https://nexus-codes.app/copy/?code=AFKJLOVERSWISH)
 
 x10 Origami Hamsters, 500 Diamonds, and 50k Gold<br />*Added Aug 29, 2025*

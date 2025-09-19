@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`AOZJ2TD5FZPV`](https://genshin.hoyoverse.com/en/gift?code=AOZJ2TD5FZPV)
+
+60 Primogems and Five Adventurer S Experience<br />*Added Sep 19, 2025*
+
 ### [`SAWFSXA7NCSM`](https://genshin.hoyoverse.com/en/gift?code=SAWFSXA7NCSM)
 
 20k Mora, Three Moonfall Silver, and Three Nod Krai Hot Dogs<br />*Added Sep 15, 2025*
@@ -97,14 +101,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 ### [`Ineffa0730Birgitta`](https://genshin.hoyoverse.com/en/gift?code=Ineffa0730Birgitta)
 
 100 Primogems and Ten Mystic Enhancement Ore<br />*Added Jul 18, 2025*
-
-### [`EZIZ8W3J47NA`](https://genshin.hoyoverse.com/en/gift?code=EZIZ8W3J47NA)
-
-10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Stir Fried Fish Noodles, and Five Jueyum Chili Chicken<br />*Added Jul 11, 2025*
-
-### [`Vamosacorrer25`](https://genshin.hoyoverse.com/en/gift?code=Vamosacorrer25)
-
-20k Mora, One Delicious Puff Pop, One Blazed Meat Stew, and One Grainfruit Chip<br />*Added Jul 11, 2025*
 
 ### [`GENSHINGIFT`](https://genshin.hoyoverse.com/en/gift?code=GENSHINGIFT)
 

@@ -54,10 +54,6 @@ x10 Invite Letters and 1k Diamonds<br />*Added Aug 15, 2025*
 
 10 Summon Tickets + Selector Box + Gold<br />*Added Jul 23, 2025*
 
-### [`EXPLOREESSAIL`](https://nexus-codes.app/copy/?code=EXPLOREESSAIL)
-
-300 Diamonds and 20k Gold<br />*Added Jun 23, 2025*
-
 ### [`IronholdBay`](https://nexus-codes.app/copy/?code=IronholdBay)
 
 100 Diamonds and 10k Gold<br />*Added May 16, 2025*

@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`3S3RGX2PGL7P`](https://hsr.hoyoverse.com/gift?code=3S3RGX2PGL7P)
+
+50 Stellar Jades + Exp Materials<br />*Added Sep 24, 2025*
+
 ### [`WTK9Z6EMQPEP`](https://hsr.hoyoverse.com/gift?code=WTK9Z6EMQPEP)
 
 100 Stellar Jade and 50k Credits<br />*Added Sep 12, 2025*

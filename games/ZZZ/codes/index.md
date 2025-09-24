@@ -26,10 +26,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 50 Polychrome<br />*Added Jul 22, 2025*
 
-### [`ZZZ21SUMMER`](https://zenless.hoyoverse.com/redemption?code=ZZZ21SUMMER)
-
-60 Polychrome and 6,666 Dennies<br />*Added Jul 16, 2025*
-
 ### [`ZZZANNIVERSARY`](https://zenless.hoyoverse.com/redemption?code=ZZZANNIVERSARY)
 
 300 Polychrome, 30k Denny, Two Senior Investigator Logs, and Three W Engine Energy Modules<br />*Added May 23, 2025*

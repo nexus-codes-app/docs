@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`FIGHTFORHOPE`](https://nexus-codes.app/copy/?code=FIGHTFORHOPE)
+
+100 Astrite, Three Advanced Enclosure Tanks, and 20k Shell Credits<br />*Added Sep 26, 2025*
+
+### [`RISKEVERYTHING`](https://nexus-codes.app/copy/?code=RISKEVERYTHING)
+
+100 Astrite, Three Advanced Energy Core, and Two Nutrient Blocks<br />*Added Sep 26, 2025*
+
+### [`NOMATTERTHECOST`](https://nexus-codes.app/copy/?code=NOMATTERTHECOST)
+
+100 Astrite, Three Advanced Resonance Potions, and Two Revival Inhalers<br />*Added Sep 26, 2025*
+
 ### [`BURNINGSUN`](https://nexus-codes.app/copy/?code=BURNINGSUN)
 
 100 Astrite, Four Premium Resonance Potions, and Five Advanced Energy Cores  New   Expires August 18, 2025<br />*Added Aug 16, 2025*
@@ -25,18 +37,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 ### [`FACETHEFATE`](https://nexus-codes.app/copy/?code=FACETHEFATE)
 
 100 Astrite, 20 Premium Tuners, and Five Advanced Sealed Tubes  New   Expires August 18, 2025<br />*Added Aug 16, 2025*
-
-### [`THISISFINALE`](https://nexus-codes.app/copy/?code=THISISFINALE)
-
-100 Astrite, Three Advanced Enclosure Tanks, and 20k Shell Credits<br />*Added Jul 18, 2025*
-
-### [`DREAMSPERSIST`](https://nexus-codes.app/copy/?code=DREAMSPERSIST)
-
-100 Astrite, Three Advanced Energy Cores, and Two Medium Nutrient Blocks<br />*Added Jul 18, 2025*
-
-### [`ILLUSIONHAUNTS`](https://nexus-codes.app/copy/?code=ILLUSIONHAUNTS)
-
-100 Astrite, Three Advanced Resonance Potions, and Two Medium Revival Inhalers<br />*Added Jul 18, 2025*
 
 ### [`WUWA4PC`](https://nexus-codes.app/copy/?code=WUWA4PC)
 

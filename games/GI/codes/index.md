@@ -90,18 +90,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 30k Mora, Three Hero S Wit, Five Mystic Enhancement Ore, Three Vajrada Amethyst Slivers, and Three Teachings Of Conflict<br />*Added Jul 22, 2025*
 
-### [`TranquilBanquet`](https://genshin.hoyoverse.com/en/gift?code=TranquilBanquet)
-
-100 Primogems and 50k Mora<br />*Added Jul 18, 2025*
-
-### [`Summer0730Asha`](https://genshin.hoyoverse.com/en/gift?code=Summer0730Asha)
-
-100 Primogems and Five Hero S Wit<br />*Added Jul 18, 2025*
-
-### [`Ineffa0730Birgitta`](https://genshin.hoyoverse.com/en/gift?code=Ineffa0730Birgitta)
-
-100 Primogems and Ten Mystic Enhancement Ore<br />*Added Jul 18, 2025*
-
 ### [`GENSHINGIFT`](https://genshin.hoyoverse.com/en/gift?code=GENSHINGIFT)
 
 50 Primogems and Three Hero S Wit  This Code Works Periodically<br />*Added Dec 27, 2024*

@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`GenshinHigh5Fight`](https://genshin.hoyoverse.com/en/gift?code=GenshinHigh5Fight)
+
+30 Primogems, One Ile Flottante, Three Hero S Wit, and Three Fine Enhancement Ore<br />*Added Sep 28, 2025*
+
 ### [`AOZJ2TD5FZPV`](https://genshin.hoyoverse.com/en/gift?code=AOZJ2TD5FZPV)
 
 60 Primogems and Five Adventurer S Experience<br />*Added Sep 19, 2025*

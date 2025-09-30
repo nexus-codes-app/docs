@@ -26,10 +26,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 10k Dennies, Ten Official Investigator Logs, Ten W Engine Power Supplies, and Ten Crystallized Plating Agents<br />*Added Jul 24, 2025*
 
-### [`ALICEYUZUHA`](https://zenless.hoyoverse.com/redemption?code=ALICEYUZUHA)
-
-50 Polychrome<br />*Added Jul 22, 2025*
-
 ### [`ZZZANNIVERSARY`](https://zenless.hoyoverse.com/redemption?code=ZZZANNIVERSARY)
 
 300 Polychrome, 30k Denny, Two Senior Investigator Logs, and Three W Engine Energy Modules<br />*Added May 23, 2025*

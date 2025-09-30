@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`AA07KPF5PM`](https://nexus-codes.app/copy/?code=AA07KPF5PM)
+
+300 Asterite and One Stamina Potion<br />*Added Sep 30, 2025*
+
 ### [`M5H9TRIJ0D`](https://nexus-codes.app/copy/?code=M5H9TRIJ0D)
 
 300 Asterite and One Stamina Potion<br />*Added Sep 9, 2025*

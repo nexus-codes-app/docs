@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`WUSXOI92X54U`](https://genshin.hoyoverse.com/en/gift?code=WUSXOI92X54U)
+
+10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Fish Noodles<br />*Added Oct 3, 2025*
+
+### [`GENSHIN5THSPRADIO`](https://genshin.hoyoverse.com/en/gift?code=GENSHIN5THSPRADIO)
+
+10k Mora, Ten Adventurer S Experience, and Five Frostlamp Flowers<br />*Added Oct 3, 2025*
+
 ### [`GenshinHigh5Fight`](https://genshin.hoyoverse.com/en/gift?code=GenshinHigh5Fight)
 
 30 Primogems, One Ile Flottante, Three Hero S Wit, and Three Fine Enhancement Ore<br />*Added Sep 28, 2025*

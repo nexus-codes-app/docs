@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ELYSIAONLIVE`](https://nexus-codes.app/copy/?code=ELYSIAONLIVE)
+
+One Material Option Type a and One Ae Imaginon<br />*Added Oct 7, 2025*
+
 ### [`AA07KPF5PM`](https://nexus-codes.app/copy/?code=AA07KPF5PM)
 
 300 Asterite and One Stamina Potion<br />*Added Sep 30, 2025*

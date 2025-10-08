@@ -86,10 +86,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Fish Noodles<br />*Added Aug 1, 2025*
 
-### [`NSXD6FDNHCS5`](https://genshin.hoyoverse.com/en/gift?code=NSXD6FDNHCS5)
-
-20k Mora, Five Adventurer S Experience, and Three Saurus Crackers<br />*Added Jul 30, 2025*
-
 ### [`CLD6ZWU35GTH`](https://genshin.hoyoverse.com/en/gift?code=CLD6ZWU35GTH)
 
 60 Primogems and Five Adventurer S Experience<br />*Added Jul 22, 2025*

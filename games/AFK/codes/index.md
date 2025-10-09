@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`AFKJ2025MID`](https://nexus-codes.app/copy/?code=AFKJ2025MID)
+
+*Added Oct 9, 2025*
+
 ### [`OCT1AFKJ`](https://nexus-codes.app/copy/?code=OCT1AFKJ)
 
 20 Summon Tickets and 100k Gold<br />*Added Oct 3, 2025*

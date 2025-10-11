@@ -66,14 +66,6 @@ Two Boneflute Of Fish Calling and Three Traveler S Guides<br />*Added Aug 13, 20
 
 100 Stellar Jade and Four Refined Aether<br />*Added Aug 2, 2025*
 
-### [`CT2N72RRUAJK`](https://hsr.hoyoverse.com/gift?code=CT2N72RRUAJK)
-
-100 Stellar Jade and Five Traveler S Guides<br />*Added Aug 2, 2025*
-
-### [`TB2NPKQ8USKF`](https://hsr.hoyoverse.com/gift?code=TB2NPKQ8USKF)
-
-100 Stellar Jade and 50k Credits<br />*Added Aug 2, 2025*
-
 ### [`CREATIONNYMPH`](https://hsr.hoyoverse.com/gift?code=CREATIONNYMPH)
 
 60 Stellar Jade and One Fuel<br />*Added Jul 2, 2025*

@@ -115,10 +115,6 @@ Fenax and Tallia
 
 *Added Aug 26, 2025*
 
-### [`PP500`](https://nexus-codes.app/copy/?code=PP500)
-
-*Added May 21, 2025*
-
 ### [`2GTSpringTricks`](https://nexus-codes.app/copy/?code=2GTSpringTricks)
 
 *Added Mar 12, 2025*

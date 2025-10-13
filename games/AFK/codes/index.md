@@ -54,30 +54,6 @@ x10 Origami Hamsters, 500 Diamonds, and 50k Gold<br />*Added Aug 29, 2025*
 
 x10 Invite Letters and 1k Diamonds<br />*Added Aug 15, 2025*
 
-### [`AFKJ143NEWS`](https://nexus-codes.app/copy/?code=AFKJ143NEWS)
-
-300 Diamonds + Gold<br />*Added Jul 23, 2025*
-
-### [`ONEDERFULAFKJ`](https://nexus-codes.app/copy/?code=ONEDERFULAFKJ)
-
-10 Summon Tickets + Selector Box + Gold<br />*Added Jul 23, 2025*
-
-### [`IronholdBay`](https://nexus-codes.app/copy/?code=IronholdBay)
-
-100 Diamonds and 10k Gold<br />*Added May 16, 2025*
-
-### [`AFKJDungeon`](https://nexus-codes.app/copy/?code=AFKJDungeon)
-
-x3 Invite Letters, 200 Diamonds, and 20k Gold<br />*Added May 16, 2025*
-
-### [`AFKJEOF`](https://nexus-codes.app/copy/?code=AFKJEOF)
-
-200 Diamonds and 20k Gold<br />*Added May 16, 2025*
-
-### [`AFKJEOF0523`](https://nexus-codes.app/copy/?code=AFKJEOF0523)
-
-200 Diamonds and 20k Gold<br />*Added May 16, 2025*
-
 ### [`AFKJ10`](https://nexus-codes.app/copy/?code=AFKJ10)
 
 10 Regular Invite Letters<br />*Added Sep 9, 2024*

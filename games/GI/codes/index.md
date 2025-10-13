@@ -94,10 +94,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 30 Primogems, 20k Mora, and Three Glowing Hornshroom<br />*Added Aug 8, 2025*
 
-### [`CLD6ZWU35GTH`](https://genshin.hoyoverse.com/en/gift?code=CLD6ZWU35GTH)
-
-60 Primogems and Five Adventurer S Experience<br />*Added Jul 22, 2025*
-
 ### [`GENSHINGIFT`](https://genshin.hoyoverse.com/en/gift?code=GENSHINGIFT)
 
 50 Primogems and Three Hero S Wit  This Code Works Periodically<br />*Added Dec 27, 2024*

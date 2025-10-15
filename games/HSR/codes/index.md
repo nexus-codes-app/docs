@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`FREEDANHENG`](https://hsr.hoyoverse.com/gift?code=FREEDANHENG)
+
+Three Traveler S Guides and Two Earth Crystal Ore<br />*Added Oct 15, 2025*
+
+### [`9BJ8YE37HM8B`](https://hsr.hoyoverse.com/gift?code=9BJ8YE37HM8B)
+
+50 Stellar Jade and 10k Credits<br />*Added Oct 15, 2025*
+
 ### [`MADFORMARCH`](https://hsr.hoyoverse.com/gift?code=MADFORMARCH)
 
 Three Traveler S Guides and Two At Least We Gather for Now<br />*Added Sep 29, 2025*

@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`GS61YTEFW9V6`](https://genshin.hoyoverse.com/en/gift?code=GS61YTEFW9V6)
+
+30k Mora, Five Mystic Enhancement Ore, Three Hero S Wit, Three Nagadus Emerald Slivers, and Three Teachings Of Elysium<br />*Added Oct 17, 2025*
+
 ### [`MiliastraWonderland`](https://genshin.hoyoverse.com/en/gift?code=MiliastraWonderland)
 
 100 Primogems and 50k Mora<br />*Added Oct 10, 2025*
@@ -89,10 +93,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 ### [`NODKRAIGAMESCOM`](https://genshin.hoyoverse.com/en/gift?code=NODKRAIGAMESCOM)
 
 39 Primogems, 20000 Mora, 3 Hero S Wit, 5 Mystic Enhancement Ore<br />*Added Aug 20, 2025*
-
-### [`4BWU6FCNYUSH`](https://genshin.hoyoverse.com/en/gift?code=4BWU6FCNYUSH)
-
-30 Primogems, 20k Mora, and Three Glowing Hornshroom<br />*Added Aug 8, 2025*
 
 ### [`GENSHINGIFT`](https://genshin.hoyoverse.com/en/gift?code=GENSHINGIFT)
 

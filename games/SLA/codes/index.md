@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`SUNGILHWAN0925`](https://nexus-codes.app/copy/?code=SUNGILHWAN0925)
+
+Ten Custom Draw Tickets<br />*Added Oct 17, 2025*
+
 ### [`CMIRON500GIFT`](https://nexus-codes.app/copy/?code=CMIRON500GIFT)
 
 500 Rune Fragments, 500 Low Tier Mana Crystals, and 1mil Gold<br />*Added Oct 1, 2025*

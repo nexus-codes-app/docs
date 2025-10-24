@@ -50,10 +50,6 @@ x10 Origami Hamsters, 500 Diamonds, and 50k Gold<br />*Added Aug 29, 2025*
 
 300 Diamonds and 20k Gold<br />*Added Aug 22, 2025*
 
-### [`ZVZCJAIAZE`](https://nexus-codes.app/copy/?code=ZVZCJAIAZE)
-
-x10 Invite Letters and 1k Diamonds<br />*Added Aug 15, 2025*
-
 ### [`AFKJ10`](https://nexus-codes.app/copy/?code=AFKJ10)
 
 10 Regular Invite Letters<br />*Added Sep 9, 2024*

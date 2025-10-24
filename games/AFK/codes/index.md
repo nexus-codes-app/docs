@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`152AFKJ0011`](https://nexus-codes.app/copy/?code=152AFKJ0011)
+
+300 Diamonds and 20k Gold<br />*Added Oct 24, 2025*
+
 ### [`AFKJ2025MID`](https://nexus-codes.app/copy/?code=AFKJ2025MID)
 
 *Added Oct 9, 2025*

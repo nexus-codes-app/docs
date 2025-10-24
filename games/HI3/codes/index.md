@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`MESSENGER`](https://nexus-codes.app/copy/?code=MESSENGER)
+
+Rewards<br />*Added Oct 24, 2025*
+
+### [`KB5PZ7SHPG`](https://nexus-codes.app/copy/?code=KB5PZ7SHPG)
+
+Rewards<br />*Added Oct 24, 2025*
+
+### [`LOVEELF`](https://nexus-codes.app/copy/?code=LOVEELF)
+
+Rewards<br />*Added Oct 24, 2025*
+
 ### [`KEXMVQQZLU`](https://nexus-codes.app/copy/?code=KEXMVQQZLU)
 
 300 Asterite and One Stamina Potion<br />*Added Oct 21, 2025*

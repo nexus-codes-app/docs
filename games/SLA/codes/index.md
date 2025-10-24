@@ -14,6 +14,30 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`OREARAFRIEREN`](https://nexus-codes.app/copy/?code=OREARAFRIEREN)
+
+Free In Game Rewards<br />*Added Oct 24, 2025*
+
+### [`FRIERENLEVELUP`](https://nexus-codes.app/copy/?code=FRIERENLEVELUP)
+
+Free In Game Rewards<br />*Added Oct 24, 2025*
+
+### [`COLLABUD`](https://nexus-codes.app/copy/?code=COLLABUD)
+
+Ten Custom Draw Tickets and 3mil Gold<br />*Added Oct 24, 2025*
+
+### [`FRIERENCODE`](https://nexus-codes.app/copy/?code=FRIERENCODE)
+
+100 Traces Of Shadow, 3k Shadow Energy, and Five Shadow Waves<br />*Added Oct 24, 2025*
+
+### [`BEYONDSOLO`](https://nexus-codes.app/copy/?code=BEYONDSOLO)
+
+Three Special Designs and 300 Marks Of Time I<br />*Added Oct 24, 2025*
+
+### [`BRAVESWORD`](https://nexus-codes.app/copy/?code=BRAVESWORD)
+
+Five Luminous Prism I and 500k Gold<br />*Added Oct 24, 2025*
+
 ### [`SUNGILHWAN0925`](https://nexus-codes.app/copy/?code=SUNGILHWAN0925)
 
 Ten Custom Draw Tickets<br />*Added Oct 17, 2025*

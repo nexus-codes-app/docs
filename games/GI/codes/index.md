@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`GS61RD26W966`](https://genshin.hoyoverse.com/en/gift?code=GS61RD26W966)
+
+80 Geodes Of Replication, 20k Mora, Two Adventurer S Experience, and Two Mystic Enhancement Ore<br />*Added Oct 29, 2025*
+
 ### [`4S5RTSV3P5CC`](https://genshin.hoyoverse.com/en/gift?code=4S5RTSV3P5CC)
 
 60 Primogems and Five Adventurer S Experience<br />*Added Oct 24, 2025*
@@ -101,10 +105,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 ### [`LunaI0910`](https://genshin.hoyoverse.com/en/gift?code=LunaI0910)
 
 100 Primogems, 10 Mystic Enhancement Ore<br />*Added Aug 29, 2025*
-
-### [`NODKRAIGAMESCOM`](https://genshin.hoyoverse.com/en/gift?code=NODKRAIGAMESCOM)
-
-39 Primogems, 20000 Mora, 3 Hero S Wit, 5 Mystic Enhancement Ore<br />*Added Aug 20, 2025*
 
 ### [`GENSHINGIFT`](https://genshin.hoyoverse.com/en/gift?code=GENSHINGIFT)
 

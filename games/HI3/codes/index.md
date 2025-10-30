@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`HiElysia`](https://nexus-codes.app/copy/?code=HiElysia)
+
+Rewards<br />*Added Oct 30, 2025*
+
 ### [`AichanXElysia`](https://nexus-codes.app/copy/?code=AichanXElysia)
 
 Rewards<br />*Added Oct 27, 2025*

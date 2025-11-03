@@ -115,17 +115,9 @@ Fenax and Tallia
 
 *Added Aug 26, 2025*
 
-### [`2GTSpringTricks`](https://nexus-codes.app/copy/?code=2GTSpringTricks)
-
-*Added Mar 12, 2025*
-
 ### [`WELCOMEGIFT`](https://nexus-codes.app/copy/?code=WELCOMEGIFT)
 
 *Added Feb 12, 2025*
-
-### [`1mgift`](https://nexus-codes.app/copy/?code=1mgift)
-
-*Added Nov 6, 2024*
 
 ### [`GODSPEED`](https://nexus-codes.app/copy/?code=GODSPEED)
 

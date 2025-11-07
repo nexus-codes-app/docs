@@ -50,10 +50,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 200 Diamonds and 20k Gold<br />*Added Sep 19, 2025*
 
-### [`AFKJLOVERSWISH`](https://nexus-codes.app/copy/?code=AFKJLOVERSWISH)
-
-x10 Origami Hamsters, 500 Diamonds, and 50k Gold<br />*Added Aug 29, 2025*
-
 ### [`AFKJ10`](https://nexus-codes.app/copy/?code=AFKJ10)
 
 10 Regular Invite Letters<br />*Added Sep 9, 2024*

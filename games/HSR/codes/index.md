@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`OMEGA`](https://hsr.hoyoverse.com/gift?code=OMEGA)
+
+60 Stellar Jade and One Fuel<br />*Added Nov 7, 2025*
+
+### [`STORYOFLOVE`](https://hsr.hoyoverse.com/gift?code=STORYOFLOVE)
+
+Three Traveler S Guides and Two Oronyx Slates<br />*Added Nov 7, 2025*
+
 ### [`VAK9XB2BCGFX`](https://hsr.hoyoverse.com/gift?code=VAK9XB2BCGFX)
 
 50 Stellar Jades and 10k Credits<br />*Added Nov 5, 2025*

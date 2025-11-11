@@ -78,10 +78,6 @@ Three Traveler S Guides and Two At Least We Gather for Now<br />*Added Sep 29, 2
 
 100 Stellar Jade and 50k Credits<br />*Added Sep 12, 2025*
 
-### [`LIFTTHEKING`](https://hsr.hoyoverse.com/gift?code=LIFTTHEKING)
-
-Two Monarch S Maneuvers and Three Traveler S Guides<br />*Added Sep 2, 2025*
-
 ### [`CREATIONNYMPH`](https://hsr.hoyoverse.com/gift?code=CREATIONNYMPH)
 
 60 Stellar Jade and One Fuel<br />*Added Jul 2, 2025*

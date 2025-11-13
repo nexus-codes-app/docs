@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`NTIF4NP4DO89`](https://genshin.hoyoverse.com/en/gift?code=NTIF4NP4DO89)
+
+10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Stir Fried Fish Noodles, Five Jueyun Chili Chicken<br />*Added Nov 13, 2025*
+
+### [`3SXYPDLD3FYV`](https://genshin.hoyoverse.com/en/gift?code=3SXYPDLD3FYV)
+
+5k Mora, Two Adventurer S Experience, Two Mystic Enhancement Ore<br />*Added Nov 13, 2025*
+
 ### [`EKLP57EFE4G4`](https://genshin.hoyoverse.com/en/gift?code=EKLP57EFE4G4)
 
 10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Fish Noodles<br />*Added Oct 31, 2025*

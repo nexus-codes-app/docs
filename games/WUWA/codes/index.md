@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`CRUMBLEDCITY`](https://nexus-codes.app/copy/?code=CRUMBLEDCITY)
+
+100 Astrite, Three Advanced Energy Cores, and Two Medium Nutrient Blocks<br />*Added Nov 14, 2025*
+
+### [`ENDLESSSUMMER`](https://nexus-codes.app/copy/?code=ENDLESSSUMMER)
+
+100 Astrite, Three Advanced Resonance Potions, and Two Medium Revival Inhalers<br />*Added Nov 14, 2025*
+
 ### [`FIGHTFORHOPE`](https://nexus-codes.app/copy/?code=FIGHTFORHOPE)
 
 100 Astrite, Three Advanced Enclosure Tanks, and 20k Shell Credits<br />*Added Sep 26, 2025*

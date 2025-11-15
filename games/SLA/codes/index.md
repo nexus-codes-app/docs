@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`11DEVNOTE11`](https://nexus-codes.app/copy/?code=11DEVNOTE11)
+
+Free In Game Rewards<br />*Added Nov 14, 2025*
+
 ### [`DEV_N0TE_1028`](https://nexus-codes.app/copy/?code=DEV_N0TE_1028)
 
 Free In Game Rewards<br />*Added Nov 7, 2025*

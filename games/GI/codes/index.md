@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`XTFPHSEJCFYM`](https://genshin.hoyoverse.com/en/gift?code=XTFPHSEJCFYM)
+
+320 Geodes Of Replication<br />*Added Nov 20, 2025*
+
 ### [`NTIF4NP4DO89`](https://genshin.hoyoverse.com/en/gift?code=NTIF4NP4DO89)
 
 10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Stir Fried Fish Noodles, Five Jueyun Chili Chicken<br />*Added Nov 13, 2025*

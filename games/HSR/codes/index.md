@@ -70,14 +70,6 @@ Three Traveler S Guides and Two At Least We Gather for Now<br />*Added Sep 29, 2
 
 100 Stellar Jade and Four Refined Aether<br />*Added Sep 12, 2025*
 
-### [`AA39GPEL9NHB`](https://hsr.hoyoverse.com/gift?code=AA39GPEL9NHB)
-
-100 Stellar Jade and Five Traveler S Guides<br />*Added Sep 12, 2025*
-
-### [`WTK9Z6EM1PEP`](https://hsr.hoyoverse.com/gift?code=WTK9Z6EM1PEP)
-
-100 Stellar Jade and 50k Credits<br />*Added Sep 12, 2025*
-
 ### [`CREATIONNYMPH`](https://hsr.hoyoverse.com/gift?code=CREATIONNYMPH)
 
 60 Stellar Jade and One Fuel<br />*Added Jul 2, 2025*

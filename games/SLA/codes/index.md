@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`11CHUROS11`](https://nexus-codes.app/copy/?code=11CHUROS11)
+
+50 Traces Of Shadow, 500 Low Tier Mana Crystals, and 1k Shadow Energy<br />*Added Nov 21, 2025*
+
+### [`1HUNTER1LAURA`](https://nexus-codes.app/copy/?code=1HUNTER1LAURA)
+
+Five Uncommon Skill Rune Chests and 1k Essence Stones<br />*Added Nov 21, 2025*
+
 ### [`11DEVNOTE11`](https://nexus-codes.app/copy/?code=11DEVNOTE11)
 
 Free In Game Rewards<br />*Added Nov 14, 2025*
@@ -81,14 +89,6 @@ Free In Game Rewards<br />*Added Oct 1, 2025*
 ### [`SUNGFAMILY`](https://nexus-codes.app/copy/?code=SUNGFAMILY)
 
 Free In Game Rewards<br />*Added Oct 1, 2025*
-
-### [`BEMYIDLE`](https://nexus-codes.app/copy/?code=BEMYIDLE)
-
-One Mana Power Extract and Ten Shadow Skill Scrolls Ii<br />*Added Sep 12, 2025*
-
-### [`BOSSBOSSBOSS`](https://nexus-codes.app/copy/?code=BOSSBOSSBOSS)
-
-Ten Custom Draw Tickets<br />*Added Sep 12, 2025*
 
 ### [`THXSLVARISETHX`](https://nexus-codes.app/copy/?code=THXSLVARISETHX)
 

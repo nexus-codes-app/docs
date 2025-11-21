@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`GOGOCraftspeople`](https://genshin.hoyoverse.com/en/gift?code=GOGOCraftspeople)
+
+100 Primogems and 50k Mora<br />*Added Nov 21, 2025*
+
+### [`Dragon1203Durin`](https://genshin.hoyoverse.com/en/gift?code=Dragon1203Durin)
+
+100 Primogems and Five Hero S Wit<br />*Added Nov 21, 2025*
+
+### [`1203Kuunrukous`](https://genshin.hoyoverse.com/en/gift?code=1203Kuunrukous)
+
+100 Primogems and Ten Mystic Enhancement Ore<br />*Added Nov 21, 2025*
+
 ### [`XTFPHSEJCFYM`](https://genshin.hoyoverse.com/en/gift?code=XTFPHSEJCFYM)
 
 320 Geodes Of Replication<br />*Added Nov 20, 2025*

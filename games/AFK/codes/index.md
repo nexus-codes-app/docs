@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`JOURNEY2025HMMA`](https://nexus-codes.app/copy/?code=JOURNEY2025HMMA)
+
+Diamonds x2025, Epic Invite Letters x11, Temporal Essence x22<br />*Added Nov 22, 2025*
+
 ### [`PUMPKIN2025`](https://nexus-codes.app/copy/?code=PUMPKIN2025)
 
 500 Diamonds, 10 Origami Hamsters, and 50k Gold<br />*Added Nov 3, 2025*

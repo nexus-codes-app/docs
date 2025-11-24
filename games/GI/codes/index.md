@@ -90,22 +90,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 60 Primogems and Five Adventurer S Experience<br />*Added Sep 19, 2025*
 
-### [`SAWFSXA7NCSM`](https://genshin.hoyoverse.com/en/gift?code=SAWFSXA7NCSM)
-
-20k Mora, Three Moonfall Silver, and Three Nod Krai Hot Dogs<br />*Added Sep 15, 2025*
-
-### [`ITSTARTSIN60NODKRAI`](https://genshin.hoyoverse.com/en/gift?code=ITSTARTSIN60NODKRAI)
-
-40 Primogems, 20k Mora, and Five Hero S Wit<br />*Added Sep 15, 2025*
-
-### [`NODKRAISP0909`](https://genshin.hoyoverse.com/en/gift?code=NODKRAISP0909)
-
-20k Mora, Three Hero S Wit, and Five Mystic Enhancement Ore<br />*Added Sep 15, 2025*
-
-### [`SWIP9F497X18`](https://genshin.hoyoverse.com/en/gift?code=SWIP9F497X18)
-
-10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Noodles<br />*Added Sep 15, 2025*
-
 ### [`GENSHINGIFT`](https://genshin.hoyoverse.com/en/gift?code=GENSHINGIFT)
 
 50 Primogems and Three Hero S Wit  This Code Works Periodically<br />*Added Dec 27, 2024*

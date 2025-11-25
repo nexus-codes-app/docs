@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`P3GXX56W3VG9`](https://genshin.hoyoverse.com/en/gift?code=P3GXX56W3VG9)
+
+60 Primogems and Five Adventurer S Experience<br />*Added Nov 25, 2025*
+
 ### [`GOGOCraftspeople`](https://genshin.hoyoverse.com/en/gift?code=GOGOCraftspeople)
 
 100 Primogems and 50k Mora<br />*Added Nov 21, 2025*

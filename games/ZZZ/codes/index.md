@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`DIALYN1125`](https://zenless.hoyoverse.com/redemption?code=DIALYN1125)
+
+60 Polychrome and 6,666 Dennies<br />*Added Nov 27, 2025*
+
+### [`ZZZ24KRAMPUS`](https://zenless.hoyoverse.com/redemption?code=ZZZ24KRAMPUS)
+
+60 Polychrome and 6,666 Dennies<br />*Added Nov 27, 2025*
+
 ### [`KRAMPUS`](https://zenless.hoyoverse.com/redemption?code=KRAMPUS)
 
 300 Polychrome, 30k Denny, Two Senior Investigator Logs, and Three W Engine Energy Modules<br />*Added Nov 14, 2025*

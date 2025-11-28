@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`GS62YT82QLCE`](https://genshin.hoyoverse.com/en/gift?code=GS62YT82QLCE)
+
+30k Mora, Three Hero S Wit, Five Mystic Enhancement Ore, Three Agnidus Aagate Slivers, and Three Teachings Of Ballad<br />*Added Nov 28, 2025*
+
 ### [`P3GXX56W3VG9`](https://genshin.hoyoverse.com/en/gift?code=P3GXX56W3VG9)
 
 60 Primogems and Five Adventurer S Experience<br />*Added Nov 25, 2025*
@@ -89,10 +93,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 ### [`GenshinHigh5Fight`](https://genshin.hoyoverse.com/en/gift?code=GenshinHigh5Fight)
 
 30 Primogems, One Ile Flottante, Three Hero S Wit, and Three Fine Enhancement Ore<br />*Added Sep 28, 2025*
-
-### [`AOZJ2TD5FZPV`](https://genshin.hoyoverse.com/en/gift?code=AOZJ2TD5FZPV)
-
-60 Primogems and Five Adventurer S Experience<br />*Added Sep 19, 2025*
 
 ### [`GENSHINGIFT`](https://genshin.hoyoverse.com/en/gift?code=GENSHINGIFT)
 

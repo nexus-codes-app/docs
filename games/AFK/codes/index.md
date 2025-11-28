@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`AFKJPN153WithGala`](https://nexus-codes.app/copy/?code=AFKJPN153WithGala)
+
+300 Diamonds and 30k Gold<br />*Added Nov 28, 2025*
+
+### [`AFKJTURKEYDAY`](https://nexus-codes.app/copy/?code=AFKJTURKEYDAY)
+
+x10 Origami Hamsters, 500 Diamonds, and 50k Gold<br />*Added Nov 28, 2025*
+
 ### [`JOURNEY2025HMMA`](https://nexus-codes.app/copy/?code=JOURNEY2025HMMA)
 
 Diamonds x2025, Epic Invite Letters x11, Temporal Essence x22<br />*Added Nov 22, 2025*
@@ -45,10 +53,6 @@ Diamonds x2025, Epic Invite Letters x11, Temporal Essence x22<br />*Added Nov 22
 ### [`ThornsofDevotion`](https://nexus-codes.app/copy/?code=ThornsofDevotion)
 
 200 Diamonds and 10k Gold<br />*Added Sep 19, 2025*
-
-### [`NewSeasonTOD151`](https://nexus-codes.app/copy/?code=NewSeasonTOD151)
-
-300 Diamonds and 20k Gold<br />*Added Sep 19, 2025*
 
 ### [`AFKJSEASONGIFT2025`](https://nexus-codes.app/copy/?code=AFKJSEASONGIFT2025)
 

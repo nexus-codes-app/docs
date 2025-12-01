@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`JS2QEA3SDHFK`](https://hsr.hoyoverse.com/gift?code=JS2QEA3SDHFK)
+
+50 Stellar Jade and 10k Credits<br />*Added Dec 1, 2025*
+
 ### [`OMEGA`](https://hsr.hoyoverse.com/gift?code=OMEGA)
 
 60 Stellar Jade and One Fuel<br />*Added Nov 7, 2025*

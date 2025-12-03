@@ -62,10 +62,6 @@ Three Traveler S Guides and Two Earth Crystal Ore<br />*Added Oct 15, 2025*
 
 Three Traveler S Guides and Two At Least We Gather for Now<br />*Added Sep 29, 2025*
 
-### [`3S3RGX2PGL7P`](https://hsr.hoyoverse.com/gift?code=3S3RGX2PGL7P)
-
-50 Stellar Jades + Exp Materials<br />*Added Sep 24, 2025*
-
 ### [`CREATIONNYMPH`](https://hsr.hoyoverse.com/gift?code=CREATIONNYMPH)
 
 60 Stellar Jade and One Fuel<br />*Added Jul 2, 2025*

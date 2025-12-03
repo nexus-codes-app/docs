@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`HUNTINRAID`](https://nexus-codes.app/copy/?code=HUNTINRAID)
+
+*Added Dec 3, 2025*
+
 ### [`golden2gt`](https://nexus-codes.app/copy/?code=golden2gt)
 
 *Added Sep 10, 2025*

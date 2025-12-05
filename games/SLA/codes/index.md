@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`CHRIST0PHER12REED`](https://nexus-codes.app/copy/?code=CHRIST0PHER12REED)
+
+Free In Game Rewards<br />*Added Dec 5, 2025*
+
 ### [`11CHUROS11`](https://nexus-codes.app/copy/?code=11CHUROS11)
 
 50 Traces Of Shadow, 500 Low Tier Mana Crystals, and 1k Shadow Energy<br />*Added Nov 21, 2025*

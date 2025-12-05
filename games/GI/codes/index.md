@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`XXOJ2Z7F8GJI`](https://genshin.hoyoverse.com/en/gift?code=XXOJ2Z7F8GJI)
+
+10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Fish Noodles<br />*Added Dec 5, 2025*
+
 ### [`GS62YT82QLCE`](https://genshin.hoyoverse.com/en/gift?code=GS62YT82QLCE)
 
 30k Mora, Three Hero S Wit, Five Mystic Enhancement Ore, Three Agnidus Aagate Slivers, and Three Teachings Of Ballad<br />*Added Nov 28, 2025*

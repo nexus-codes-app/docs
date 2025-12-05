@@ -22,18 +22,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 100 Astrite, Three Advanced Resonance Potions, and Two Medium Revival Inhalers<br />*Added Nov 14, 2025*
 
-### [`FIGHTFORHOPE`](https://nexus-codes.app/copy/?code=FIGHTFORHOPE)
-
-100 Astrite, Three Advanced Enclosure Tanks, and 20k Shell Credits<br />*Added Sep 26, 2025*
-
-### [`RISKEVERYTHING`](https://nexus-codes.app/copy/?code=RISKEVERYTHING)
-
-100 Astrite, Three Advanced Energy Core, and Two Nutrient Blocks<br />*Added Sep 26, 2025*
-
-### [`NOMATTERTHECOST`](https://nexus-codes.app/copy/?code=NOMATTERTHECOST)
-
-100 Astrite, Three Advanced Resonance Potions, and Two Revival Inhalers<br />*Added Sep 26, 2025*
-
 ### [`WUWA4PC`](https://nexus-codes.app/copy/?code=WUWA4PC)
 
 50 Astrites   Note  This Code Is Valid On Pc Only<br />*Added Jan 10, 2025*

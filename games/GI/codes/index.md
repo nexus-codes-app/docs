@@ -94,10 +94,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 10k Mora, Ten Adventurer S Experience, and Five Frostlamp Flowers<br />*Added Oct 3, 2025*
 
-### [`GenshinHigh5Fight`](https://genshin.hoyoverse.com/en/gift?code=GenshinHigh5Fight)
-
-30 Primogems, One Ile Flottante, Three Hero S Wit, and Three Fine Enhancement Ore<br />*Added Sep 28, 2025*
-
 ### [`GENSHINGIFT`](https://genshin.hoyoverse.com/en/gift?code=GENSHINGIFT)
 
 50 Primogems and Three Hero S Wit  This Code Works Periodically<br />*Added Dec 27, 2024*

@@ -62,38 +62,6 @@ Five Luminous Prism I and 500k Gold<br />*Added Oct 24, 2025*
 
 Ten Custom Draw Tickets<br />*Added Oct 17, 2025*
 
-### [`CMIRON500GIFT`](https://nexus-codes.app/copy/?code=CMIRON500GIFT)
-
-500 Rune Fragments, 500 Low Tier Mana Crystals, and 1mil Gold<br />*Added Oct 1, 2025*
-
-### [`FALLUPDAT3`](https://nexus-codes.app/copy/?code=FALLUPDAT3)
-
-1k Essence Stones and Ten First Edition Of Magic Crafting<br />*Added Oct 1, 2025*
-
-### [`SORRYFORBUG`](https://nexus-codes.app/copy/?code=SORRYFORBUG)
-
-10mil Gold<br />*Added Oct 1, 2025*
-
-### [`NEWEAPONS`](https://nexus-codes.app/copy/?code=NEWEAPONS)
-
-Ten Weapon Custom Draw Tickets and 40 Weapon Enhancement Gear Iii<br />*Added Oct 1, 2025*
-
-### [`DEV_10_N0TE`](https://nexus-codes.app/copy/?code=DEV_10_N0TE)
-
-Free In Game Rewards<br />*Added Oct 1, 2025*
-
-### [`S3PUPDATE:`](https://nexus-codes.app/copy/?code=S3PUPDATE%3A)
-
-100 Advanced Mana Crystals and 200 Artifact Enhancement Chip Ii<br />*Added Oct 1, 2025*
-
-### [`FATHERSUNG`](https://nexus-codes.app/copy/?code=FATHERSUNG)
-
-Free In Game Rewards<br />*Added Oct 1, 2025*
-
-### [`SUNGFAMILY`](https://nexus-codes.app/copy/?code=SUNGFAMILY)
-
-Free In Game Rewards<br />*Added Oct 1, 2025*
-
 ### [`THXSLVARISETHX`](https://nexus-codes.app/copy/?code=THXSLVARISETHX)
 
 Free Gold<br />*Added Aug 26, 2025*

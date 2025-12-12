@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`HITTHEROAD`](https://nexus-codes.app/copy/?code=HITTHEROAD)
+
+100 Astrite, Two Forgery Premium Supplies, and 40k Shell Credits<br />*Added Dec 12, 2025*
+
+### [`BACKTOSCHOOL`](https://nexus-codes.app/copy/?code=BACKTOSCHOOL)
+
+100 Astrite, Four Premium Resonance Potions, and Five Advanced Energy Cores<br />*Added Dec 12, 2025*
+
+### [`STARCHASER`](https://nexus-codes.app/copy/?code=STARCHASER)
+
+100 Astrite, 20 Premium Tuners, and Five Advanced Sealed Tubes<br />*Added Dec 12, 2025*
+
 ### [`CRUMBLEDCITY`](https://nexus-codes.app/copy/?code=CRUMBLEDCITY)
 
 100 Astrite, Three Advanced Energy Cores, and Two Medium Nutrient Blocks<br />*Added Nov 14, 2025*

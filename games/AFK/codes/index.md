@@ -38,10 +38,6 @@ Diamonds x2025, Epic Invite Letters x11, Temporal Essence x22<br />*Added Nov 22
 
 *Added Oct 9, 2025*
 
-### [`OCT1AFKJ`](https://nexus-codes.app/copy/?code=OCT1AFKJ)
-
-20 Summon Tickets and 100k Gold<br />*Added Oct 3, 2025*
-
 ### [`AFKJSeptember`](https://nexus-codes.app/copy/?code=AFKJSeptember)
 
 3 Summon Tickets, 200 Diamonds, and 20k Gold<br />*Added Sep 19, 2025*

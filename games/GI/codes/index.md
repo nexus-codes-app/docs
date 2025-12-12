@@ -86,14 +86,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 100 Primogems and Five Hero S Wit<br />*Added Oct 10, 2025*
 
-### [`WUSXOI92X54U`](https://genshin.hoyoverse.com/en/gift?code=WUSXOI92X54U)
-
-10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Fish Noodles<br />*Added Oct 3, 2025*
-
-### [`GENSHIN5THSPRADIO`](https://genshin.hoyoverse.com/en/gift?code=GENSHIN5THSPRADIO)
-
-10k Mora, Ten Adventurer S Experience, and Five Frostlamp Flowers<br />*Added Oct 3, 2025*
-
 ### [`GENSHINGIFT`](https://genshin.hoyoverse.com/en/gift?code=GENSHINGIFT)
 
 50 Primogems and Three Hero S Wit  This Code Works Periodically<br />*Added Dec 27, 2024*

@@ -14,6 +14,22 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`SLC26CODE`](https://nexus-codes.app/copy/?code=SLC26CODE)
+
+Ten Custom Draw Tickets, 500 Artifact Enhancement Chip I, and Five Enhancement Reset Tickets<br />*Added Dec 15, 2025*
+
+### [`D3CUD`](https://nexus-codes.app/copy/?code=D3CUD)
+
+Ten Abyssal Crystals,, 100 Traces Of Shadow, and 5mil Gold<br />*Added Dec 15, 2025*
+
+### [`LETSG0SLV`](https://nexus-codes.app/copy/?code=LETSG0SLV)
+
+1k Essence Stones and 3k Low Tier Mana Crystals<br />*Added Dec 15, 2025*
+
+### [`HOOLIDAYY`](https://nexus-codes.app/copy/?code=HOOLIDAYY)
+
+30 Skill Run Transcendent Stone Chests and 250 Amplification Agents<br />*Added Dec 15, 2025*
+
 ### [`CHRIST0PHER12REED`](https://nexus-codes.app/copy/?code=CHRIST0PHER12REED)
 
 Free In Game Rewards<br />*Added Dec 5, 2025*

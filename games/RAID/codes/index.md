@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`winmidgamewinter`](https://nexus-codes.app/copy/?code=winmidgamewinter)
+
+*Added Dec 17, 2025*
+
+### [`GRIMFOREST`](https://nexus-codes.app/copy/?code=GRIMFOREST)
+
+*Added Dec 17, 2025*
+
+### [`AMG25`](https://nexus-codes.app/copy/?code=AMG25)
+
+*Added Dec 17, 2025*
+
 ### [`HUNTINRAID`](https://nexus-codes.app/copy/?code=HUNTINRAID)
 
 *Added Dec 3, 2025*

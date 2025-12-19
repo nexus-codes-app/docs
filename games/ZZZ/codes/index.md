@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`VOIDHUNTER1230`](https://zenless.hoyoverse.com/redemption?code=VOIDHUNTER1230)
+
+300 Polychrome, 30k Denny, Two Senior Investigator Logs, and Three W Engine Energy Modules<br />*Added Dec 19, 2025*
+
 ### [`DIALYN1125`](https://zenless.hoyoverse.com/redemption?code=DIALYN1125)
 
 60 Polychrome and 6,666 Dennies<br />*Added Nov 27, 2025*

@@ -74,18 +74,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 30k Mora, Five Mystic Enhancement Ore, Three Hero S Wit, Three Nagadus Emerald Slivers, and Three Teachings Of Elysium<br />*Added Oct 17, 2025*
 
-### [`MiliastraWonderland`](https://genshin.hoyoverse.com/en/gift?code=MiliastraWonderland)
-
-100 Primogems and 50k Mora<br />*Added Oct 10, 2025*
-
-### [`Nefer1022Ashru`](https://genshin.hoyoverse.com/en/gift?code=Nefer1022Ashru)
-
-100 Primogems and Ten Mystic Enhancement Ore<br />*Added Oct 10, 2025*
-
-### [`LunaII1022`](https://genshin.hoyoverse.com/en/gift?code=LunaII1022)
-
-100 Primogems and Five Hero S Wit<br />*Added Oct 10, 2025*
-
 ### [`GENSHINGIFT`](https://genshin.hoyoverse.com/en/gift?code=GENSHINGIFT)
 
 50 Primogems and Three Hero S Wit  This Code Works Periodically<br />*Added Dec 27, 2024*

@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`IDKHOW2REED`](https://nexus-codes.app/copy/?code=IDKHOW2REED)
+
+15 First Edition Of Magic Crafting Ii and 100 Artifact Enhancement Chip Ii<br />*Added Dec 22, 2025*
+
 ### [`SLC26CODE`](https://nexus-codes.app/copy/?code=SLC26CODE)
 
 Ten Custom Draw Tickets, 500 Artifact Enhancement Chip I, and Five Enhancement Reset Tickets<br />*Added Dec 15, 2025*

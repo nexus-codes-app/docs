@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`4TJ9UZ7Z36N7`](https://hsr.hoyoverse.com/gift?code=4TJ9UZ7Z36N7)
+
+50 Stellar Jade and 10k Credits<br />*Added Dec 22, 2025*
+
+### [`THEDAHLIA`](https://hsr.hoyoverse.com/gift?code=THEDAHLIA)
+
+Three Traveler S Guides and Two Dream Syrup<br />*Added Dec 22, 2025*
+
 ### [`PS3QWS3ACGDK`](https://hsr.hoyoverse.com/gift?code=PS3QWS3ACGDK)
 
 100 Stellar Jade and 5k Credits<br />*Added Dec 5, 2025*

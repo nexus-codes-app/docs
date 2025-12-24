@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`RAIDINREVIEW2025`](https://nexus-codes.app/copy/?code=RAIDINREVIEW2025)
+
+*Added Dec 24, 2025*
+
 ### [`winmidgamewinter`](https://nexus-codes.app/copy/?code=winmidgamewinter)
 
 *Added Dec 17, 2025*

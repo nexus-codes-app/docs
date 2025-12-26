@@ -78,10 +78,6 @@ Three Special Designs and 300 Marks Of Time I<br />*Added Oct 24, 2025*
 
 Five Luminous Prism I and 500k Gold<br />*Added Oct 24, 2025*
 
-### [`SUNGILHWAN0925`](https://nexus-codes.app/copy/?code=SUNGILHWAN0925)
-
-Ten Custom Draw Tickets<br />*Added Oct 17, 2025*
-
 ### [`THXSLVARISETHX`](https://nexus-codes.app/copy/?code=THXSLVARISETHX)
 
 Free Gold<br />*Added Aug 26, 2025*

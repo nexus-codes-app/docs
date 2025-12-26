@@ -70,10 +70,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 60 Primogems and Five Adventurer S Experience<br />*Added Oct 20, 2025*
 
-### [`GS61YTEFW9V6`](https://genshin.hoyoverse.com/en/gift?code=GS61YTEFW9V6)
-
-30k Mora, Five Mystic Enhancement Ore, Three Hero S Wit, Three Nagadus Emerald Slivers, and Three Teachings Of Elysium<br />*Added Oct 17, 2025*
-
 ### [`GENSHINGIFT`](https://genshin.hoyoverse.com/en/gift?code=GENSHINGIFT)
 
 50 Primogems and Three Hero S Wit  This Code Works Periodically<br />*Added Dec 27, 2024*

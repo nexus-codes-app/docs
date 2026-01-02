@@ -54,30 +54,6 @@ Free In Game Rewards<br />*Added Nov 14, 2025*
 
 Free In Game Rewards<br />*Added Nov 7, 2025*
 
-### [`OREARAFRIEREN`](https://nexus-codes.app/copy/?code=OREARAFRIEREN)
-
-Free In Game Rewards<br />*Added Oct 24, 2025*
-
-### [`FRIERENLEVELUP`](https://nexus-codes.app/copy/?code=FRIERENLEVELUP)
-
-Free In Game Rewards<br />*Added Oct 24, 2025*
-
-### [`COLLABUD`](https://nexus-codes.app/copy/?code=COLLABUD)
-
-Ten Custom Draw Tickets and 3mil Gold<br />*Added Oct 24, 2025*
-
-### [`FRIERENCODE`](https://nexus-codes.app/copy/?code=FRIERENCODE)
-
-100 Traces Of Shadow, 3k Shadow Energy, and Five Shadow Waves<br />*Added Oct 24, 2025*
-
-### [`BEYONDSOLO`](https://nexus-codes.app/copy/?code=BEYONDSOLO)
-
-Three Special Designs and 300 Marks Of Time I<br />*Added Oct 24, 2025*
-
-### [`BRAVESWORD`](https://nexus-codes.app/copy/?code=BRAVESWORD)
-
-Five Luminous Prism I and 500k Gold<br />*Added Oct 24, 2025*
-
 ### [`THXSLVARISETHX`](https://nexus-codes.app/copy/?code=THXSLVARISETHX)
 
 Free Gold<br />*Added Aug 26, 2025*

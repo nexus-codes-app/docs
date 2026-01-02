@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`GallopYeah`](https://genshin.hoyoverse.com/en/gift?code=GallopYeah)
+
+100 Primogems and 50k Mora<br />*Added Jan 2, 2026*
+
+### [`Zibai0515`](https://genshin.hoyoverse.com/en/gift?code=Zibai0515)
+
+100 Primogems and Five Hero S Wit<br />*Added Jan 2, 2026*
+
+### [`ComeNightorDay`](https://genshin.hoyoverse.com/en/gift?code=ComeNightorDay)
+
+100 Primogems and Ten Mystic Enhancement Ore<br />*Added Jan 2, 2026*
+
 ### [`XXOJ2Z7F8GJI`](https://genshin.hoyoverse.com/en/gift?code=XXOJ2Z7F8GJI)
 
 10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Fish Noodles<br />*Added Dec 5, 2025*

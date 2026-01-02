@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`D7670PLBL2`](https://nexus-codes.app/copy/?code=D7670PLBL2)
+
+30 Crystals, Eight Hoho Vacation Tickets, and One Phase Shifter<br />*Added Jan 2, 2026*
+
+### [`K4NQWFORTP`](https://nexus-codes.app/copy/?code=K4NQWFORTP)
+
+500 Asterite, One Stamina Potion, and Four Hoho Vacation Tickets<br />*Added Jan 2, 2026*
+
 ### [`RitaXmasMission`](https://nexus-codes.app/copy/?code=RitaXmasMission)
 
 Rewards<br />*Added Dec 29, 2025*

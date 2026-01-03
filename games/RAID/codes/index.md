@@ -14,6 +14,21 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`KITTYCUT`](https://nexus-codes.app/copy/?code=KITTYCUT)
+
+Cheshire Cat  New  
+**New Players Only**<br />*Added Jan 3, 2026*
+
+### [`GETFENSHI25`](https://nexus-codes.app/copy/?code=GETFENSHI25)
+
+Fenshi, 200k Silver, Ten Xp Brews, and 40 Potions  New  
+**New Players Only**<br />*Added Jan 3, 2026*
+
+### [`UDKING`](https://nexus-codes.app/copy/?code=UDKING)
+
+Ultimate Deathknight  New  
+**New Players Only**<br />*Added Jan 3, 2026*
+
 ### [`RAIDINREVIEW2025`](https://nexus-codes.app/copy/?code=RAIDINREVIEW2025)
 
 *Added Dec 24, 2025*

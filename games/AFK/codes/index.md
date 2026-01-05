@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`NEWJOURNEY2026`](https://nexus-codes.app/copy/?code=NEWJOURNEY2026)
+
+x10 Summon Letters and 50k Gold<br />*Added Jan 5, 2026*
+
+### [`Alna&Patch154AFK`](https://nexus-codes.app/copy/?code=Alna%26Patch154AFK)
+
+300 Diamonds and 20k Gold<br />*Added Jan 5, 2026*
+
 ### [`AFKJPN153WithGala`](https://nexus-codes.app/copy/?code=AFKJPN153WithGala)
 
 300 Diamonds and 30k Gold<br />*Added Nov 28, 2025*

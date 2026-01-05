@@ -86,14 +86,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 60 Primogems and Five Adventurer S Experience<br />*Added Oct 24, 2025*
 
-### [`MBEYNDLU3WGZ`](https://genshin.hoyoverse.com/en/gift?code=MBEYNDLU3WGZ)
-
-160 Geodes Of Replication, Two Hero S Wit, Two Mystic Enhancement Ore and 2k Mora<br />*Added Oct 23, 2025*
-
-### [`0FQBAJNXCUFU`](https://genshin.hoyoverse.com/en/gift?code=0FQBAJNXCUFU)
-
-60 Primogems and Five Adventurer S Experience<br />*Added Oct 20, 2025*
-
 ### [`GENSHINGIFT`](https://genshin.hoyoverse.com/en/gift?code=GENSHINGIFT)
 
 50 Primogems and Three Hero S Wit  This Code Works Periodically<br />*Added Dec 27, 2024*

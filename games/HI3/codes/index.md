@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`THEPERFECT`](https://nexus-codes.app/copy/?code=THEPERFECT)
+
+Four Hoho Vacation Tickets and Two Stamina Potions<br />*Added Jan 6, 2026*
+
 ### [`D7670PLBL2`](https://nexus-codes.app/copy/?code=D7670PLBL2)
 
 30 Crystals, Eight Hoho Vacation Tickets, and One Phase Shifter<br />*Added Jan 2, 2026*

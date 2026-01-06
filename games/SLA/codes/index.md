@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`CHRISTOPHERMAS`](https://nexus-codes.app/copy/?code=CHRISTOPHERMAS)
+
+Three Skill Rune Master Chests and One Mil Gold<br />*Added Jan 6, 2026*
+
+### [`GOODBYE2025`](https://nexus-codes.app/copy/?code=GOODBYE2025)
+
+Free In Game Goodies<br />*Added Jan 6, 2026*
+
 ### [`IDKHOW2REED`](https://nexus-codes.app/copy/?code=IDKHOW2REED)
 
 15 First Edition Of Magic Crafting Ii and 100 Artifact Enhancement Chip Ii<br />*Added Dec 22, 2025*

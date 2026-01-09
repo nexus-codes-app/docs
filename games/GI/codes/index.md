@@ -86,10 +86,6 @@ Five Moonfall Silver, 20k Mora, Two Hero S Wit, and Two Mystic Enhancement Ore<b
 
 5k Mora, Two Adventurer S Experience, Two Mystic Enhancement Ore<br />*Added Nov 13, 2025*
 
-### [`EKLP57EFE4G4`](https://genshin.hoyoverse.com/en/gift?code=EKLP57EFE4G4)
-
-10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Fish Noodles<br />*Added Oct 31, 2025*
-
 ### [`4S5RTSV3P5CC`](https://genshin.hoyoverse.com/en/gift?code=4S5RTSV3P5CC)
 
 60 Primogems and Five Adventurer S Experience<br />*Added Oct 24, 2025*

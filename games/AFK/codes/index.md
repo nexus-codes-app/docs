@@ -34,10 +34,6 @@ x10 Origami Hamsters, 500 Diamonds, and 50k Gold<br />*Added Nov 28, 2025*
 
 Diamonds x2025, Epic Invite Letters x11, Temporal Essence x22<br />*Added Nov 22, 2025*
 
-### [`PUMPKIN2025`](https://nexus-codes.app/copy/?code=PUMPKIN2025)
-
-500 Diamonds, 10 Origami Hamsters, and 50k Gold<br />*Added Nov 3, 2025*
-
 ### [`AFKJSeptember`](https://nexus-codes.app/copy/?code=AFKJSeptember)
 
 3 Summon Tickets, 200 Diamonds, and 20k Gold<br />*Added Sep 19, 2025*

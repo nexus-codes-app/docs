@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`MoonInvitationLunaIV`](https://genshin.hoyoverse.com/en/gift?code=MoonInvitationLunaIV)
+
+40 Primogems, 20k Mora, and Three Hero S Wit<br />*Added Jan 13, 2026*
+
 ### [`GS63YTOO2X`](https://genshin.hoyoverse.com/en/gift?code=GS63YTOO2X)
 
 30k Mora, Three Hero S Wit, Five Mystic Enhancement Ore, Three Varunada Lazurite Slivers, and Three Teachings Of Moonlight<br />*Added Jan 5, 2026*

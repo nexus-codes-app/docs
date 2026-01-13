@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`RitaTime`](https://nexus-codes.app/copy/?code=RitaTime)
+
+30 Crystals<br />*Added Jan 13, 2026*
+
+### [`LadyRita`](https://nexus-codes.app/copy/?code=LadyRita)
+
+a Miss Espionage Trial Card  3 Day<br />*Added Jan 13, 2026*
+
 ### [`THEPERFECT`](https://nexus-codes.app/copy/?code=THEPERFECT)
 
 Four Hoho Vacation Tickets and Two Stamina Potions<br />*Added Jan 6, 2026*

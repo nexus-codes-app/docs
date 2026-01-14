@@ -46,10 +46,6 @@ Three Traveler S Guides and Two Dream Syrup<br />*Added Dec 22, 2025*
 
 Three Traveler S Guides and Two Oronyx Slates<br />*Added Nov 7, 2025*
 
-### [`VAK9XB2BCGFX`](https://hsr.hoyoverse.com/gift?code=VAK9XB2BCGFX)
-
-50 Stellar Jades and 10k Credits<br />*Added Nov 5, 2025*
-
 ### [`5S6ZHRWTDNJB`](https://hsr.hoyoverse.com/gift?code=5S6ZHRWTDNJB)
 
 60 Stellar Jade<br />*Added Oct 27, 2025*

@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`RAIDBROTHERHOOD`](https://nexus-codes.app/copy/?code=RAIDBROTHERHOOD)
+
+*Added Jan 17, 2026*
+
 ### [`KITTYCUT`](https://nexus-codes.app/copy/?code=KITTYCUT)
 
 Cheshire Cat  New  

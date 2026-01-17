@@ -58,10 +58,6 @@ Five Uncommon Skill Rune Chests and 1k Essence Stones<br />*Added Nov 21, 2025*
 
 Free In Game Rewards<br />*Added Nov 14, 2025*
 
-### [`DEV_N0TE_1028`](https://nexus-codes.app/copy/?code=DEV_N0TE_1028)
-
-Free In Game Rewards<br />*Added Nov 7, 2025*
-
 ### [`THXSLVARISETHX`](https://nexus-codes.app/copy/?code=THXSLVARISETHX)
 
 Free Gold<br />*Added Aug 26, 2025*

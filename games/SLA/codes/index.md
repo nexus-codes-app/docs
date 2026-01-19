@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`IGRISGETUUUUP`](https://nexus-codes.app/copy/?code=IGRISGETUUUUP)
+
+Free In Game Goodies<br />*Added Jan 19, 2026*
+
+### [`PROUDOFYOUSON`](https://nexus-codes.app/copy/?code=PROUDOFYOUSON)
+
+Free In Game Goodies<br />*Added Jan 19, 2026*
+
 ### [`CHRISTOPHERMAS`](https://nexus-codes.app/copy/?code=CHRISTOPHERMAS)
 
 Three Skill Rune Master Chests and One Mil Gold<br />*Added Jan 6, 2026*

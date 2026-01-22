@@ -82,14 +82,6 @@ Five Moonfall Silver, 20k Mora, Two Hero S Wit, and Two Mystic Enhancement Ore<b
 
 320 Geodes Of Replication<br />*Added Nov 20, 2025*
 
-### [`NTIF4NP4DO89`](https://genshin.hoyoverse.com/en/gift?code=NTIF4NP4DO89)
-
-10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Stir Fried Fish Noodles, Five Jueyun Chili Chicken<br />*Added Nov 13, 2025*
-
-### [`3SXYPDLD3FYV`](https://genshin.hoyoverse.com/en/gift?code=3SXYPDLD3FYV)
-
-5k Mora, Two Adventurer S Experience, Two Mystic Enhancement Ore<br />*Added Nov 13, 2025*
-
 ### [`4S5RTSV3P5CC`](https://genshin.hoyoverse.com/en/gift?code=4S5RTSV3P5CC)
 
 60 Primogems and Five Adventurer S Experience<br />*Added Oct 24, 2025*

@@ -1,5 +1,20 @@
 [
   {
+    "code": "JOURNEYWELL",
+    "rewards": "100 Astrite, Two Forgery Premium Supply Ii, and Two Advanced Sealed Tubes  Valid Until January 25",
+    "date": "2026-01-23T12:00:04.240Z"
+  },
+  {
+    "code": "WARMSUNLIGHT",
+    "rewards": "100 Astrite, Four Premium Enclosure Tank Ii, and 40k Shell Credits  Valid Until January 25",
+    "date": "2026-01-23T12:00:04.240Z"
+  },
+  {
+    "code": "PAPERPLANE",
+    "rewards": "100 Astrite, Four Premium Resonance Potions, and Five Advanced Energy Cores  Valid Until January 25",
+    "date": "2026-01-23T11:30:04.395Z"
+  },
+  {
     "code": "HITTHEROAD",
     "rewards": "100 Astrite, Two Forgery Premium Supplies, and 40k Shell Credits",
     "date": "2025-12-12T14:30:08.975Z"
@@ -13,16 +28,6 @@
     "code": "STARCHASER",
     "rewards": "100 Astrite, 20 Premium Tuners, and Five Advanced Sealed Tubes",
     "date": "2025-12-12T14:30:08.975Z"
-  },
-  {
-    "code": "CRUMBLEDCITY",
-    "rewards": "100 Astrite, Three Advanced Energy Cores, and Two Medium Nutrient Blocks",
-    "date": "2025-11-14T11:30:04.428Z"
-  },
-  {
-    "code": "ENDLESSSUMMER",
-    "rewards": "100 Astrite, Three Advanced Resonance Potions, and Two Medium Revival Inhalers",
-    "date": "2025-11-14T11:30:04.428Z"
   },
   {
     "code": "WUWA4PC",

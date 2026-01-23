@@ -14,6 +14,22 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`AFKJMagicSeason`](https://nexus-codes.app/copy/?code=AFKJMagicSeason)
+
+300 Diamonds and 20k Gold<br />*Added Jan 23, 2026*
+
+### [`SoliseWelcomeBack`](https://nexus-codes.app/copy/?code=SoliseWelcomeBack)
+
+300 Diamonds and 20k Gold<br />*Added Jan 23, 2026*
+
+### [`AuroraBestGift`](https://nexus-codes.app/copy/?code=AuroraBestGift)
+
+600 Diamonds and 20k Gold<br />*Added Jan 23, 2026*
+
+### [`AFKHomestead0130`](https://nexus-codes.app/copy/?code=AFKHomestead0130)
+
+200 Diamonds and 20k Gold<br />*Added Jan 23, 2026*
+
 ### [`NEWJOURNEY2026`](https://nexus-codes.app/copy/?code=NEWJOURNEY2026)
 
 x10 Summon Letters and 50k Gold<br />*Added Jan 5, 2026*

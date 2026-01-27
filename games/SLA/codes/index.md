@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`2601_DEVN0TE`](https://nexus-codes.app/copy/?code=2601_DEVN0TE)
+
+Free In Game Goodies<br />*Added Jan 27, 2026*
+
 ### [`IGRISGETUUUUP`](https://nexus-codes.app/copy/?code=IGRISGETUUUUP)
 
 Free In Game Goodies<br />*Added Jan 19, 2026*

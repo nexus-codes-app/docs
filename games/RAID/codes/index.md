@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`EPYRE`](https://nexus-codes.app/copy/?code=EPYRE)
+
+*Added Jan 28, 2026*
+
+### [`DearSirNicholas`](https://nexus-codes.app/copy/?code=DearSirNicholas)
+
+*Added Jan 28, 2026*
+
 ### [`RAIDBROTHERHOOD`](https://nexus-codes.app/copy/?code=RAIDBROTHERHOOD)
 
 *Added Jan 17, 2026*

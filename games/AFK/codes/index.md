@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`LQUQEUJGNO`](https://nexus-codes.app/copy/?code=LQUQEUJGNO)
+
+20 Epic Invite Letters<br />*Added Jan 30, 2026*
+
 ### [`AFKJMagicSeason`](https://nexus-codes.app/copy/?code=AFKJMagicSeason)
 
 300 Diamonds and 20k Gold<br />*Added Jan 23, 2026*

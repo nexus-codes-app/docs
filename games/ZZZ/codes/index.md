@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`DREAMINGANGEL`](https://zenless.hoyoverse.com/redemption?code=DREAMINGANGEL)
+
+300 Polychrome, 30k Denny, Two Senior Investigator Logs, and Three W Engine Energy Modules  New    Expires February 1<br />*Added Jan 30, 2026*
+
 ### [`ZZZANGELS`](https://zenless.hoyoverse.com/redemption?code=ZZZANGELS)
 
 50 Polychrome<br />*Added Jan 29, 2026*

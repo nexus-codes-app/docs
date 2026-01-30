@@ -66,18 +66,6 @@ Five Moonfall Silver, 20k Mora, Two Hero S Wit, and Two Mystic Enhancement Ore<b
 
 60 Primogems and Five Adventurer S Experience<br />*Added Nov 25, 2025*
 
-### [`GOGOCraftspeople`](https://genshin.hoyoverse.com/en/gift?code=GOGOCraftspeople)
-
-100 Primogems and 50k Mora<br />*Added Nov 21, 2025*
-
-### [`Dragon1203Durin`](https://genshin.hoyoverse.com/en/gift?code=Dragon1203Durin)
-
-100 Primogems and Five Hero S Wit<br />*Added Nov 21, 2025*
-
-### [`1203Kuunrukous`](https://genshin.hoyoverse.com/en/gift?code=1203Kuunrukous)
-
-100 Primogems and Ten Mystic Enhancement Ore<br />*Added Nov 21, 2025*
-
 ### [`4S5RTSV3P5CC`](https://genshin.hoyoverse.com/en/gift?code=4S5RTSV3P5CC)
 
 60 Primogems and Five Adventurer S Experience<br />*Added Oct 24, 2025*

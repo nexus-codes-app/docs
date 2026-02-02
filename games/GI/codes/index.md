@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`UOEP8CP3D62C`](https://genshin.hoyoverse.com/en/gift?code=UOEP8CP3D62C)
+
+10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Fish Noodles<br />*Added Feb 2, 2026*
+
 ### [`MoonInvitationLunaIV`](https://genshin.hoyoverse.com/en/gift?code=MoonInvitationLunaIV)
 
 40 Primogems, 20k Mora, and Three Hero S Wit<br />*Added Jan 13, 2026*

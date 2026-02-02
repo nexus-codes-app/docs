@@ -54,30 +54,6 @@ Three Traveler S Guides and Two Dream Syrup<br />*Added Dec 22, 2025*
 
 30 Stellar Jade, Three Traveler S Guides, Five Condensed Aether, Four Lost Gold Fragments, and 20k Credits<br />*Added Oct 27, 2025*
 
-### [`UT38ZEJPY573`](https://hsr.hoyoverse.com/gift?code=UT38ZEJPY573)
-
-100 Stellar Jade and Four Refined Aether<br />*Added Oct 24, 2025*
-
-### [`NBJ8HEJNZ5NF`](https://hsr.hoyoverse.com/gift?code=NBJ8HEJNZ5NF)
-
-100 Stellar Jade and Five Traveler S Guides<br />*Added Oct 24, 2025*
-
-### [`YTKQGE27H57T`](https://hsr.hoyoverse.com/gift?code=YTKQGE27H57T)
-
-100 Stellar Jade and 50k Credits<br />*Added Oct 24, 2025*
-
-### [`FREEDANHENG`](https://hsr.hoyoverse.com/gift?code=FREEDANHENG)
-
-Three Traveler S Guides and Two Earth Crystal Ore<br />*Added Oct 15, 2025*
-
-### [`9BJ8YE37HM8B`](https://hsr.hoyoverse.com/gift?code=9BJ8YE37HM8B)
-
-50 Stellar Jade and 10k Credits<br />*Added Oct 15, 2025*
-
-### [`MADFORMARCH`](https://hsr.hoyoverse.com/gift?code=MADFORMARCH)
-
-Three Traveler S Guides and Two At Least We Gather for Now<br />*Added Sep 29, 2025*
-
 ### [`CREATIONNYMPH`](https://hsr.hoyoverse.com/gift?code=CREATIONNYMPH)
 
 60 Stellar Jade and One Fuel<br />*Added Jul 2, 2025*

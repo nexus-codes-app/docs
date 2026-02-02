@@ -62,14 +62,6 @@ Five Senior Investigator Logs, Two W Engine Energy Modules, and 30k Dennies<br /
 
 60 Polychrome and 6,666 Dennies<br />*Added Nov 27, 2025*
 
-### [`ZZZANNIVERSARY`](https://zenless.hoyoverse.com/redemption?code=ZZZANNIVERSARY)
-
-300 Polychrome, 30k Denny, Two Senior Investigator Logs, and Three W Engine Energy Modules<br />*Added May 23, 2025*
-
-### [`ZZZ17TIMOTHYRANDY`](https://zenless.hoyoverse.com/redemption?code=ZZZ17TIMOTHYRANDY)
-
-60 Polychrome and 6,666 Dennies<br />*Added Apr 24, 2025*
-
 ### [`ZENLESSGIFT`](https://zenless.hoyoverse.com/redemption?code=ZENLESSGIFT)
 
 50 Polychrome, Two Official Investigator Logs, Three W Engine Power Supplies, and One Bangboo Algorithm Module<br />*Added Jan 16, 2025*

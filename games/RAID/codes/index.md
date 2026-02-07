@@ -14,6 +14,16 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`GOFAST`](https://nexus-codes.app/copy/?code=GOFAST)
+
+Razelvarg, 15 Xp Brews, 15 Greater Magic Potions, and 300k Silver  New  
+**New Players Only**<br />*Added Feb 7, 2026*
+
+### [`STAGSLAYER`](https://nexus-codes.app/copy/?code=STAGSLAYER)
+
+Stag Knight, One Epic Skill Tome, 45 Xp Brews, and 150k Silver  New  
+**New Players Only**<br />*Added Feb 7, 2026*
+
 ### [`EPYRE`](https://nexus-codes.app/copy/?code=EPYRE)
 
 *Added Jan 28, 2026*

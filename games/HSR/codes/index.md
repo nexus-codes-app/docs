@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`5S6ZHRWTDNJB`](https://hsr.hoyoverse.com/gift?code=5S6ZHRWTDNJB)
+
+60 Stellar Jade<br />*Added Feb 10, 2026*
+
+### [`4TKSX77Y58QK`](https://hsr.hoyoverse.com/gift?code=4TKSX77Y58QK)
+
+30 Stellar Jade, Three Traveler S Guides, Five Condensed Aether, Four Lost Gold Fragments, and 20k Credits<br />*Added Feb 10, 2026*
+
 ### [`HITLIKETOBEAHA`](https://hsr.hoyoverse.com/gift?code=HITLIKETOBEAHA)
 
 100 Stellar Jade and Four Refined Aether<br />*Added Feb 6, 2026*

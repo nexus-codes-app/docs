@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`VisitWonderland`](https://genshin.hoyoverse.com/en/gift?code=VisitWonderland)
+
+100 Primogems and 50k Mora<br />*Added Feb 13, 2026*
+
+### [`Homeward`](https://genshin.hoyoverse.com/en/gift?code=Homeward)
+
+100 Primogems and Ten Mystic Enhancement Ore<br />*Added Feb 13, 2026*
+
+### [`VarkaArrives`](https://genshin.hoyoverse.com/en/gift?code=VarkaArrives)
+
+100 Primogems and Five Hero S Wit<br />*Added Feb 13, 2026*
+
 ### [`HUEK357YFYN3`](https://genshin.hoyoverse.com/en/gift?code=HUEK357YFYN3)
 
 10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Fish Noodles<br />*Added Feb 6, 2026*

@@ -54,10 +54,6 @@ Ten Abyssal Crystals,, 100 Traces Of Shadow, and 5mil Gold<br />*Added Dec 15, 2
 
 30 Skill Run Transcendent Stone Chests and 250 Amplification Agents<br />*Added Dec 15, 2025*
 
-### [`CHRIST0PHER12REED`](https://nexus-codes.app/copy/?code=CHRIST0PHER12REED)
-
-Free In Game Rewards<br />*Added Dec 5, 2025*
-
 ### [`THXSLVARISETHX`](https://nexus-codes.app/copy/?code=THXSLVARISETHX)
 
 Free Gold<br />*Added Aug 26, 2025*

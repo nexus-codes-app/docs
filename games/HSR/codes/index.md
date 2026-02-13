@@ -58,18 +58,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 Three Traveler S Guides and Two Dream Syrup<br />*Added Dec 22, 2025*
 
-### [`PS3QWS3ACGDK`](https://hsr.hoyoverse.com/gift?code=PS3QWS3ACGDK)
-
-100 Stellar Jade and 5k Credits<br />*Added Dec 5, 2025*
-
-### [`MTKQEAJAUZWB`](https://hsr.hoyoverse.com/gift?code=MTKQEAJAUZWB)
-
-100 Stellar Jade and Four Refined Aether<br />*Added Dec 5, 2025*
-
-### [`RSJ9EB2TDGC7`](https://hsr.hoyoverse.com/gift?code=RSJ9EB2TDGC7)
-
-100 Stellar Jade and Five Traveler S Guides<br />*Added Dec 5, 2025*
-
 ### [`OMEGA`](https://hsr.hoyoverse.com/gift?code=OMEGA)
 
 60 Stellar Jade and One Fuel<br />*Added Nov 7, 2025*

@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`AFKJWITHME2026`](https://nexus-codes.app/copy/?code=AFKJWITHME2026)
+
+x10 Origami Hamsters, 500 Diamonds, and 50k Gold<br />*Added Feb 20, 2026*
+
+### [`SPRINGFEST2026`](https://nexus-codes.app/copy/?code=SPRINGFEST2026)
+
+x20 Invite Letters and 100k Gold<br />*Added Feb 20, 2026*
+
 ### [`LQUQEUJGNO`](https://nexus-codes.app/copy/?code=LQUQEUJGNO)
 
 20 Epic Invite Letters<br />*Added Jan 30, 2026*

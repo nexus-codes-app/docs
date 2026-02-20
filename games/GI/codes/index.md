@@ -14,6 +14,22 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`JTSHBHPPKUSV`](https://genshin.hoyoverse.com/en/gift?code=JTSHBHPPKUSV)
+
+20 Primogems and 160 Geodes Of Replication<br />*Added Feb 20, 2026*
+
+### [`BLINYMOIBLINY`](https://genshin.hoyoverse.com/en/gift?code=BLINYMOIBLINY)
+
+20k Mora, Three Hero S Wit, One Crepes Suzette, One Thunderclap Slash, One Midsommar Torte, One Tea Break Pancakes, Two Teyvat Fried Eggs, and One Long Night Alight<br />*Added Feb 20, 2026*
+
+### [`8BHA0KFRG94K`](https://genshin.hoyoverse.com/en/gift?code=8BHA0KFRG94K)
+
+60 Primogems and Five Adventurer S Experience<br />*Added Feb 20, 2026*
+
+### [`GS64YTW65O`](https://genshin.hoyoverse.com/en/gift?code=GS64YTW65O)
+
+30k Mora, Three Hero S Wit, Five Mystic Enhancement Ore, Three Vayuda Turquoise Slivers, and Three Teachings Of Freedom<br />*Added Feb 20, 2026*
+
 ### [`VisitWonderland`](https://genshin.hoyoverse.com/en/gift?code=VisitWonderland)
 
 100 Primogems and 50k Mora<br />*Added Feb 13, 2026*

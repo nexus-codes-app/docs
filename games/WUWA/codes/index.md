@@ -26,18 +26,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 100 Astrite, Four Premium Resonance Potions, and Five Advanced Energy Cores  Valid Until January 25<br />*Added Jan 23, 2026*
 
-### [`HITTHEROAD`](https://nexus-codes.app/copy/?code=HITTHEROAD)
-
-100 Astrite, Two Forgery Premium Supplies, and 40k Shell Credits<br />*Added Dec 12, 2025*
-
-### [`BACKTOSCHOOL`](https://nexus-codes.app/copy/?code=BACKTOSCHOOL)
-
-100 Astrite, Four Premium Resonance Potions, and Five Advanced Energy Cores<br />*Added Dec 12, 2025*
-
-### [`STARCHASER`](https://nexus-codes.app/copy/?code=STARCHASER)
-
-100 Astrite, 20 Premium Tuners, and Five Advanced Sealed Tubes<br />*Added Dec 12, 2025*
-
 ### [`WUWA4PC`](https://nexus-codes.app/copy/?code=WUWA4PC)
 
 50 Astrites   Note  This Code Is Valid On Pc Only<br />*Added Jan 10, 2025*

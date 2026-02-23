@@ -66,22 +66,6 @@ Free In Game Goodies<br />*Added Jan 6, 2026*
 
 15 First Edition Of Magic Crafting Ii and 100 Artifact Enhancement Chip Ii<br />*Added Dec 22, 2025*
 
-### [`SLC26CODE`](https://nexus-codes.app/copy/?code=SLC26CODE)
-
-Ten Custom Draw Tickets, 500 Artifact Enhancement Chip I, and Five Enhancement Reset Tickets<br />*Added Dec 15, 2025*
-
-### [`D3CUD`](https://nexus-codes.app/copy/?code=D3CUD)
-
-Ten Abyssal Crystals,, 100 Traces Of Shadow, and 5mil Gold<br />*Added Dec 15, 2025*
-
-### [`LETSG0SLV`](https://nexus-codes.app/copy/?code=LETSG0SLV)
-
-1k Essence Stones and 3k Low Tier Mana Crystals<br />*Added Dec 15, 2025*
-
-### [`HOOLIDAYY`](https://nexus-codes.app/copy/?code=HOOLIDAYY)
-
-30 Skill Run Transcendent Stone Chests and 250 Amplification Agents<br />*Added Dec 15, 2025*
-
 ### [`THXSLVARISETHX`](https://nexus-codes.app/copy/?code=THXSLVARISETHX)
 
 Free Gold<br />*Added Aug 26, 2025*

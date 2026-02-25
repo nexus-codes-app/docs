@@ -59,10 +59,6 @@ Ultimate Deathknight  New
 
 *Added Dec 17, 2025*
 
-### [`GRIMFOREST`](https://nexus-codes.app/copy/?code=GRIMFOREST)
-
-*Added Dec 17, 2025*
-
 ### [`AMG25`](https://nexus-codes.app/copy/?code=AMG25)
 
 *Added Dec 17, 2025*

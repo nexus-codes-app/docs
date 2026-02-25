@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`LTT3DVKVLUQZ`](https://genshin.hoyoverse.com/en/gift?code=LTT3DVKVLUQZ)
+
+30 Primogems, 20k Mora, and Three Broken Drive Shafts<br />*Added Feb 25, 2026*
+
 ### [`JTSHBHPPKUSV`](https://genshin.hoyoverse.com/en/gift?code=JTSHBHPPKUSV)
 
 20 Primogems and 160 Geodes Of Replication<br />*Added Feb 20, 2026*

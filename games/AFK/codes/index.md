@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`LILITHHAPPY2026`](https://nexus-codes.app/copy/?code=LILITHHAPPY2026)
+
+x5 Summon Tickets and 2,026 Diamonds<br />*Added Feb 27, 2026*
+
+### [`CheerforAnniv`](https://nexus-codes.app/copy/?code=CheerforAnniv)
+
+500 Diamonds and 20k Gold<br />*Added Feb 27, 2026*
+
 ### [`AFKJWITHME2026`](https://nexus-codes.app/copy/?code=AFKJWITHME2026)
 
 x10 Origami Hamsters, 500 Diamonds, and 50k Gold<br />*Added Feb 20, 2026*

@@ -78,10 +78,6 @@ Five Senior Investigator Logs, Two W Engine Energy Modules, and 30k Dennies<br /
 
 30 Polychrome, Three Senior Investigator Logs, and 6,666 Dennies<br />*Added Dec 24, 2025*
 
-### [`VOIDHUNTER1230`](https://zenless.hoyoverse.com/redemption?code=VOIDHUNTER1230)
-
-300 Polychrome, 30k Denny, Two Senior Investigator Logs, and Three W Engine Energy Modules<br />*Added Dec 19, 2025*
-
 ### [`ZENLESSGIFT`](https://zenless.hoyoverse.com/redemption?code=ZENLESSGIFT)
 
 50 Polychrome, Two Official Investigator Logs, Three W Engine Power Supplies, and One Bangboo Algorithm Module<br />*Added Jan 16, 2025*

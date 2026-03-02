@@ -62,10 +62,6 @@ Three Skill Rune Master Chests and One Mil Gold<br />*Added Jan 6, 2026*
 
 Free In Game Goodies<br />*Added Jan 6, 2026*
 
-### [`IDKHOW2REED`](https://nexus-codes.app/copy/?code=IDKHOW2REED)
-
-15 First Edition Of Magic Crafting Ii and 100 Artifact Enhancement Chip Ii<br />*Added Dec 22, 2025*
-
 ### [`THXSLVARISETHX`](https://nexus-codes.app/copy/?code=THXSLVARISETHX)
 
 Free Gold<br />*Added Aug 26, 2025*

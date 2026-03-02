@@ -66,10 +66,6 @@ Three Traveler S Guides and Two Songlotus Cakes<br />*Added Feb 16, 2026*
 
 50 Stellar Jade and 10k Credits<br />*Added Jan 26, 2026*
 
-### [`4TJ9UZ7Z36N7`](https://hsr.hoyoverse.com/gift?code=4TJ9UZ7Z36N7)
-
-50 Stellar Jade and 10k Credits<br />*Added Dec 22, 2025*
-
 ### [`THEDAHLIA`](https://hsr.hoyoverse.com/gift?code=THEDAHLIA)
 
 Three Traveler S Guides and Two Dream Syrup<br />*Added Dec 22, 2025*

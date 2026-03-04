@@ -56,10 +56,6 @@ Fenshi, 200k Silver, Ten Xp Brews, and 40 Potions  New
 Ultimate Deathknight  New  
 **New Players Only**<br />*Added Jan 3, 2026*
 
-### [`RAIDINREVIEW2025`](https://nexus-codes.app/copy/?code=RAIDINREVIEW2025)
-
-*Added Dec 24, 2025*
-
 ### [`winmidgamewinter`](https://nexus-codes.app/copy/?code=winmidgamewinter)
 
 *Added Dec 17, 2025*

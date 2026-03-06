@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`AFKJMOONLIGHT`](https://nexus-codes.app/copy/?code=AFKJMOONLIGHT)
+
+x10 Origami Hamsters, 500 Diamonds, and 50k Gold<br />*Added Mar 6, 2026*
+
 ### [`LILITHHAPPY2026`](https://nexus-codes.app/copy/?code=LILITHHAPPY2026)
 
 x5 Summon Tickets and 2,026 Diamonds<br />*Added Feb 27, 2026*

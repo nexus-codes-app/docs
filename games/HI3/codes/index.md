@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`WARMGIFT`](https://nexus-codes.app/copy/?code=WARMGIFT)
+
+120 Crystals<br />*Added Mar 10, 2026*
+
+### [`MFV92R1ONL`](https://nexus-codes.app/copy/?code=MFV92R1ONL)
+
+30 Crystals, Eight Hoho Vacation Tickets, and One Phase Shifter<br />*Added Mar 10, 2026*
+
 ### [`WARMCAKE`](https://nexus-codes.app/copy/?code=WARMCAKE)
 
 200 Asterite<br />*Added Mar 3, 2026*

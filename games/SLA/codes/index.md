@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`DEVN0TE_SPR1NG`](https://nexus-codes.app/copy/?code=DEVN0TE_SPR1NG)
+
+20 Weapon Custom Draw Tickets, 2mil Gold, and 1k Low Tier Mana Crystals<br />*Added Mar 12, 2026*
+
+### [`QQSADFACHTNA`](https://nexus-codes.app/copy/?code=QQSADFACHTNA)
+
+20 Abyssal Essence, 1k Shadow Energy, and 100 Traces Of Shadow<br />*Added Mar 12, 2026*
+
+### [`DONTREIJIATME`](https://nexus-codes.app/copy/?code=DONTREIJIATME)
+
+One Mana Power Extract, Seven  Player  Skill Scroll Iii, and 100 Artifact Enhancement Chip Ii<br />*Added Mar 12, 2026*
+
 ### [`VISITSLC2026`](https://nexus-codes.app/copy/?code=VISITSLC2026)
 
 50 Core Aether Ii, 200 Core Aether I, and 3mil Gold<br />*Added Feb 16, 2026*

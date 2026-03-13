@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`RUNEREADER`](https://nexus-codes.app/copy/?code=RUNEREADER)
+
+100 Astrite, Three Advanced Enclosure Tank Ii, and 20k Shell Credits<br />*Added Mar 13, 2026*
+
+### [`DARKSIDE`](https://nexus-codes.app/copy/?code=DARKSIDE)
+
+100 Astrite, Three Advanced Resonance Potions, and Two Medium Revival Inhalers<br />*Added Mar 13, 2026*
+
+### [`RABBITHOLE`](https://nexus-codes.app/copy/?code=RABBITHOLE)
+
+100 Astrite, Three Advanced Energy Cores, and Two Medium Nutrient Blocks<br />*Added Mar 13, 2026*
+
 ### [`JOURNEYWELL`](https://nexus-codes.app/copy/?code=JOURNEYWELL)
 
 100 Astrite, Two Forgery Premium Supply Ii, and Two Advanced Sealed Tubes  Valid Until January 25<br />*Added Jan 23, 2026*

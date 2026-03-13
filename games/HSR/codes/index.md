@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`7T3R83MMMTY3`](https://hsr.hoyoverse.com/gift?code=7T3R83MMMTY3)
+
+100 Stellar Jade and Four Refined Aether<br />*Added Mar 13, 2026*
+
+### [`DBJ9RJLMLSZB`](https://hsr.hoyoverse.com/gift?code=DBJ9RJLMLSZB)
+
+100 Stellar Jade and 50k Credits<br />*Added Mar 13, 2026*
+
+### [`CSJ882LL4BHF`](https://hsr.hoyoverse.com/gift?code=CSJ882LL4BHF)
+
+100 Stellar Jade and Five Traveler S Guides<br />*Added Mar 13, 2026*
+
 ### [`ALETTERFORYOU`](https://hsr.hoyoverse.com/gift?code=ALETTERFORYOU)
 
 Six Adventure Logs and Two Dreamlight   Mixed Sweets<br />*Added Feb 23, 2026*

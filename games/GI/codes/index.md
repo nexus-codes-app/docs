@@ -86,18 +86,6 @@ Five Moonfall Silver, 20k Mora, Two Hero S Wit, and Two Mystic Enhancement Ore<b
 
 20,000 Mora, 3 Hero S Wit, 5 Mystic Enhancement Ore<br />*Added Jan 2, 2026*
 
-### [`GallopYeah`](https://genshin.hoyoverse.com/en/gift?code=GallopYeah)
-
-100 Primogems and 50k Mora<br />*Added Jan 2, 2026*
-
-### [`Zibai0515`](https://genshin.hoyoverse.com/en/gift?code=Zibai0515)
-
-100 Primogems and Five Hero S Wit<br />*Added Jan 2, 2026*
-
-### [`ComeNightorDay`](https://genshin.hoyoverse.com/en/gift?code=ComeNightorDay)
-
-100 Primogems and Ten Mystic Enhancement Ore<br />*Added Jan 2, 2026*
-
 ### [`XXOJ2Z7F8GJI`](https://genshin.hoyoverse.com/en/gift?code=XXOJ2Z7F8GJI)
 
 10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Fish Noodles<br />*Added Dec 5, 2025*

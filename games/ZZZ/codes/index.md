@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`MISSHISS`](https://zenless.hoyoverse.com/redemption?code=MISSHISS)
+
+300 Polychrome, 30k Dennies, Two Senior Investigator Logs, and Three W Engine Energy Modules<br />*Added Mar 14, 2026*
+
 ### [`ZZZGIGO`](https://zenless.hoyoverse.com/redemption?code=ZZZGIGO)
 
 One W Engine Energy Module, One Senior Investigator Log, and 15k Dennies<br />*Added Feb 19, 2026*

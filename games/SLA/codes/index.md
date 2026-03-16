@@ -73,27 +73,3 @@ Three Skill Rune Master Chests and One Mil Gold<br />*Added Jan 6, 2026*
 ### [`GOODBYE2025`](https://nexus-codes.app/copy/?code=GOODBYE2025)
 
 Free In Game Goodies<br />*Added Jan 6, 2026*
-
-### [`THXSLVARISETHX`](https://nexus-codes.app/copy/?code=THXSLVARISETHX)
-
-Free Gold<br />*Added Aug 26, 2025*
-
-### [`WORLD1STLEVELUP`](https://nexus-codes.app/copy/?code=WORLD1STLEVELUP)
-
-Free Essence Stones<br />*Added Aug 26, 2025*
-
-### [`STAYSHARP`](https://nexus-codes.app/copy/?code=STAYSHARP)
-
-25,000 Gold and a Gate Key<br />*Added Aug 26, 2025*
-
-### [`WHOSNATIONALL3VEL`](https://nexus-codes.app/copy/?code=WHOSNATIONALL3VEL)
-
-1000 Essence Stones<br />*Added Aug 26, 2025*
-
-### [`THANXTOGLOBALHUNTERS`](https://nexus-codes.app/copy/?code=THANXTOGLOBALHUNTERS)
-
-500 Essence Stones<br />*Added Aug 26, 2025*
-
-### [`NLHCSTREAM`](https://nexus-codes.app/copy/?code=NLHCSTREAM)
-
-10 Custom Draw Tickets<br />*Added Aug 26, 2025*

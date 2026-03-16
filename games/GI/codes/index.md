@@ -62,17 +62,9 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 40 Primogems, 20k Mora, and Three Hero S Wit<br />*Added Jan 13, 2026*
 
-### [`GS63YTOO2X`](https://genshin.hoyoverse.com/en/gift?code=GS63YTOO2X)
-
-30k Mora, Three Hero S Wit, Five Mystic Enhancement Ore, Three Varunada Lazurite Slivers, and Three Teachings Of Moonlight<br />*Added Jan 5, 2026*
-
 ### [`8X73KH58KDHN`](https://genshin.hoyoverse.com/en/gift?code=8X73KH58KDHN)
 
 60 Primogems and Five Adventurer S Experience<br />*Added Jan 5, 2026*
-
-### [`TSUKINOARIKAE`](https://genshin.hoyoverse.com/en/gift?code=TSUKINOARIKAE)
-
-Five Moonfall Silver, 20k Mora, Two Hero S Wit, and Two Mystic Enhancement Ore<br />*Added Jan 5, 2026*
 
 ### [`7TBZAGPP2WRD`](https://genshin.hoyoverse.com/en/gift?code=7TBZAGPP2WRD)
 

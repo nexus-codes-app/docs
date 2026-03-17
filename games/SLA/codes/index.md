@@ -65,11 +65,3 @@ Free In Game Goodies<br />*Added Jan 19, 2026*
 ### [`PROUDOFYOUSON`](https://nexus-codes.app/copy/?code=PROUDOFYOUSON)
 
 Free In Game Goodies<br />*Added Jan 19, 2026*
-
-### [`CHRISTOPHERMAS`](https://nexus-codes.app/copy/?code=CHRISTOPHERMAS)
-
-Three Skill Rune Master Chests and One Mil Gold<br />*Added Jan 6, 2026*
-
-### [`GOODBYE2025`](https://nexus-codes.app/copy/?code=GOODBYE2025)
-
-Free In Game Goodies<br />*Added Jan 6, 2026*

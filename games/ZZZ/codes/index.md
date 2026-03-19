@@ -54,14 +54,6 @@ Two Senior Investigator Logs, Three W Engine Energy Modules, and 10k Dennies<br 
 
 50 Polychrome<br />*Added Jan 29, 2026*
 
-### [`ZZZ2026`](https://zenless.hoyoverse.com/redemption?code=ZZZ2026)
-
-Five Senior Investigator Logs, Two W Engine Energy Modules, and 30k Dennies<br />*Added Jan 8, 2026*
-
-### [`BJLHLMVGCN`](https://zenless.hoyoverse.com/redemption?code=BJLHLMVGCN)
-
-20k Dennies<br />*Added Jan 8, 2026*
-
 ### [`ZHAOISFREE`](https://zenless.hoyoverse.com/redemption?code=ZHAOISFREE)
 
 50 Polychrome<br />*Added Dec 24, 2025*

@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`4T28RJM4MS3B`](https://hsr.hoyoverse.com/gift?code=4T28RJM4MS3B)
+
+50 Stellar Jade and 10k Credits<br />*Added Mar 19, 2026*
+
+### [`SUB2SPARXIE`](https://hsr.hoyoverse.com/gift?code=SUB2SPARXIE)
+
+Two Sparxie Unlimited Edition Collectible Plushies and Three Traveler S Guides<br />*Added Mar 19, 2026*
+
 ### [`7T3R83MMMTY3`](https://hsr.hoyoverse.com/gift?code=7T3R83MMMTY3)
 
 100 Stellar Jade and Four Refined Aether<br />*Added Mar 13, 2026*

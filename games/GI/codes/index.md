@@ -66,10 +66,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 40 Primogems, 20k Mora, and Three Hero S Wit<br />*Added Jan 13, 2026*
 
-### [`8X73KH58KDHN`](https://genshin.hoyoverse.com/en/gift?code=8X73KH58KDHN)
-
-60 Primogems and Five Adventurer S Experience<br />*Added Jan 5, 2026*
-
 ### [`7TBZAGPP2WRD`](https://genshin.hoyoverse.com/en/gift?code=7TBZAGPP2WRD)
 
 160 Geode Of Replication, 2,000 Mora, 2 Hero S Wit, 2 Mystic Enhancement Ore<br />*Added Jan 2, 2026*

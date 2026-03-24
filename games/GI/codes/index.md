@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`MIXF44DAP7HW`](https://genshin.hoyoverse.com/en/gift?code=MIXF44DAP7HW)
+
+20 Primogems and 160 Geodes Of Replication<br />*Added Mar 24, 2026*
+
 ### [`RFVEZO83458Q`](https://genshin.hoyoverse.com/en/gift?code=RFVEZO83458Q)
 
 *Added Mar 19, 2026*
@@ -61,10 +65,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 ### [`UOEP8CP3D62C`](https://genshin.hoyoverse.com/en/gift?code=UOEP8CP3D62C)
 
 10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Fish Noodles<br />*Added Feb 2, 2026*
-
-### [`MoonInvitationLunaIV`](https://genshin.hoyoverse.com/en/gift?code=MoonInvitationLunaIV)
-
-40 Primogems, 20k Mora, and Three Hero S Wit<br />*Added Jan 13, 2026*
 
 ### [`7TBZAGPP2WRD`](https://genshin.hoyoverse.com/en/gift?code=7TBZAGPP2WRD)
 

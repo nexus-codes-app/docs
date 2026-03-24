@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`W5QR69CYYA`](https://nexus-codes.app/copy/?code=W5QR69CYYA)
+
+30 Crystals, Eight Hoho Vacation Tickets, and One Phase Shifter<br />*Added Mar 24, 2026*
+
+### [`5NPRU9H5RR`](https://nexus-codes.app/copy/?code=5NPRU9H5RR)
+
+30 Crystals, Eight Hoho Vacation Tickets, and One Phase Shifter<br />*Added Mar 24, 2026*
+
 ### [`WARMGIFT`](https://nexus-codes.app/copy/?code=WARMGIFT)
 
 120 Crystals<br />*Added Mar 10, 2026*
@@ -49,11 +57,3 @@ Four Hoho Vacation Tickets<br />*Added Mar 3, 2026*
 ### [`Y6KPU7CLQ0`](https://nexus-codes.app/copy/?code=Y6KPU7CLQ0)
 
 500 Asterite, One Stamina Potion, and Four Hoho Vacation Tickets<br />*Added Feb 10, 2026*
-
-### [`RitaTime`](https://nexus-codes.app/copy/?code=RitaTime)
-
-30 Crystals<br />*Added Jan 13, 2026*
-
-### [`LadyRita`](https://nexus-codes.app/copy/?code=LadyRita)
-
-a Miss Espionage Trial Card  3 Day<br />*Added Jan 13, 2026*

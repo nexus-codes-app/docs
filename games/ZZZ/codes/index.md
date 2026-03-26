@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ZZZ27CHAMPION`](https://zenless.hoyoverse.com/redemption?code=ZZZ27CHAMPION)
+
+60 Polychrome and 6,666 Dennies<br />*Added Mar 26, 2026*
+
 ### [`MISSHISS`](https://zenless.hoyoverse.com/redemption?code=MISSHISS)
 
 300 Polychrome, 30k Dennies, Two Senior Investigator Logs, and Three W Engine Energy Modules<br />*Added Mar 14, 2026*

@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`Scaleblade`](https://genshin.hoyoverse.com/en/gift?code=Scaleblade)
+
+100 Primogems and 50k Mora<br />*Added Mar 27, 2026*
+
+### [`LinneaClassTime`](https://genshin.hoyoverse.com/en/gift?code=LinneaClassTime)
+
+100 Primogems and Ten Mystic Enhancement Ore<br />*Added Mar 27, 2026*
+
+### [`TempleofSpace`](https://genshin.hoyoverse.com/en/gift?code=TempleofSpace)
+
+100 Primogems and Five Hero S Wit<br />*Added Mar 27, 2026*
+
 ### [`MIXF44DAP7HW`](https://genshin.hoyoverse.com/en/gift?code=MIXF44DAP7HW)
 
 20 Primogems and 160 Geodes Of Replication<br />*Added Mar 24, 2026*

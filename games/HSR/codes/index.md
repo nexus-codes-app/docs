@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`AceDetective`](https://hsr.hoyoverse.com/gift?code=AceDetective)
+
+Three Traveler S Guides and Two Cold Jokes<br />*Added Mar 30, 2026*
+
 ### [`4T28RJM4MS3B`](https://hsr.hoyoverse.com/gift?code=4T28RJM4MS3B)
 
 50 Stellar Jade and 10k Credits<br />*Added Mar 19, 2026*

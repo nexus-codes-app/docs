@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`PSCA8NL4ZSPD`](https://genshin.hoyoverse.com/en/gift?code=PSCA8NL4ZSPD)
+
+60 Primogems and Five Adventurer S Experience<br />*Added Mar 30, 2026*
+
 ### [`Scaleblade`](https://genshin.hoyoverse.com/en/gift?code=Scaleblade)
 
 100 Primogems and 50k Mora<br />*Added Mar 27, 2026*

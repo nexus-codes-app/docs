@@ -57,7 +57,3 @@ Three Skill Rune Master Chests and 3k Rune Fragments<br />*Added Feb 16, 2026*
 ### [`NEWSTORY212`](https://nexus-codes.app/copy/?code=NEWSTORY212)
 
 Ten Custom Draw Tickets<br />*Added Feb 16, 2026*
-
-### [`2601_DEVN0TE`](https://nexus-codes.app/copy/?code=2601_DEVN0TE)
-
-Free In Game Goodies<br />*Added Jan 27, 2026*

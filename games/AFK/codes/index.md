@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`LGSKEQXERTA`](https://nexus-codes.app/copy/?code=LGSKEQXERTA)
+
+500 Diamonds, Ten Origami Hamsters, and 50k Gold<br />*Added Apr 8, 2026*
+
+### [`JOURNEY2YRS`](https://nexus-codes.app/copy/?code=JOURNEY2YRS)
+
+Ten Invite Letters, Ten Epic Invite Letters, 3,270 Diamonds, and 100k Gold<br />*Added Apr 8, 2026*
+
+### [`BigCollabComing`](https://nexus-codes.app/copy/?code=BigCollabComing)
+
+500 Diamonds and 20k Gold<br />*Added Apr 8, 2026*
+
 ### [`AFKJMOONLIGHT`](https://nexus-codes.app/copy/?code=AFKJMOONLIGHT)
 
 x10 Origami Hamsters, 500 Diamonds, and 50k Gold<br />*Added Mar 6, 2026*

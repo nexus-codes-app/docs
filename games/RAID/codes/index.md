@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`midgamejoke`](https://nexus-codes.app/copy/?code=midgamejoke)
+
+*Added Apr 8, 2026*
+
 ### [`NEMESIS`](https://nexus-codes.app/copy/?code=NEMESIS)
 
 Epic Void Champion Akemtum and Other Rewards  New   Expires September 3, 2026  

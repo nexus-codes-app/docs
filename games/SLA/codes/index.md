@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`DEVN0te_APR1L`](https://nexus-codes.app/copy/?code=DEVN0te_APR1L)
+
+599 Artifact Enhancement Chip Ii, 500 Artifact Enhancement Chip Ii, Five Level 120 Artifact Recipes, and Five Luminous Prism I<br />*Added Apr 8, 2026*
+
 ### [`WH1TEDAY`](https://nexus-codes.app/copy/?code=WH1TEDAY)
 
 Ten Unstable Dungeon Keys and Lv 120 Artifact Recipes, Five Artifact Enhancement Reset Tickets, and 200 Artifact Enhancement Chip Iis<br />*Added Mar 22, 2026*

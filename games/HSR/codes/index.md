@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`HAPPY3RDANNIV`](https://hsr.hoyoverse.com/gift?code=HAPPY3RDANNIV)
+
+100 Stellar Jade and Four Refined Aether<br />*Added Apr 10, 2026*
+
+### [`SHAREANDSAVEIT`](https://hsr.hoyoverse.com/gift?code=SHAREANDSAVEIT)
+
+100 Stellar Jade and Five Traveler S Guides<br />*Added Apr 10, 2026*
+
+### [`HERESTHECODE`](https://hsr.hoyoverse.com/gift?code=HERESTHECODE)
+
+100 Stellar Jade and 50k Credits<br />*Added Apr 10, 2026*
+
 ### [`AceDetective`](https://hsr.hoyoverse.com/gift?code=AceDetective)
 
 Three Traveler S Guides and Two Cold Jokes<br />*Added Mar 30, 2026*

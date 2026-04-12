@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`SLCCOMINGSOON`](https://nexus-codes.app/copy/?code=SLCCOMINGSOON)
+
+Free Rewards<br />*Added Apr 12, 2026*
+
+### [`1101010110`](https://nexus-codes.app/copy/?code=1101010110)
+
+Free Rewards<br />*Added Apr 12, 2026*
+
+### [`APR1LF00L5`](https://nexus-codes.app/copy/?code=APR1LF00L5)
+
+Free Rewards<br />*Added Apr 12, 2026*
+
 ### [`DEVN0te_APR1L`](https://nexus-codes.app/copy/?code=DEVN0te_APR1L)
 
 599 Artifact Enhancement Chip Ii, 500 Artifact Enhancement Chip Ii, Five Level 120 Artifact Recipes, and Five Luminous Prism I<br />*Added Apr 8, 2026*

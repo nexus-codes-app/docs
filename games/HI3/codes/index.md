@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`1N6PU7W6FL`](https://nexus-codes.app/copy/?code=1N6PU7W6FL)
+
+500 Asterite, One Stamina Potion, and Four Hoho Vacation Tickets<br />*Added Apr 14, 2026*
+
+### [`CheersCaptain`](https://nexus-codes.app/copy/?code=CheersCaptain)
+
+100 Crystals<br />*Added Apr 14, 2026*
+
 ### [`ASMALLGIFT`](https://nexus-codes.app/copy/?code=ASMALLGIFT)
 
 Two Stamina Potions and Four Hoho Vacation Tickets<br />*Added Apr 7, 2026*

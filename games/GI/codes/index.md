@@ -86,10 +86,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 100 Primogems and Five Hero S Wit<br />*Added Feb 13, 2026*
 
-### [`HUEK357YFYN3`](https://genshin.hoyoverse.com/en/gift?code=HUEK357YFYN3)
-
-10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Fish Noodles<br />*Added Feb 6, 2026*
-
 ### [`7TBZAGPP2WRD`](https://genshin.hoyoverse.com/en/gift?code=7TBZAGPP2WRD)
 
 160 Geode Of Replication, 2,000 Mora, 2 Hero S Wit, 2 Mystic Enhancement Ore<br />*Added Jan 2, 2026*

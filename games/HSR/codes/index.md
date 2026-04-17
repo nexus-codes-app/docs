@@ -86,18 +86,6 @@ Three Traveler S Guides and Two Songlotus Cakes<br />*Added Feb 16, 2026*
 
 30 Stellar Jade, Three Traveler S Guides, Five Condensed Aether, Four Lost Gold Fragments, and 20k Credits<br />*Added Feb 10, 2026*
 
-### [`HITLIKETOBEAHA`](https://hsr.hoyoverse.com/gift?code=HITLIKETOBEAHA)
-
-100 Stellar Jade and Four Refined Aether<br />*Added Feb 6, 2026*
-
-### [`QWQXDDLOLOMO`](https://hsr.hoyoverse.com/gift?code=QWQXDDLOLOMO)
-
-100 Stellar Jade and Five Traveler S Guides<br />*Added Feb 6, 2026*
-
-### [`AHAHAHAHAHAHA`](https://hsr.hoyoverse.com/gift?code=AHAHAHAHAHAHA)
-
-100 Stellar Jade and 50k Credits<br />*Added Feb 6, 2026*
-
 ### [`OMEGA`](https://hsr.hoyoverse.com/gift?code=OMEGA)
 
 60 Stellar Jade and One Fuel<br />*Added Nov 7, 2025*

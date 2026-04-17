@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`EVERSHINE`](https://nexus-codes.app/copy/?code=EVERSHINE)
+
+100 Astrite, 20 Premium Tuners, and Five Advanced Sealed Tubes<br />*Added Apr 17, 2026*
+
+### [`2NDANNIVERSARY`](https://nexus-codes.app/copy/?code=2NDANNIVERSARY)
+
+100 Astrite, Two Forgery Premium Supply Ii, and 40k Shell Credits<br />*Added Apr 17, 2026*
+
+### [`FACEALEPH1`](https://nexus-codes.app/copy/?code=FACEALEPH1)
+
+100 Astrite, Four Premium Resonance Potions, and Five Advanced Energy Cores<br />*Added Apr 17, 2026*
+
 ### [`RUNEREADER`](https://nexus-codes.app/copy/?code=RUNEREADER)
 
 100 Astrite, Three Advanced Enclosure Tank Ii, and 20k Shell Credits<br />*Added Mar 13, 2026*

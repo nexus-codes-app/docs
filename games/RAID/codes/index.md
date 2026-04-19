@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`2GTLUCKY2026`](https://nexus-codes.app/copy/?code=2GTLUCKY2026)
+
+*Added Apr 19, 2026*
+
 ### [`midgamejoke`](https://nexus-codes.app/copy/?code=midgamejoke)
 
 *Added Apr 8, 2026*

@@ -74,18 +74,6 @@ Six Adventure Logs and Two Dreamlight   Mixed Sweets<br />*Added Feb 23, 2026*
 
 Three Traveler S Guides and Two Songlotus Cakes<br />*Added Feb 16, 2026*
 
-### [`MH5KC`](https://hsr.hoyoverse.com/gift?code=MH5KC)
-
-100 Stellar Jade and Four Refined Aether<br />*Added Feb 12, 2026*
-
-### [`BGF3A`](https://hsr.hoyoverse.com/gift?code=BGF3A)
-
-100 Stellar Jade and Five Traveler S Guides<br />*Added Feb 12, 2026*
-
-### [`AT45Q`](https://hsr.hoyoverse.com/gift?code=AT45Q)
-
-100 Stellar Jade and 50k Credits<br />*Added Feb 12, 2026*
-
 ### [`5S6ZHRWTDNJB`](https://hsr.hoyoverse.com/gift?code=5S6ZHRWTDNJB)
 
 60 Stellar Jade<br />*Added Feb 10, 2026*

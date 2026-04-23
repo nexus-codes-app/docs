@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`EB28LCJRU4W3`](https://hsr.hoyoverse.com/gift?code=EB28LCJRU4W3)
+
+50 Stellar Jade and 10k Credits<br />*Added Apr 23, 2026*
+
+### [`SILVERWOLFLV999`](https://hsr.hoyoverse.com/gift?code=SILVERWOLFLV999)
+
+Three Traveler S Guides and Two Badge Battle Robes<br />*Added Apr 23, 2026*
+
 ### [`HAPPY3RDANNIV`](https://hsr.hoyoverse.com/gift?code=HAPPY3RDANNIV)
 
 100 Stellar Jade and Four Refined Aether<br />*Added Apr 10, 2026*

@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`A0NBWRZZI3XJ`](https://genshin.hoyoverse.com/en/gift?code=A0NBWRZZI3XJ)
+
+20 Primogems and 160 Geodes Of Replication<br />*Added Apr 24, 2026*
+
 ### [`INUH43366326`](https://genshin.hoyoverse.com/en/gift?code=INUH43366326)
 
 10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Fish Noodles<br />*Added Apr 10, 2026*

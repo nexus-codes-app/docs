@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`snezhnaya20260812`](https://genshin.hoyoverse.com/en/gift?code=snezhnaya20260812)
+
+200 Primogems<br />*Added Apr 24, 2026*
+
 ### [`A0NBWRZZI3XJ`](https://genshin.hoyoverse.com/en/gift?code=A0NBWRZZI3XJ)
 
 20 Primogems and 160 Geodes Of Replication<br />*Added Apr 24, 2026*

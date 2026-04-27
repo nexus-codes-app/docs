@@ -62,18 +62,6 @@ Two Sparxie Unlimited Edition Collectible Plushies and Three Traveler S Guides<b
 
 Six Adventure Logs and Two Dreamlight   Mixed Sweets<br />*Added Feb 23, 2026*
 
-### [`KBJ8VZ6Y27QX`](https://hsr.hoyoverse.com/gift?code=KBJ8VZ6Y27QX)
-
-60 Stellar Jade, Two Traveler S Guides, Three Refined Aether, and 5k Credits<br />*Added Feb 16, 2026*
-
-### [`XAK9QJ454SG7`](https://hsr.hoyoverse.com/gift?code=XAK9QJ454SG7)
-
-50 Stellar Jade and 10k Cedits<br />*Added Feb 16, 2026*
-
-### [`HAILYAOGUANG`](https://hsr.hoyoverse.com/gift?code=HAILYAOGUANG)
-
-Three Traveler S Guides and Two Songlotus Cakes<br />*Added Feb 16, 2026*
-
 ### [`5S6ZHRWTDNJB`](https://hsr.hoyoverse.com/gift?code=5S6ZHRWTDNJB)
 
 60 Stellar Jade<br />*Added Feb 10, 2026*

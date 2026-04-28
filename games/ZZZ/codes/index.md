@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ZZZ28HERO`](https://zenless.hoyoverse.com/redemption?code=ZZZ28HERO)
+
+60 Polychrome and 6,666 Dennies<br />*Added Apr 28, 2026*
+
 ### [`PROMEIA`](https://zenless.hoyoverse.com/redemption?code=PROMEIA)
 
 300 Polychrome, 30k Denny, Two Senior Investigator Logs, and Three W Engine Energy Modules<br />*Added Apr 24, 2026*

@@ -1,5 +1,10 @@
 [
   {
+    "code": "zzzCuteness",
+    "rewards": "One W Engine Energy Module and 20k Dennies",
+    "date": "2026-04-30T12:00:06.180Z"
+  },
+  {
     "code": "ZZZ28HERO",
     "rewards": "60 Polychrome and 6,666 Dennies",
     "date": "2026-04-28T12:30:15.383Z"
@@ -18,16 +23,6 @@
     "code": "MISSHISS",
     "rewards": "300 Polychrome, 30k Dennies, Two Senior Investigator Logs, and Three W Engine Energy Modules",
     "date": "2026-03-14T12:30:04.172Z"
-  },
-  {
-    "code": "ZZZGIGO",
-    "rewards": "One W Engine Energy Module, One Senior Investigator Log, and 15k Dennies",
-    "date": "2026-02-19T11:30:04.185Z"
-  },
-  {
-    "code": "zzzCuteness",
-    "rewards": "One W Engine Energy Module and 20k Dennies",
-    "date": "2026-02-19T11:30:04.185Z"
   },
   {
     "code": "DREAMINGANGEL",

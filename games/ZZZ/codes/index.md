@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`zzzCuteness`](https://zenless.hoyoverse.com/redemption?code=zzzCuteness)
+
+One W Engine Energy Module and 20k Dennies<br />*Added Apr 30, 2026*
+
 ### [`ZZZ28HERO`](https://zenless.hoyoverse.com/redemption?code=ZZZ28HERO)
 
 60 Polychrome and 6,666 Dennies<br />*Added Apr 28, 2026*
@@ -29,14 +33,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 ### [`MISSHISS`](https://zenless.hoyoverse.com/redemption?code=MISSHISS)
 
 300 Polychrome, 30k Dennies, Two Senior Investigator Logs, and Three W Engine Energy Modules<br />*Added Mar 14, 2026*
-
-### [`ZZZGIGO`](https://zenless.hoyoverse.com/redemption?code=ZZZGIGO)
-
-One W Engine Energy Module, One Senior Investigator Log, and 15k Dennies<br />*Added Feb 19, 2026*
-
-### [`zzzCuteness`](https://zenless.hoyoverse.com/redemption?code=zzzCuteness)
-
-One W Engine Energy Module and 20k Dennies<br />*Added Feb 19, 2026*
 
 ### [`DREAMINGANGEL`](https://zenless.hoyoverse.com/redemption?code=DREAMINGANGEL)
 

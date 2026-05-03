@@ -14,6 +14,22 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`GFL2ANNI`](https://nexus-codes.app/copy/?code=GFL2ANNI)
+
+Rewards<br />*Added May 3, 2026*
+
+### [`KTDXF8QE6J`](https://nexus-codes.app/copy/?code=KTDXF8QE6J)
+
+Rewards<br />*Added May 3, 2026*
+
+### [`W7G6C9KNK9`](https://nexus-codes.app/copy/?code=W7G6C9KNK9)
+
+Rewards<br />*Added May 3, 2026*
+
+### [`3F2D5ULVWU`](https://nexus-codes.app/copy/?code=3F2D5ULVWU)
+
+Rewards<br />*Added May 3, 2026*
+
 ### [`ELMORADIO`](https://nexus-codes.app/copy/?code=ELMORADIO)
 
 50 Collapse Pieces, 5,000 Combat Reports, 5,000 Analysis Blueprints<br />*Added Jul 11, 2025*

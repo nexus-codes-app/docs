@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "code": "WELCOMEAVATAR",
+    "rewards": "5x Silver Scroll and 1x Golden Scroll",
+    "date": "2026-05-03T20:30:03.100Z"
+  },
+  {
+    "code": "AVATARLAUNCH",
+    "rewards": "10x 50k Food, 10x 50k Wood, 10x 50k Stone, 10x 25k Gold, 20x 5m Min Speed Up",
+    "date": "2026-05-03T20:30:03.100Z"
+  },
+  {
+    "code": "BEND4ELEMENTS",
+    "rewards": "5x Epic Spirit Shards, 5x Epic Spirit Badge, 10x Rare Spirit Shard, 10x Rare Spirit Badge",
+    "date": "2026-05-03T20:30:03.100Z"
+  }
+]

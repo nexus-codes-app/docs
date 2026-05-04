@@ -30,18 +30,6 @@ Rewards<br />*Added May 3, 2026*
 
 Rewards<br />*Added May 3, 2026*
 
-### [`ELMORADIO`](https://nexus-codes.app/copy/?code=ELMORADIO)
-
-50 Collapse Pieces, 5,000 Combat Reports, 5,000 Analysis Blueprints<br />*Added Jul 11, 2025*
-
-### [`HALFANNI`](https://nexus-codes.app/copy/?code=HALFANNI)
-
-200x Collapse Pieces, 3,000x Sardis Gold, 2,000x Analysis Blueprint, 2x Next Gen Memory Sticks<br />*Added Jun 6, 2025*
-
-### [`DRAGONBOAT`](https://nexus-codes.app/copy/?code=DRAGONBOAT)
-
-100x Collapse Pieces, 2x Next Gen Memory Sticks, 1x Access Permission Key<br />*Added Jun 2, 2025*
-
 ### [`GFL2GIFT`](https://nexus-codes.app/copy/?code=GFL2GIFT)
 
 1k Sardis Gold, 3k Analysis Blueprints, 150 Collapse Pieces<br />*Added Apr 8, 2025*

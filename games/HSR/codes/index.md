@@ -58,10 +58,6 @@ Two Sparxie Unlimited Edition Collectible Plushies and Three Traveler S Guides<b
 
 100 Stellar Jade and Five Traveler S Guides<br />*Added Mar 13, 2026*
 
-### [`ALETTERFORYOU`](https://hsr.hoyoverse.com/gift?code=ALETTERFORYOU)
-
-Six Adventure Logs and Two Dreamlight   Mixed Sweets<br />*Added Feb 23, 2026*
-
 ### [`5S6ZHRWTDNJB`](https://hsr.hoyoverse.com/gift?code=5S6ZHRWTDNJB)
 
 60 Stellar Jade<br />*Added Feb 10, 2026*

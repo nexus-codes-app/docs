@@ -14,6 +14,38 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`T0th3m0on`](https://nexus-codes.app/copy/?code=T0th3m0on)
+
+1 5k Mana Imbued Fabric, Ten Weapon Custom Draw Tickets, 1k Essence Stones, and 1m Gold<br />*Added May 5, 2026*
+
+### [`PBGIFT`](https://nexus-codes.app/copy/?code=PBGIFT)
+
+1k Essence Stones<br />*Added May 5, 2026*
+
+### [`WELOVEYOU2000`](https://nexus-codes.app/copy/?code=WELOVEYOU2000)
+
+Ten Rate Up Draw Tickets, Ten Custom Draw Tickets, and 1k Essence Stones<br />*Added May 5, 2026*
+
+### [`WeLc0me_SLC`](https://nexus-codes.app/copy/?code=WeLc0me_SLC)
+
+Two Time Crystals, 100 Marks Of Time Ii, 3m Gold<br />*Added May 5, 2026*
+
+### [`EV0_ST4RT`](https://nexus-codes.app/copy/?code=EV0_ST4RT)
+
+One Entry Code, 500 Artifact Enhancement Chip I, 100 Artifact Enhancement Chips Ii<br />*Added May 5, 2026*
+
+### [`F1NAL_WINN3R`](https://nexus-codes.app/copy/?code=F1NAL_WINN3R)
+
+One Workshop Of Brilliant Light Invitation, , 200 Core Aether I, 50 Core Aether Ii<br />*Added May 5, 2026*
+
+### [`CODEKINGZAFF`](https://nexus-codes.app/copy/?code=CODEKINGZAFF)
+
+1k Essence Stones<br />*Added May 5, 2026*
+
+### [`DevNoTe_Eve`](https://nexus-codes.app/copy/?code=DevNoTe_Eve)
+
+20 Shadow Waves, 100 Traces Of Shadow, 3k Shadow Energy<br />*Added May 5, 2026*
+
 ### [`SLCCOMINGSOON`](https://nexus-codes.app/copy/?code=SLCCOMINGSOON)
 
 Free Rewards<br />*Added Apr 12, 2026*

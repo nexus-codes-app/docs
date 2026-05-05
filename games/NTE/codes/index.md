@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`NTEFREE`](https://nexus-codes.app/copy/?code=NTEFREE)
+
+30k Fons<br />*Added May 5, 2026*
+
 ### [`04980102FKGOVNS`](https://nexus-codes.app/copy/?code=04980102FKGOVNS)
 
 30 Annulith, 20,000 Beetle Coins<br />*Added May 3, 2026*

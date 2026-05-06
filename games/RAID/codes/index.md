@@ -14,6 +14,11 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`WRATH`](https://nexus-codes.app/copy/?code=WRATH)
+
+Legendary Support Champion Grand Oak Padraig and Other Rewards  Expires October 8, 2026   New  
+**New Players Only**<br />*Added May 6, 2026*
+
 ### [`2GTLUCKY2026`](https://nexus-codes.app/copy/?code=2GTLUCKY2026)
 
 *Added Apr 19, 2026*

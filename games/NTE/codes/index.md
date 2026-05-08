@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`NTENENE`](https://nexus-codes.app/copy/?code=NTENENE)
+
+10k Fons, Ten Dynamik, and Ten Clicky Fries<br />*Added May 8, 2026*
+
 ### [`NTEvtuber`](https://nexus-codes.app/copy/?code=NTEvtuber)
 
 50k Fons and 50k Beetle Coins<br />*Added May 5, 2026*

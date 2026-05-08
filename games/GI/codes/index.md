@@ -62,10 +62,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 *Added Mar 19, 2026*
 
-### [`ZECVVP1DT7Z2`](https://genshin.hoyoverse.com/en/gift?code=ZECVVP1DT7Z2)
-
-10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Fish Noodles<br />*Added Feb 27, 2026*
-
 ### [`VisitWonderland`](https://genshin.hoyoverse.com/en/gift?code=VisitWonderland)
 
 100 Primogems and 50k Mora<br />*Added Feb 13, 2026*

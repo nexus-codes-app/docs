@@ -34,14 +34,6 @@ Ten Invite Letters, Ten Epic Invite Letters, 3,270 Diamonds, and 100k Gold<br />
 
 x10 Origami Hamsters, 500 Diamonds, and 50k Gold<br />*Added Mar 6, 2026*
 
-### [`LILITHHAPPY2026`](https://nexus-codes.app/copy/?code=LILITHHAPPY2026)
-
-x5 Summon Tickets and 2,026 Diamonds<br />*Added Feb 27, 2026*
-
-### [`CheerforAnniv`](https://nexus-codes.app/copy/?code=CheerforAnniv)
-
-500 Diamonds and 20k Gold<br />*Added Feb 27, 2026*
-
 ### [`AFKJ10`](https://nexus-codes.app/copy/?code=AFKJ10)
 
 10 Regular Invite Letters<br />*Added Sep 9, 2024*

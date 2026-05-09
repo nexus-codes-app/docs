@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`NTEFUNGAME`](https://nexus-codes.app/copy/?code=NTEFUNGAME)
+
+10k Fons<br />*Added May 9, 2026*
+
+### [`NTEWINFONS`](https://nexus-codes.app/copy/?code=NTEWINFONS)
+
+20k Fons<br />*Added May 9, 2026*
+
 ### [`NTENENE`](https://nexus-codes.app/copy/?code=NTENENE)
 
 10k Fons, Ten Dynamik, and Ten Clicky Fries<br />*Added May 8, 2026*

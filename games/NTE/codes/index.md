@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`NTE429vtuber`](https://nexus-codes.app/copy/?code=NTE429vtuber)
+
+30k Fons and 30k Beetle Coins<br />*Added May 10, 2026*
+
 ### [`NTEFUNGAME`](https://nexus-codes.app/copy/?code=NTEFUNGAME)
 
 10k Fons<br />*Added May 9, 2026*

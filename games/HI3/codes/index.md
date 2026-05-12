@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`39MTMFMMSP`](https://nexus-codes.app/copy/?code=39MTMFMMSP)
+
+500 Asterite, One Stamina Potion, and Four Hoho Vacation Tickets<br />*Added May 12, 2026*
+
 ### [`79VNQP4WQV`](https://nexus-codes.app/copy/?code=79VNQP4WQV)
 
 30 Crystals, Eight Hoho Vacation Tickets, and One Phase Shifter<br />*Added May 5, 2026*

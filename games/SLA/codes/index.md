@@ -14,6 +14,30 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`GIFTFROMPDJIN`](https://nexus-codes.app/copy/?code=GIFTFROMPDJIN)
+
+2k Essence Stones, 22 Rate Up Draw Tickets, and 22 Custome Draw Tickets<br />*Added May 13, 2026*
+
+### [`GREATSUCCESSOR`](https://nexus-codes.app/copy/?code=GREATSUCCESSOR)
+
+One Mana Power Extract, 2k Shadow Energy, and 100 Traces Of Shadow<br />*Added May 13, 2026*
+
+### [`SLA_2ND_ANN1V`](https://nexus-codes.app/copy/?code=SLA_2ND_ANN1V)
+
+Two Transcendent Skill Rune Selection Chest Ii, Two Transcendent Blessing Stone Selection Chest Ii, and 10m Gold<br />*Added May 13, 2026*
+
+### [`SLCONGRATS2026`](https://nexus-codes.app/copy/?code=SLCONGRATS2026)
+
+1k Essence Stones and 100 Traces Of Shadow<br />*Added May 13, 2026*
+
+### [`M0REART1FACT`](https://nexus-codes.app/copy/?code=M0REART1FACT)
+
+2k Artifact Enhancement Chip Ii, 2k Artifact Enhancement Chip I, and 10m Gold<br />*Added May 13, 2026*
+
+### [`OREARA2NDANNIV`](https://nexus-codes.app/copy/?code=OREARA2NDANNIV)
+
+Ten Mana Power Elixir Iii and 1m Gold<br />*Added May 13, 2026*
+
 ### [`T0th3m0on`](https://nexus-codes.app/copy/?code=T0th3m0on)
 
 1 5k Mana Imbued Fabric, Ten Weapon Custom Draw Tickets, 1k Essence Stones, and 1m Gold<br />*Added May 5, 2026*

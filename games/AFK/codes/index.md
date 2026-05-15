@@ -30,10 +30,6 @@ Ten Invite Letters, Ten Epic Invite Letters, 3,270 Diamonds, and 100k Gold<br />
 
 500 Diamonds and 20k Gold<br />*Added Apr 8, 2026*
 
-### [`AFKJMOONLIGHT`](https://nexus-codes.app/copy/?code=AFKJMOONLIGHT)
-
-x10 Origami Hamsters, 500 Diamonds, and 50k Gold<br />*Added Mar 6, 2026*
-
 ### [`AFKJ10`](https://nexus-codes.app/copy/?code=AFKJ10)
 
 10 Regular Invite Letters<br />*Added Sep 9, 2024*

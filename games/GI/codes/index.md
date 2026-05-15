@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`PFY1S40I88T9`](https://genshin.hoyoverse.com/en/gift?code=PFY1S40I88T9)
+
+60 Primogems and Five Adventurer S Experience<br />*Added May 15, 2026*
+
 ### [`WilltoWin`](https://genshin.hoyoverse.com/en/gift?code=WilltoWin)
 
 100 Primogems, 50,000 Mora<br />*Added May 8, 2026*

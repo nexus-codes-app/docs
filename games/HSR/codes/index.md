@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`SitByEvanescia`](https://hsr.hoyoverse.com/gift?code=SitByEvanescia)
+
+Three Traveler S Guides and Two Bottled Quantum Ghosts<br />*Added May 18, 2026*
+
 ### [`VS3Q5VK9CMFP`](https://hsr.hoyoverse.com/gift?code=VS3Q5VK9CMFP)
 
 50 Stellar Jade and 10k Credits<br />*Added May 13, 2026*

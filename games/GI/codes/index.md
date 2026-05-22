@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`OHOHONICOLE`](https://genshin.hoyoverse.com/en/gift?code=OHOHONICOLE)
+
+30 Primogems, 20k Mora, Three Tattered Warrants<br />*Added May 22, 2026*
+
+### [`MageNicolesPuzzle`](https://genshin.hoyoverse.com/en/gift?code=MageNicolesPuzzle)
+
+30 Primogems, Five Chenyu Adeptea, One Fruit Tandem Turnovers, and One Midsommar Torte<br />*Added May 22, 2026*
+
 ### [`PFY1S40I88T9`](https://genshin.hoyoverse.com/en/gift?code=PFY1S40I88T9)
 
 60 Primogems and Five Adventurer S Experience<br />*Added May 15, 2026*

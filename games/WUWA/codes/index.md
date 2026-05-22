@@ -26,18 +26,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 100 Astrite, Four Premium Resonance Potions, and Five Advanced Energy Cores<br />*Added Apr 17, 2026*
 
-### [`RUNEREADER`](https://nexus-codes.app/copy/?code=RUNEREADER)
-
-100 Astrite, Three Advanced Enclosure Tank Ii, and 20k Shell Credits<br />*Added Mar 13, 2026*
-
-### [`DARKSIDE`](https://nexus-codes.app/copy/?code=DARKSIDE)
-
-100 Astrite, Three Advanced Resonance Potions, and Two Medium Revival Inhalers<br />*Added Mar 13, 2026*
-
-### [`RABBITHOLE`](https://nexus-codes.app/copy/?code=RABBITHOLE)
-
-100 Astrite, Three Advanced Energy Cores, and Two Medium Nutrient Blocks<br />*Added Mar 13, 2026*
-
 ### [`WUWA4PC`](https://nexus-codes.app/copy/?code=WUWA4PC)
 
 50 Astrites   Note  This Code Is Valid On Pc Only<br />*Added Jan 10, 2025*

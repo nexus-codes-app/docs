@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`TOMATO100`](https://nexus-codes.app/copy/?code=TOMATO100)
+
+100 Annulith, Five Senior Hunter Guides, Five Colorless Dye, and 6k Beetle Coin<br />*Added May 23, 2026*
+
+### [`RACENOLIMIT`](https://nexus-codes.app/copy/?code=RACENOLIMIT)
+
+100 Annulith, Two Elite Hunter Guides, Two Chaotic Dye, and 12k Beetle Coin<br />*Added May 23, 2026*
+
+### [`DREAMWALK0603`](https://nexus-codes.app/copy/?code=DREAMWALK0603)
+
+100 Annulith, Five Rising Hunter Guides, Five Light Dye, and 4k Beetle Coin<br />*Added May 23, 2026*
+
 ### [`NTE429vtuber`](https://nexus-codes.app/copy/?code=NTE429vtuber)
 
 30k Fons and 30k Beetle Coins<br />*Added May 10, 2026*

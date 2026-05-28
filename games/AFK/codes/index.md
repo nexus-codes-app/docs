@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`4iYTsNbdXC`](https://nexus-codes.app/copy/?code=4iYTsNbdXC)
+
+1k Diamonds, Five Tickets, and 20k Gold<br />*Added May 28, 2026*
+
 ### [`BigCollabComin`](https://nexus-codes.app/copy/?code=BigCollabComin)
 
 500 Diamonds, 20k Gold<br />*Added May 3, 2026*

@@ -70,14 +70,6 @@ Three Traveler S Guides and Two Badge Battle Robes<br />*Added Apr 23, 2026*
 
 Three Traveler S Guides and Two Cold Jokes<br />*Added Mar 30, 2026*
 
-### [`4T28RJM4MS3B`](https://hsr.hoyoverse.com/gift?code=4T28RJM4MS3B)
-
-50 Stellar Jade and 10k Credits<br />*Added Mar 19, 2026*
-
-### [`SUB2SPARXIE`](https://hsr.hoyoverse.com/gift?code=SUB2SPARXIE)
-
-Two Sparxie Unlimited Edition Collectible Plushies and Three Traveler S Guides<br />*Added Mar 19, 2026*
-
 ### [`OMEGA`](https://hsr.hoyoverse.com/gift?code=OMEGA)
 
 60 Stellar Jade and One Fuel<br />*Added Nov 7, 2025*

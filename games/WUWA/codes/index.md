@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`SAYCHEESE`](https://nexus-codes.app/copy/?code=SAYCHEESE)
+
+100 Astrite, Three Advanced Enclosure Tank Ii, and 20k Shell Credits<br />*Added May 29, 2026*
+
+### [`STRANGEVISITORS`](https://nexus-codes.app/copy/?code=STRANGEVISITORS)
+
+100 Astrite, Three Advanced Resonance Potions, and Three Medium Revival Inhalers<br />*Added May 29, 2026*
+
+### [`BEYONDTHEDOOR`](https://nexus-codes.app/copy/?code=BEYONDTHEDOOR)
+
+100 Astrite, Three Advanced Energy Cores, and Two Medium Nutrient Blocks<br />*Added May 29, 2026*
+
 ### [`EVERSHINE`](https://nexus-codes.app/copy/?code=EVERSHINE)
 
 100 Astrite, 20 Premium Tuners, and Five Advanced Sealed Tubes<br />*Added Apr 17, 2026*

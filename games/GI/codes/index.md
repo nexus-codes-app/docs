@@ -82,10 +82,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 20 Primogems and 160 Geodes Of Replication<br />*Added Mar 24, 2026*
 
-### [`RFVEZO83458Q`](https://genshin.hoyoverse.com/en/gift?code=RFVEZO83458Q)
-
-*Added Mar 19, 2026*
-
 ### [`GENSHINGIFT`](https://genshin.hoyoverse.com/en/gift?code=GENSHINGIFT)
 
 50 Primogems and Three Hero S Wit  This Code Works Periodically<br />*Added Dec 27, 2024*

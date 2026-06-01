@@ -85,7 +85,3 @@ Free Rewards<br />*Added Apr 12, 2026*
 ### [`DEVN0te_APR1L`](https://nexus-codes.app/copy/?code=DEVN0te_APR1L)
 
 599 Artifact Enhancement Chip Ii, 500 Artifact Enhancement Chip Ii, Five Level 120 Artifact Recipes, and Five Luminous Prism I<br />*Added Apr 8, 2026*
-
-### [`WH1TEDAY`](https://nexus-codes.app/copy/?code=WH1TEDAY)
-
-Ten Unstable Dungeon Keys and Lv 120 Artifact Recipes, Five Artifact Enhancement Reset Tickets, and 200 Artifact Enhancement Chip Iis<br />*Added Mar 22, 2026*

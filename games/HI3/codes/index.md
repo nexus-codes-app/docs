@@ -50,14 +50,6 @@ Two Stamina Potions and Four Hoho Vacation Tickets<br />*Added Apr 7, 2026*
 
 500 Asterite, One Stamina Potion, and Four Hoho Vacation Tickets<br />*Added Apr 7, 2026*
 
-### [`W5QR69CYYA`](https://nexus-codes.app/copy/?code=W5QR69CYYA)
-
-30 Crystals, Eight Hoho Vacation Tickets, and One Phase Shifter<br />*Added Mar 24, 2026*
-
-### [`5NPRU9H5RR`](https://nexus-codes.app/copy/?code=5NPRU9H5RR)
-
-30 Crystals, Eight Hoho Vacation Tickets, and One Phase Shifter<br />*Added Mar 24, 2026*
-
 ### [`WARMGIFT`](https://nexus-codes.app/copy/?code=WARMGIFT)
 
 120 Crystals<br />*Added Mar 10, 2026*

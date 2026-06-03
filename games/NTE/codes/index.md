@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`LACRIMOSA0603`](https://nexus-codes.app/copy/?code=LACRIMOSA0603)
+
+30 Annulith, One Tomato Basil Macaroni, and 20k Fons<br />*Added Jun 3, 2026*
+
 ### [`TOMATO100`](https://nexus-codes.app/copy/?code=TOMATO100)
 
 100 Annulith, Five Senior Hunter Guides, Five Colorless Dye, and 6k Beetle Coin<br />*Added May 23, 2026*

@@ -26,10 +26,6 @@ One W Engine Energy Module and 20k Dennies<br />*Added Apr 30, 2026*
 
 300 Polychrome, 30k Denny, Two Senior Investigator Logs, and Three W Engine Energy Modules<br />*Added Apr 24, 2026*
 
-### [`ZZZ27CHAMPION`](https://zenless.hoyoverse.com/redemption?code=ZZZ27CHAMPION)
-
-60 Polychrome and 6,666 Dennies<br />*Added Mar 26, 2026*
-
 ### [`DREAMINGANGEL`](https://zenless.hoyoverse.com/redemption?code=DREAMINGANGEL)
 
 300 Polychrome, 30k Denny, Two Senior Investigator Logs, and Three W Engine Energy Modules  New    Expires February 1<br />*Added Jan 30, 2026*

@@ -74,10 +74,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 60 Primogems and Five Adventurer S Experience<br />*Added Mar 30, 2026*
 
-### [`Scaleblade`](https://genshin.hoyoverse.com/en/gift?code=Scaleblade)
-
-100 Primogems and 50k Mora<br />*Added Mar 27, 2026*
-
 ### [`GENSHINGIFT`](https://genshin.hoyoverse.com/en/gift?code=GENSHINGIFT)
 
 50 Primogems and Three Hero S Wit  This Code Works Periodically<br />*Added Dec 27, 2024*

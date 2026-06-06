@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`BEYONDTHECLOUDS`](https://zenless.hoyoverse.com/redemption?code=BEYONDTHECLOUDS)
+
+300 Polychromes, 30k Dennies, Two Senior Investigation Logs, and Three W Engine Energy Modules<br />*Added Jun 6, 2026*
+
 ### [`zzzCuteness`](https://zenless.hoyoverse.com/redemption?code=zzzCuteness)
 
 One W Engine Energy Module and 20k Dennies<br />*Added Apr 30, 2026*

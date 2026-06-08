@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`BladeFitCheck`](https://hsr.hoyoverse.com/gift?code=BladeFitCheck)
+
+Three Traveler S Guides and Two Cold Jokes<br />*Added Jun 8, 2026*
+
 ### [`5S6ZHRWTDNJB`](https://hsr.hoyoverse.com/gift?code=5S6ZHRWTDNJB)
 
 60 Stellar Jade<br />*Added May 26, 2026*

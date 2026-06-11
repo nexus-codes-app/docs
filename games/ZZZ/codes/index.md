@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ZZZ30BANGBOO`](https://zenless.hoyoverse.com/redemption?code=ZZZ30BANGBOO)
+
+60 Polychrome<br />*Added Jun 11, 2026*
+
+### [`ZZZSEASON3`](https://zenless.hoyoverse.com/redemption?code=ZZZSEASON3)
+
+50 Polychrome<br />*Added Jun 11, 2026*
+
+### [`ROSCAELIFER0617`](https://zenless.hoyoverse.com/redemption?code=ROSCAELIFER0617)
+
+30 Polychrome<br />*Added Jun 11, 2026*
+
 ### [`BEYONDTHECLOUDS`](https://zenless.hoyoverse.com/redemption?code=BEYONDTHECLOUDS)
 
 300 Polychromes, 30k Dennies, Two Senior Investigation Logs, and Three W Engine Energy Modules<br />*Added Jun 6, 2026*

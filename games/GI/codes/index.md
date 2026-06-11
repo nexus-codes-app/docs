@@ -66,10 +66,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 30 Primogems, 20k Mora, and Three Tattered Warrans<br />*Added Apr 10, 2026*
 
-### [`RFVE7Z244V81`](https://genshin.hoyoverse.com/en/gift?code=RFVE7Z244V81)
-
-10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Fish Noodles<br />*Added Apr 2, 2026*
-
 ### [`PSCA8NL4ZSPD`](https://genshin.hoyoverse.com/en/gift?code=PSCA8NL4ZSPD)
 
 60 Primogems and Five Adventurer S Experience<br />*Added Mar 30, 2026*

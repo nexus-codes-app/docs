@@ -14,6 +14,30 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`0604_UPD4TE`](https://nexus-codes.app/copy/?code=0604_UPD4TE)
+
+Five Artifacts Enhancement Reset Tickets, 500 Artifact Enhancement Chip I, and 200 Artifact Enhancement Chip Ii<br />*Added Jun 12, 2026*
+
+### [`DeVN0Te2606`](https://nexus-codes.app/copy/?code=DeVN0Te2606)
+
+Five Artifact Modification Tickets, Two Artifact Crafting Tickets, 500 Artifact Enhancement Chip I<br />*Added Jun 12, 2026*
+
+### [`LISTENHEREBUSTER`](https://nexus-codes.app/copy/?code=LISTENHEREBUSTER)
+
+300 Rune Fragments, Three Skill Rune Master Chests, 100 Dungeon Entry Keys<br />*Added Jun 12, 2026*
+
+### [`L1U_ZH1G4NG`](https://nexus-codes.app/copy/?code=L1U_ZH1G4NG)
+
+Two Hunter Exclusive Weapon Designs, 20 Skill Scroll Iii, and 30 Mana Power Elixir Iii<br />*Added Jun 12, 2026*
+
+### [`DEVN0T3_BU5T`](https://nexus-codes.app/copy/?code=DEVN0T3_BU5T)
+
+Five Luminous Prism I, Nine Luminous Prism Ii, and Five Artifact Enhancement Reset Tickets<br />*Added Jun 12, 2026*
+
+### [`THX_2ND_5LA`](https://nexus-codes.app/copy/?code=THX_2ND_5LA)
+
+1k Advanced Mana Crystals, Five Lv  120 Artifact Recipes, 100 Dungeon Entry Keys<br />*Added Jun 12, 2026*
+
 ### [`GIFTFROMPDJIN`](https://nexus-codes.app/copy/?code=GIFTFROMPDJIN)
 
 2k Essence Stones, 22 Rate Up Draw Tickets, and 22 Custome Draw Tickets<br />*Added May 13, 2026*

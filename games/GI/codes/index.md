@@ -70,10 +70,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 30 Primogems, 20k Mora, and Three Tattered Warrans<br />*Added Apr 10, 2026*
 
-### [`PSCA8NL4ZSPD`](https://genshin.hoyoverse.com/en/gift?code=PSCA8NL4ZSPD)
-
-60 Primogems and Five Adventurer S Experience<br />*Added Mar 30, 2026*
-
 ### [`GENSHINGIFT`](https://genshin.hoyoverse.com/en/gift?code=GENSHINGIFT)
 
 50 Primogems and Three Hero S Wit  This Code Works Periodically<br />*Added Dec 27, 2024*

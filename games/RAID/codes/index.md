@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`TOALLFROMMID`](https://nexus-codes.app/copy/?code=TOALLFROMMID)
+
+*Added Jun 17, 2026*
+
 ### [`WRATH`](https://nexus-codes.app/copy/?code=WRATH)
 
 Legendary Support Champion Grand Oak Padraig and Other Rewards  Expires October 8, 2026   New  

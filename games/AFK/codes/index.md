@@ -41,15 +41,3 @@ Diamonds 300 and 20k Gold<br />*Added Jun 18, 2026*
 ### [`BigCollabComin`](https://nexus-codes.app/copy/?code=BigCollabComin)
 
 500 Diamonds, 20k Gold<br />*Added May 3, 2026*
-
-### [`JOURNEY2YRS`](https://nexus-codes.app/copy/?code=JOURNEY2YRS)
-
-Ten Invite Letters, Ten Epic Invite Letters, 3,270 Diamonds, and 100k Gold<br />*Added Apr 8, 2026*
-
-### [`BigCollabComing`](https://nexus-codes.app/copy/?code=BigCollabComing)
-
-500 Diamonds and 20k Gold<br />*Added Apr 8, 2026*
-
-### [`AFKJ10`](https://nexus-codes.app/copy/?code=AFKJ10)
-
-10 Regular Invite Letters<br />*Added Sep 9, 2024*

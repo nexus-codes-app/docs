@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`AFKJ10`](https://nexus-codes.app/copy/?code=AFKJ10)
+
+Ten Summon Tickets<br />*Added Jun 25, 2026*
+
+### [`B52F8N5OPOG7K`](https://nexus-codes.app/copy/?code=B52F8N5OPOG7K)
+
+500 Diamonds, Ten Hamsters, and 50k Gold<br />*Added Jun 25, 2026*
+
+### [`E8BESLBQZLZUD`](https://nexus-codes.app/copy/?code=E8BESLBQZLZUD)
+
+500 Diamonds, Ten Hamsters, 50k Gold<br />*Added Jun 25, 2026*
+
 ### [`ZC1JJ3UU0N`](https://nexus-codes.app/copy/?code=ZC1JJ3UU0N)
 
 1k Diamonds, Five Epic Invite Letters, and 20k Gold<br />*Added Jun 18, 2026*

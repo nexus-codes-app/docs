@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`LEGEDILJKSGM`](https://genshin.hoyoverse.com/en/gift?code=LEGEDILJKSGM)
+
+60 Primogems and Five Adventurer S Experience<br />*Added Jun 25, 2026*
+
 ### [`TeaPartyTime`](https://genshin.hoyoverse.com/en/gift?code=TeaPartyTime)
 
 100 Primogems and 50k Mora<br />*Added Jun 18, 2026*

@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`INTOTHEFOG`](https://nexus-codes.app/copy/?code=INTOTHEFOG)
+
+100 Astrite, 2 Forgery Premium Supply, and 20000 Shell Credit<br />*Added Jun 26, 2026*
+
+### [`REUNION`](https://nexus-codes.app/copy/?code=REUNION)
+
+100 Astrite, 20 Premium Tuners, and Five Advanced Sealed Tubes<br />*Added Jun 26, 2026*
+
+### [`MECHANISMCITY`](https://nexus-codes.app/copy/?code=MECHANISMCITY)
+
+100 Astrite, Four Resonance Potion, and Five Advanced Energy Core<br />*Added Jun 26, 2026*
+
 ### [`SAYCHEESE`](https://nexus-codes.app/copy/?code=SAYCHEESE)
 
 100 Astrite, Three Advanced Enclosure Tank Ii, and 20k Shell Credits<br />*Added May 29, 2026*

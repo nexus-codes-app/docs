@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ALLFIELD`](https://nexus-codes.app/copy/?code=ALLFIELD)
+
+*Added Jun 28, 2026*
+
+### [`RETURNOFALL`](https://nexus-codes.app/copy/?code=RETURNOFALL)
+
+*Added Jun 28, 2026*
+
 ### [`ZAU2SYXHWX5L4ZH`](https://nexus-codes.app/copy/?code=ZAU2SYXHWX5L4ZH)
 
 5k T Creds and Ten Arms Insp Kits<br />*Added May 5, 2026*

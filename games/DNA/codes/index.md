@@ -14,6 +14,22 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`WILLBENEATHTHEWINGS`](https://nexus-codes.app/copy/?code=WILLBENEATHTHEWINGS)
+
+150 Phoxene, 1000 Carmine Globule<br />*Added Jun 28, 2026*
+
+### [`THEFIRMAMENTUNBOUND`](https://nexus-codes.app/copy/?code=THEFIRMAMENTUNBOUND)
+
+150 Phoxene, 1000 Carmine Globule<br />*Added Jun 28, 2026*
+
+### [`THEGRANDINCENSERITE`](https://nexus-codes.app/copy/?code=THEGRANDINCENSERITE)
+
+150 Phoxene, 1000 Carmine Globule<br />*Added Jun 28, 2026*
+
+### [`OMEKJA`](https://nexus-codes.app/copy/?code=OMEKJA)
+
+Rewards  Expires June 30th<br />*Added Jun 28, 2026*
+
 ### [`DNABYSSGIFT`](https://nexus-codes.app/copy/?code=DNABYSSGIFT)
 
 *Added May 3, 2026*

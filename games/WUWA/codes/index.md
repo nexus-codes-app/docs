@@ -38,18 +38,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 100 Astrite, Three Advanced Energy Cores, and Two Medium Nutrient Blocks<br />*Added May 29, 2026*
 
-### [`EVERSHINE`](https://nexus-codes.app/copy/?code=EVERSHINE)
-
-100 Astrite, 20 Premium Tuners, and Five Advanced Sealed Tubes<br />*Added Apr 17, 2026*
-
-### [`2NDANNIVERSARY`](https://nexus-codes.app/copy/?code=2NDANNIVERSARY)
-
-100 Astrite, Two Forgery Premium Supply Ii, and 40k Shell Credits<br />*Added Apr 17, 2026*
-
-### [`FACEALEPH1`](https://nexus-codes.app/copy/?code=FACEALEPH1)
-
-100 Astrite, Four Premium Resonance Potions, and Five Advanced Energy Cores<br />*Added Apr 17, 2026*
-
 ### [`WUWA4PC`](https://nexus-codes.app/copy/?code=WUWA4PC)
 
 50 Astrites   Note  This Code Is Valid On Pc Only<br />*Added Jan 10, 2025*

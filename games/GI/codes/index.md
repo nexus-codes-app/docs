@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`EZSB8889C2BZ`](https://genshin.hoyoverse.com/en/gift?code=EZSB8889C2BZ)
+
+10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Fish Noodles<br />*Added Jul 3, 2026*
+
 ### [`LEGEDILJKSGM`](https://genshin.hoyoverse.com/en/gift?code=LEGEDILJKSGM)
 
 60 Primogems and Five Adventurer S Experience<br />*Added Jun 25, 2026*

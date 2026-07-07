@@ -38,10 +38,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 One W Engine Energy Module and 20k Dennies<br />*Added Apr 30, 2026*
 
-### [`ZZZ28HERO`](https://zenless.hoyoverse.com/redemption?code=ZZZ28HERO)
-
-60 Polychrome and 6,666 Dennies<br />*Added Apr 28, 2026*
-
 ### [`DREAMINGANGEL`](https://zenless.hoyoverse.com/redemption?code=DREAMINGANGEL)
 
 300 Polychrome, 30k Denny, Two Senior Investigator Logs, and Three W Engine Energy Modules  New    Expires February 1<br />*Added Jan 30, 2026*

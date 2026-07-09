@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`WELCOMETONTE`](https://nexus-codes.app/copy/?code=WELCOMETONTE)
+
+a Celebration Fireworks Avatar Frame<br />*Added Jul 8, 2026*
+
+### [`DRAGONGIRL`](https://nexus-codes.app/copy/?code=DRAGONGIRL)
+
+20k Fons, One Puka Chocoa Ellie Tour Special, and 30 Annulith<br />*Added Jul 8, 2026*
+
 ### [`LACRIMOSA0603`](https://nexus-codes.app/copy/?code=LACRIMOSA0603)
 
 30 Annulith, One Tomato Basil Macaroni, and 20k Fons<br />*Added Jun 3, 2026*

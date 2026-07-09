@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`RAIDSHADOWLEGENDSCOM`](https://nexus-codes.app/copy/?code=RAIDSHADOWLEGENDSCOM)
+
+*Added Jul 8, 2026*
+
 ### [`TOALLFROMMID`](https://nexus-codes.app/copy/?code=TOALLFROMMID)
 
 *Added Jun 17, 2026*

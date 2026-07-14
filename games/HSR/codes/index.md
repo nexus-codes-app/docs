@@ -58,10 +58,6 @@ Three Traveler S Guides and Two Bottled Quantum Ghosts<br />*Added May 18, 2026*
 
 50 Stellar Jade and 10k Credits<br />*Added May 13, 2026*
 
-### [`QS395DJQU4HK`](https://hsr.hoyoverse.com/gift?code=QS395DJQU4HK)
-
-60 Stellar Jade<br />*Added May 5, 2026*
-
 ### [`HAPPY3RDANNIV`](https://hsr.hoyoverse.com/gift?code=HAPPY3RDANNIV)
 
 100 Stellar Jade and Four Refined Aether<br />*Added Apr 10, 2026*

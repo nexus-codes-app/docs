@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`G5MPONNQUT`](https://nexus-codes.app/copy/?code=G5MPONNQUT)
+
+500 Asterite, One Stamina Potion, and Four Hoho Vacation Tickets<br />*Added Jul 14, 2026*
+
 ### [`MYDELIVERY`](https://nexus-codes.app/copy/?code=MYDELIVERY)
 
 100 Crystals<br />*Added Jun 30, 2026*

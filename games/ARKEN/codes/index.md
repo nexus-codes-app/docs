@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ENDFIELDRENEW`](https://nexus-codes.app/copy/?code=ENDFIELDRENEW)
+
+One Safety Helmet Sticker and 71,600 T Creds<br />*Added Jul 14, 2026*
+
 ### [`ALLFIELD`](https://nexus-codes.app/copy/?code=ALLFIELD)
 
 *Added Jun 28, 2026*

@@ -42,18 +42,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 500 Asterite, One Stamina Potion, and Four Hoho Vacation Tickets<br />*Added May 12, 2026*
 
-### [`79VNQP4WQV`](https://nexus-codes.app/copy/?code=79VNQP4WQV)
-
-30 Crystals, Eight Hoho Vacation Tickets, and One Phase Shifter<br />*Added May 5, 2026*
-
-### [`GT8PENFN5I`](https://nexus-codes.app/copy/?code=GT8PENFN5I)
-
-500 Asterite, One Stamina Potion, and Four Hoho Vacation Tickets<br />*Added May 5, 2026*
-
-### [`YOUYUNSGIFT`](https://nexus-codes.app/copy/?code=YOUYUNSGIFT)
-
-100 Crystals<br />*Added May 5, 2026*
-
 ### [`1N6PU7W6FL`](https://nexus-codes.app/copy/?code=1N6PU7W6FL)
 
 500 Asterite, One Stamina Potion, and Four Hoho Vacation Tickets<br />*Added Apr 14, 2026*

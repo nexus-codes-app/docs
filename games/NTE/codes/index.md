@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`NTEMusou`](https://nexus-codes.app/copy/?code=NTEMusou)
+
+10k Fons and 10k Beetle Coins<br />*Added Jul 16, 2026*
+
+### [`NTEKokushi`](https://nexus-codes.app/copy/?code=NTEKokushi)
+
+30k Fons and 30k Beetle Coins<br />*Added Jul 16, 2026*
+
 ### [`WELCOMETONTE`](https://nexus-codes.app/copy/?code=WELCOMETONTE)
 
 a Celebration Fireworks Avatar Frame<br />*Added Jul 8, 2026*

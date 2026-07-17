@@ -58,18 +58,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 60 Primogems and Five Adventurer S Experience<br />*Added May 15, 2026*
 
-### [`WilltoWin`](https://genshin.hoyoverse.com/en/gift?code=WilltoWin)
-
-100 Primogems, 50,000 Mora<br />*Added May 8, 2026*
-
-### [`BacktoSumeru`](https://genshin.hoyoverse.com/en/gift?code=BacktoSumeru)
-
-100 Primogems, 10 Mystic Enhancement Ore<br />*Added May 8, 2026*
-
-### [`NicolaCoco`](https://genshin.hoyoverse.com/en/gift?code=NicolaCoco)
-
-100 Primogems and Five Hero S Wit<br />*Added May 8, 2026*
-
 ### [`FEOMBCVX6UO7`](https://genshin.hoyoverse.com/en/gift?code=FEOMBCVX6UO7)
 
 10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Fish Noodles<br />*Added May 1, 2026*

@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`PSJQKBQPYGMT`](https://hsr.hoyoverse.com/gift?code=PSJQKBQPYGMT)
+
+50 Stellar Jade and 10k Credits<br />*Added Jul 20, 2026*
+
+### [`BESTCOFFEEEVER`](https://hsr.hoyoverse.com/gift?code=BESTCOFFEEEVER)
+
+Three Traveler S Guides and Two Express Special Blend  Rustic Infusion<br />*Added Jul 20, 2026*
+
 ### [`XTJ9MV38DL3X`](https://hsr.hoyoverse.com/gift?code=XTJ9MV38DL3X)
 
 100 Stellar Jade and Four Refined Aether<br />*Added Jul 3, 2026*

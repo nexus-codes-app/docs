@@ -38,10 +38,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 500 Asterite, One Stamina Potion, and Four Hoho Vacation Tickets<br />*Added May 26, 2026*
 
-### [`39MTMFMMSP`](https://nexus-codes.app/copy/?code=39MTMFMMSP)
-
-500 Asterite, One Stamina Potion, and Four Hoho Vacation Tickets<br />*Added May 12, 2026*
-
 ### [`1N6PU7W6FL`](https://nexus-codes.app/copy/?code=1N6PU7W6FL)
 
 500 Asterite, One Stamina Potion, and Four Hoho Vacation Tickets<br />*Added Apr 14, 2026*

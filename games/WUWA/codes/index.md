@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`F5F4D3B2A2`](https://nexus-codes.app/copy/?code=F5F4D3B2A2)
+
+Escape From Duckov Themed Bike Skin<br />*Added Jul 22, 2026*
+
 ### [`INTOTHEFOG`](https://nexus-codes.app/copy/?code=INTOTHEFOG)
 
 100 Astrite, 2 Forgery Premium Supply, and 20000 Shell Credit<br />*Added Jun 26, 2026*

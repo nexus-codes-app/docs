@@ -62,10 +62,6 @@ Three Traveler S Guides and Two Cold Jokes<br />*Added Jun 8, 2026*
 
 Three Traveler S Guides and Two Bottled Quantum Ghosts<br />*Added May 18, 2026*
 
-### [`VS3Q5VK9CMFP`](https://hsr.hoyoverse.com/gift?code=VS3Q5VK9CMFP)
-
-50 Stellar Jade and 10k Credits<br />*Added May 13, 2026*
-
 ### [`HAPPY3RDANNIV`](https://hsr.hoyoverse.com/gift?code=HAPPY3RDANNIV)
 
 100 Stellar Jade and Four Refined Aether<br />*Added Apr 10, 2026*

@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`STARRAILFATE2026`](https://hsr.hoyoverse.com/gift?code=STARRAILFATE2026)
+
+Three Traveler S Guides and Two the Fluffy Multi Functional Fan Glowsticks<br />*Added Jul 27, 2026*
+
 ### [`PSJQKBQPYGMT`](https://hsr.hoyoverse.com/gift?code=PSJQKBQPYGMT)
 
 50 Stellar Jade and 10k Credits<br />*Added Jul 20, 2026*
@@ -57,10 +61,6 @@ Three Traveler S Guides and Two Cold Jokes<br />*Added Jun 8, 2026*
 ### [`EB395CJ8V5XF`](https://hsr.hoyoverse.com/gift?code=EB395CJ8V5XF)
 
 100 Stellar Jade and Four Refined Aether<br />*Added May 22, 2026*
-
-### [`SitByEvanescia`](https://hsr.hoyoverse.com/gift?code=SitByEvanescia)
-
-Three Traveler S Guides and Two Bottled Quantum Ghosts<br />*Added May 18, 2026*
 
 ### [`HAPPY3RDANNIV`](https://hsr.hoyoverse.com/gift?code=HAPPY3RDANNIV)
 

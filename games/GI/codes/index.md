@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`Odettte0812`](https://genshin.hoyoverse.com/en/gift?code=Odettte0812)
+
+x100 Primogems and x50,000 Mora<br />*Added Jul 31, 2026*
+
+### [`OntoSnezhnaya`](https://genshin.hoyoverse.com/en/gift?code=OntoSnezhnaya)
+
+x100 Primogems and x5 Hero S Wit<br />*Added Jul 31, 2026*
+
+### [`Everwinter`](https://genshin.hoyoverse.com/en/gift?code=Everwinter)
+
+x100 Primogems and x10 Mystic Enchancement Ore<br />*Added Jul 31, 2026*
+
 ### [`EZSB8889C2BZ`](https://genshin.hoyoverse.com/en/gift?code=EZSB8889C2BZ)
 
 10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Fish Noodles<br />*Added Jul 3, 2026*

@@ -50,18 +50,6 @@ Three Traveler S Guides and Two Cold Jokes<br />*Added Jun 8, 2026*
 
 30 Stellar Jade, Three Traveler S Guides, Five Condensed Aether, Four Lost Gold Fragments, and 20k Credits<br />*Added May 26, 2026*
 
-### [`CA395VK8ULCP`](https://hsr.hoyoverse.com/gift?code=CA395VK8ULCP)
-
-100 Stellar Jades and 50k Credits<br />*Added May 22, 2026*
-
-### [`YT295D38DLEB`](https://hsr.hoyoverse.com/gift?code=YT295D38DLEB)
-
-100 Stellar Jade and Five Traveler S Guides<br />*Added May 22, 2026*
-
-### [`EB395CJ8V5XF`](https://hsr.hoyoverse.com/gift?code=EB395CJ8V5XF)
-
-100 Stellar Jade and Four Refined Aether<br />*Added May 22, 2026*
-
 ### [`HAPPY3RDANNIV`](https://hsr.hoyoverse.com/gift?code=HAPPY3RDANNIV)
 
 100 Stellar Jade and Four Refined Aether<br />*Added Apr 10, 2026*

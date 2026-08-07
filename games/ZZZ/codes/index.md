@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ZZZMEIJI`](https://zenless.hoyoverse.com/redemption?code=ZZZMEIJI)
+
+30k Denny, Three Senior Investigator Logs, and Three W Engine Energy Modules<br />*Added Aug 6, 2026*
+
 ### [`ZZZ2YEAR`](https://zenless.hoyoverse.com/redemption?code=ZZZ2YEAR)
 
 50 Polychrome<br />*Added Jul 23, 2026*

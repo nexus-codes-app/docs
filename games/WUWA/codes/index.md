@@ -30,18 +30,6 @@ Escape From Duckov Themed Bike Skin<br />*Added Jul 22, 2026*
 
 100 Astrite, Four Resonance Potion, and Five Advanced Energy Core<br />*Added Jun 26, 2026*
 
-### [`SAYCHEESE`](https://nexus-codes.app/copy/?code=SAYCHEESE)
-
-100 Astrite, Three Advanced Enclosure Tank Ii, and 20k Shell Credits<br />*Added May 29, 2026*
-
-### [`STRANGEVISITORS`](https://nexus-codes.app/copy/?code=STRANGEVISITORS)
-
-100 Astrite, Three Advanced Resonance Potions, and Three Medium Revival Inhalers<br />*Added May 29, 2026*
-
-### [`BEYONDTHEDOOR`](https://nexus-codes.app/copy/?code=BEYONDTHEDOOR)
-
-100 Astrite, Three Advanced Energy Cores, and Two Medium Nutrient Blocks<br />*Added May 29, 2026*
-
 ### [`WUWA4PC`](https://nexus-codes.app/copy/?code=WUWA4PC)
 
 50 Astrites   Note  This Code Is Valid On Pc Only<br />*Added Jan 10, 2025*

@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`XVIZDH2B9WGX`](https://genshin.hoyoverse.com/en/gift?code=XVIZDH2B9WGX)
+
+10000 Mora, Adventure Experience 10, Fine Enhancement Ore 5, Jueyun Chili Chicken 5, Stir Fried Fish Noodle 5<br />*Added Aug 12, 2026*
+
 ### [`UIVI13C8X156`](https://genshin.hoyoverse.com/en/gift?code=UIVI13C8X156)
 
 10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Fish Noodles<br />*Added Aug 7, 2026*

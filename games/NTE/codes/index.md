@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ZANKOU0819`](https://nexus-codes.app/copy/?code=ZANKOU0819)
+
+30 Annulith, 50k Fons, and 30k Beetle Coins<br />*Added Aug 12, 2026*
+
 ### [`COMEBACK`](https://nexus-codes.app/copy/?code=COMEBACK)
 
 One Fabricated Dice<br />*Added Aug 5, 2026*

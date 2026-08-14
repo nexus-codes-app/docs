@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`MYSNEZHNAYACAREER`](https://genshin.hoyoverse.com/en/gift?code=MYSNEZHNAYACAREER)
+
+160 Primogem, 20000 Mora, 3 Hero S Wit<br />*Added Aug 13, 2026*
+
+### [`GS70XRNWFB`](https://genshin.hoyoverse.com/en/gift?code=GS70XRNWFB)
+
+30000 Mora, 3 Hero S Wit, 5 Fine Enhancement Ore<br />*Added Aug 13, 2026*
+
 ### [`XVIZDH2B9WGX`](https://genshin.hoyoverse.com/en/gift?code=XVIZDH2B9WGX)
 
 10000 Mora, Adventure Experience 10, Fine Enhancement Ore 5, Jueyun Chili Chicken 5, Stir Fried Fish Noodle 5<br />*Added Aug 12, 2026*

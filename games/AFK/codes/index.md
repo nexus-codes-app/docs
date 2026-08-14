@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`AFKJ2YRS2026`](https://nexus-codes.app/copy/?code=AFKJ2YRS2026)
+
+20 Epic Invite Letters and 100k Gold<br />*Added Aug 13, 2026*
+
 ### [`AFKJ10`](https://nexus-codes.app/copy/?code=AFKJ10)
 
 Ten Summon Tickets<br />*Added Jun 25, 2026*

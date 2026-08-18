@@ -70,10 +70,6 @@ a Celebration Fireworks Avatar Frame<br />*Added Jul 8, 2026*
 
 10k Fons, Ten Dynamik, and Ten Clicky Fries<br />*Added May 8, 2026*
 
-### [`NTEvtuber`](https://nexus-codes.app/copy/?code=NTEvtuber)
-
-50k Fons and 50k Beetle Coins<br />*Added May 5, 2026*
-
 ### [`NTEFREE`](https://nexus-codes.app/copy/?code=NTEFREE)
 
 30k Fons<br />*Added May 5, 2026*

@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`5S6ZHRWTDNJB`](https://hsr.hoyoverse.com/gift?code=5S6ZHRWTDNJB)
+
+60 Stellar Jade<br />*Added Aug 17, 2026*
+
+### [`4TKSX77Y58QK`](https://hsr.hoyoverse.com/gift?code=4TKSX77Y58QK)
+
+30 Stellar Jade, Three Traveler S Guides, Five Condensed Aether, Four Lost Gold Fragments, and 20k Credits<br />*Added Aug 17, 2026*
+
+### [`NSJR3B97ZZ5X`](https://hsr.hoyoverse.com/gift?code=NSJR3B97ZZ5X)
+
+50 Stellar Jade, 10000 Credit<br />*Added Aug 16, 2026*
+
 ### [`YAJQ2TR6ZY2P`](https://hsr.hoyoverse.com/gift?code=YAJQ2TR6ZY2P)
 
 100 Stellar Jade and Four Refined Aether<br />*Added Aug 14, 2026*
@@ -49,18 +61,6 @@ Three Traveler S Guides and Two Express Special Blend  Rustic Infusion<br />*Add
 ### [`WAK84U29VLYP`](https://hsr.hoyoverse.com/gift?code=WAK84U29VLYP)
 
 100 Stellar Jade and 50k Credits<br />*Added Jul 3, 2026*
-
-### [`BladeFitCheck`](https://hsr.hoyoverse.com/gift?code=BladeFitCheck)
-
-Three Traveler S Guides and Two Cold Jokes<br />*Added Jun 8, 2026*
-
-### [`5S6ZHRWTDNJB`](https://hsr.hoyoverse.com/gift?code=5S6ZHRWTDNJB)
-
-60 Stellar Jade<br />*Added May 26, 2026*
-
-### [`4TKSX77Y58QK`](https://hsr.hoyoverse.com/gift?code=4TKSX77Y58QK)
-
-30 Stellar Jade, Three Traveler S Guides, Five Condensed Aether, Four Lost Gold Fragments, and 20k Credits<br />*Added May 26, 2026*
 
 ### [`HAPPY3RDANNIV`](https://hsr.hoyoverse.com/gift?code=HAPPY3RDANNIV)
 

@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`Y1INABQB6DEX`](https://genshin.hoyoverse.com/en/gift?code=Y1INABQB6DEX)
+
+60 Primogems, 5 Adventurer S Experience<br />*Added Aug 17, 2026*
+
+### [`BALLETCOLLAB`](https://genshin.hoyoverse.com/en/gift?code=BALLETCOLLAB)
+
+30 Primogems, 10,000 Mora, 3 Hero S Wit, 3 Mystic Enhancement Ore<br />*Added Aug 17, 2026*
+
 ### [`MYSNEZHNAYACAREER`](https://genshin.hoyoverse.com/en/gift?code=MYSNEZHNAYACAREER)
 
 160 Primogem, 20000 Mora, 3 Hero S Wit<br />*Added Aug 13, 2026*

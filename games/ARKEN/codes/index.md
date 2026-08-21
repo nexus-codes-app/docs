@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`AKENDFIELDSUB`](https://nexus-codes.app/copy/?code=AKENDFIELDSUB)
+
+100 Oroberyl<br />*Added Aug 20, 2026*
+
 ### [`ENDFIELDRENEW`](https://nexus-codes.app/copy/?code=ENDFIELDRENEW)
 
 One Safety Helmet Sticker and 71,600 T Creds<br />*Added Jul 14, 2026*

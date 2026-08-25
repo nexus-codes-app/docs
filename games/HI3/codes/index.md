@@ -34,10 +34,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 100 Crystals<br />*Added Jun 23, 2026*
 
-### [`M1XT0FRZLC`](https://nexus-codes.app/copy/?code=M1XT0FRZLC)
-
-500 Asterite, One Stamina Potion, and Four Hoho Vacation Tickets<br />*Added Jun 16, 2026*
-
 ### [`1N6PU7W6FL`](https://nexus-codes.app/copy/?code=1N6PU7W6FL)
 
 500 Asterite, One Stamina Potion, and Four Hoho Vacation Tickets<br />*Added Apr 14, 2026*

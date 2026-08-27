@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`SUNSWEPTROBIN`](https://hsr.hoyoverse.com/gift?code=SUNSWEPTROBIN)
+
+2 Classic Soulglad, 3 Traveler S Guide<br />*Added Aug 26, 2026*
+
 ### [`5S6ZHRWTDNJB`](https://hsr.hoyoverse.com/gift?code=5S6ZHRWTDNJB)
 
 60 Stellar Jade<br />*Added Aug 17, 2026*

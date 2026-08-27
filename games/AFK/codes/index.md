@@ -38,17 +38,9 @@ Ten Summon Tickets<br />*Added Jun 25, 2026*
 
 500 Diamonds, 5 Hamsters, and 50k Gold<br />*Added Jun 18, 2026*
 
-### [`BOUNDFORSAVANNAH`](https://nexus-codes.app/copy/?code=BOUNDFORSAVANNAH)
-
-Diamonds 300 and 20k Gold<br />*Added Jun 18, 2026*
-
 ### [`H7PDTYNR61`](https://nexus-codes.app/copy/?code=H7PDTYNR61)
 
 1k Diamonds, Five Epic Invite Letters, and 20k Gold<br />*Added Jun 18, 2026*
-
-### [`CROWNOFASHES`](https://nexus-codes.app/copy/?code=CROWNOFASHES)
-
-600 Diamonds and 20k Gold<br />*Added Jun 18, 2026*
 
 ### [`4iYTsNbdXC`](https://nexus-codes.app/copy/?code=4iYTsNbdXC)
 

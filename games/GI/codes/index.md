@@ -62,18 +62,6 @@ x100 Primogems and x10 Mystic Enchancement Ore<br />*Added Jul 31, 2026*
 
 60 Primogems and Five Adventurer S Experience<br />*Added Jun 25, 2026*
 
-### [`TeaPartyTime`](https://genshin.hoyoverse.com/en/gift?code=TeaPartyTime)
-
-100 Primogems and 50k Mora<br />*Added Jun 18, 2026*
-
-### [`TotheMoon`](https://genshin.hoyoverse.com/en/gift?code=TotheMoon)
-
-100 Primogems and Five Hero S Wit<br />*Added Jun 18, 2026*
-
-### [`Marionette`](https://genshin.hoyoverse.com/en/gift?code=Marionette)
-
-100 Primogems and Ten Mystic Enhancement Ore<br />*Added Jun 18, 2026*
-
 ### [`YMYD76U85Z1U`](https://genshin.hoyoverse.com/en/gift?code=YMYD76U85Z1U)
 
 10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Fish Noodles<br />*Added May 29, 2026*

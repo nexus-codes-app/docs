@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`DUGODWKRHAKDNJ`](https://genshin.hoyoverse.com/en/gift?code=DUGODWKRHAKDNJ)
+
+30 Primogems, 10k Mora, Three Hero S Wit, and Three Mystic Enhancement Ore<br />*Added Sep 1, 2026*
+
 ### [`Y1INABQB6DEX`](https://genshin.hoyoverse.com/en/gift?code=Y1INABQB6DEX)
 
 60 Primogems, 5 Adventurer S Experience<br />*Added Aug 17, 2026*

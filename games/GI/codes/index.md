@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`YOAL3V36XHS7`](https://genshin.hoyoverse.com/en/gift?code=YOAL3V36XHS7)
+
+10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Fish Noodles<br />*Added Sep 4, 2026*
+
 ### [`DUGODWKRHAKDNJ`](https://genshin.hoyoverse.com/en/gift?code=DUGODWKRHAKDNJ)
 
 30 Primogems, 10k Mora, Three Hero S Wit, and Three Mystic Enhancement Ore<br />*Added Sep 1, 2026*

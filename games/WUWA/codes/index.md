@@ -18,18 +18,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 Escape From Duckov Themed Bike Skin<br />*Added Jul 22, 2026*
 
-### [`INTOTHEFOG`](https://nexus-codes.app/copy/?code=INTOTHEFOG)
-
-100 Astrite, 2 Forgery Premium Supply, and 20000 Shell Credit<br />*Added Jun 26, 2026*
-
-### [`REUNION`](https://nexus-codes.app/copy/?code=REUNION)
-
-100 Astrite, 20 Premium Tuners, and Five Advanced Sealed Tubes<br />*Added Jun 26, 2026*
-
-### [`MECHANISMCITY`](https://nexus-codes.app/copy/?code=MECHANISMCITY)
-
-100 Astrite, Four Resonance Potion, and Five Advanced Energy Core<br />*Added Jun 26, 2026*
-
 ### [`WUWA4PC`](https://nexus-codes.app/copy/?code=WUWA4PC)
 
 50 Astrites   Note  This Code Is Valid On Pc Only<br />*Added Jan 10, 2025*

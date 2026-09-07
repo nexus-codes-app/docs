@@ -66,10 +66,6 @@ x100 Primogems and x10 Mystic Enchancement Ore<br />*Added Jul 31, 2026*
 
 10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Fish Noodles<br />*Added Jul 3, 2026*
 
-### [`LEGEDILJKSGM`](https://genshin.hoyoverse.com/en/gift?code=LEGEDILJKSGM)
-
-60 Primogems and Five Adventurer S Experience<br />*Added Jun 25, 2026*
-
 ### [`YMYD76U85Z1U`](https://genshin.hoyoverse.com/en/gift?code=YMYD76U85Z1U)
 
 10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Fish Noodles<br />*Added May 29, 2026*

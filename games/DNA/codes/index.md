@@ -26,10 +26,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 150 Phoxene, 1000 Carmine Globule<br />*Added Jun 28, 2026*
 
-### [`OMEKJA`](https://nexus-codes.app/copy/?code=OMEKJA)
-
-Rewards  Expires June 30th<br />*Added Jun 28, 2026*
-
 ### [`DNABYSSGIFT`](https://nexus-codes.app/copy/?code=DNABYSSGIFT)
 
 *Added May 3, 2026*

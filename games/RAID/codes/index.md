@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`RAIDAutumn`](https://nexus-codes.app/copy/?code=RAIDAutumn)
+
+*Added Sep 9, 2026*
+
+### [`HappyBdayUDK`](https://nexus-codes.app/copy/?code=HappyBdayUDK)
+
+*Added Sep 9, 2026*
+
+### [`Dorothy`](https://nexus-codes.app/copy/?code=Dorothy)
+
+*Added Sep 9, 2026*
+
 ### [`INTHEWEB`](https://nexus-codes.app/copy/?code=INTHEWEB)
 
 *Added Aug 5, 2026*

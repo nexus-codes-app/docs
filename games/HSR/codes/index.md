@@ -58,18 +58,6 @@ Three Traveler S Guides and Two the Fluffy Multi Functional Fan Glowsticks<br />
 
 Three Traveler S Guides and Two Express Special Blend  Rustic Infusion<br />*Added Jul 20, 2026*
 
-### [`XTJ9MV38DL3X`](https://hsr.hoyoverse.com/gift?code=XTJ9MV38DL3X)
-
-100 Stellar Jade and Four Refined Aether<br />*Added Jul 3, 2026*
-
-### [`HT3QMCJ9U4JB`](https://hsr.hoyoverse.com/gift?code=HT3QMCJ9U4JB)
-
-100 Stellar Jade and Five Traveler S Guides<br />*Added Jul 3, 2026*
-
-### [`WAK84U29VLYP`](https://hsr.hoyoverse.com/gift?code=WAK84U29VLYP)
-
-100 Stellar Jade and 50k Credits<br />*Added Jul 3, 2026*
-
 ### [`HAPPY3RDANNIV`](https://hsr.hoyoverse.com/gift?code=HAPPY3RDANNIV)
 
 100 Stellar Jade and Four Refined Aether<br />*Added Apr 10, 2026*

@@ -47,19 +47,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 Legendary Support Champion Grand Oak Padraig and Other Rewards  Expires October 8, 2026   New  
 **New Players Only**<br />*Added May 6, 2026*
 
-### [`2GTLUCKY2026`](https://nexus-codes.app/copy/?code=2GTLUCKY2026)
-
-*Added Apr 19, 2026*
-
-### [`midgamejoke`](https://nexus-codes.app/copy/?code=midgamejoke)
-
-*Added Apr 8, 2026*
-
-### [`NEMESIS`](https://nexus-codes.app/copy/?code=NEMESIS)
-
-Epic Void Champion Akemtum and Other Rewards  New   Expires September 3, 2026  
-**New Players Only**<br />*Added Mar 4, 2026*
-
 ### [`GOFAST`](https://nexus-codes.app/copy/?code=GOFAST)
 
 Razelvarg, 15 Xp Brews, 15 Greater Magic Potions, and 300k Silver  New  
@@ -69,18 +56,6 @@ Razelvarg, 15 Xp Brews, 15 Greater Magic Potions, and 300k Silver  New
 
 Stag Knight, One Epic Skill Tome, 45 Xp Brews, and 150k Silver  New  
 **New Players Only**<br />*Added Feb 7, 2026*
-
-### [`EPYRE`](https://nexus-codes.app/copy/?code=EPYRE)
-
-*Added Jan 28, 2026*
-
-### [`DearSirNicholas`](https://nexus-codes.app/copy/?code=DearSirNicholas)
-
-*Added Jan 28, 2026*
-
-### [`RAIDBROTHERHOOD`](https://nexus-codes.app/copy/?code=RAIDBROTHERHOOD)
-
-*Added Jan 17, 2026*
 
 ### [`KITTYCUT`](https://nexus-codes.app/copy/?code=KITTYCUT)
 
@@ -96,18 +71,6 @@ Fenshi, 200k Silver, Ten Xp Brews, and 40 Potions  New
 
 Ultimate Deathknight  New  
 **New Players Only**<br />*Added Jan 3, 2026*
-
-### [`winmidgamewinter`](https://nexus-codes.app/copy/?code=winmidgamewinter)
-
-*Added Dec 17, 2025*
-
-### [`AMG25`](https://nexus-codes.app/copy/?code=AMG25)
-
-*Added Dec 17, 2025*
-
-### [`HUNTINRAID`](https://nexus-codes.app/copy/?code=HUNTINRAID)
-
-*Added Dec 3, 2025*
 
 ### [`HUNTMASTER`](https://nexus-codes.app/copy/?code=HUNTMASTER)
 
@@ -193,10 +156,6 @@ Fenshi, Ten Force Brews, Ten Greater Force Potions, and 200k Silver
 
 Fenax and Tallia 
 **New Players Only**<br />*Added Aug 27, 2025*
-
-### [`WELCOMEGIFT`](https://nexus-codes.app/copy/?code=WELCOMEGIFT)
-
-*Added Feb 12, 2025*
 
 ### [`GODSPEED`](https://nexus-codes.app/copy/?code=GODSPEED)
 

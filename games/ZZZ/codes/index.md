@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ZZZVOID32`](https://zenless.hoyoverse.com/redemption?code=ZZZVOID32)
+
+30 Polychrome, 2222 Dennys<br />*Added Sep 12, 2026*
+
 ### [`ZZZGRIND32`](https://zenless.hoyoverse.com/redemption?code=ZZZGRIND32)
 
 20 Polychrome<br />*Added Sep 12, 2026*

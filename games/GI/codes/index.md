@@ -14,6 +14,22 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`PrimaDonna`](https://genshin.hoyoverse.com/en/gift?code=PrimaDonna)
+
+x100 Primogems and x50,000 Mora<br />*Added Sep 14, 2026*
+
+### [`Vesna0923`](https://genshin.hoyoverse.com/en/gift?code=Vesna0923)
+
+x100 Primogems and x5 Hero S Wit<br />*Added Sep 14, 2026*
+
+### [`Rekviem`](https://genshin.hoyoverse.com/en/gift?code=Rekviem)
+
+x100 Primogems and x10 Mystic Enchancement Ore<br />*Added Sep 14, 2026*
+
+### [`Y6JYMKV6JKSL`](https://genshin.hoyoverse.com/en/gift?code=Y6JYMKV6JKSL)
+
+x60 Primogems, x5 Adventurer S Experience<br />*Added Sep 14, 2026*
+
 ### [`YOAL3V36XHS7`](https://genshin.hoyoverse.com/en/gift?code=YOAL3V36XHS7)
 
 10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Fish Noodles<br />*Added Sep 4, 2026*

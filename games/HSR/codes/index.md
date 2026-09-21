@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`7S4AD2X35NE3`](https://hsr.hoyoverse.com/gift?code=7S4AD2X35NE3)
+
+100 Stellar Jade, 5 Refined Aether<br />*Added Sep 20, 2026*
+
+### [`KA5SV3FJM7WX`](https://hsr.hoyoverse.com/gift?code=KA5SV3FJM7WX)
+
+100 Stellar Jade, 50,000 Credit<br />*Added Sep 20, 2026*
+
 ### [`WA4AV2F24PYX`](https://hsr.hoyoverse.com/gift?code=WA4AV2F24PYX)
 
 50 Stellar Jade, 10000 Credit<br />*Added Sep 13, 2026*

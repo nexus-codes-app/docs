@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`GS71XAVWDS`](https://genshin.hoyoverse.com/en/gift?code=GS71XAVWDS)
+
+Mora  30,000  Hero S Wit  3  Mystic Enhancement Ore  5<br />*Added Sep 20, 2026*
+
 ### [`PrimaDonna`](https://genshin.hoyoverse.com/en/gift?code=PrimaDonna)
 
 x100 Primogems and x50,000 Mora<br />*Added Sep 14, 2026*

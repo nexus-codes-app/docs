@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`VesnaOnPatrol`](https://genshin.hoyoverse.com/en/gift?code=VesnaOnPatrol)
+
+40 Primogems, Three Hero S Wit, and 20k Mora<br />*Added Sep 24, 2026*
+
+### [`EPIC2026`](https://genshin.hoyoverse.com/en/gift?code=EPIC2026)
+
+40 Primogems, Five Hero S Wit, and 20k Mora<br />*Added Sep 24, 2026*
+
 ### [`GS71XAVWDS`](https://genshin.hoyoverse.com/en/gift?code=GS71XAVWDS)
 
 Mora  30,000  Hero S Wit  3  Mystic Enhancement Ore  5<br />*Added Sep 20, 2026*

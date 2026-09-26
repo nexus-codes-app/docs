@@ -14,6 +14,22 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`PNKZ3WLNN8G6`](https://genshin.hoyoverse.com/en/gift?code=PNKZ3WLNN8G6)
+
+5 Teachings Of Charity, 5 Teachings Of Fortitude, 5 Teachings Of Glory<br />*Added Sep 25, 2026*
+
+### [`DATG5HG1PL89`](https://genshin.hoyoverse.com/en/gift?code=DATG5HG1PL89)
+
+10,000 Mora, 10 Adventurer S Experience, 5 Fine Enhancement Ore, 5 Stir Fried Fish Noodles, 5 Jueyun Chili Chicken<br />*Added Sep 25, 2026*
+
+### [`PLDXIB886Y1S`](https://genshin.hoyoverse.com/en/gift?code=PLDXIB886Y1S)
+
+10,000 Mora, 10 Adventurer S Experience, 5 Fine Enhancement Ore, 5 Stir Fried Fish Noodles, 5 Jueyun Chili Chicken<br />*Added Sep 25, 2026*
+
+### [`GS71XYNSYJ`](https://genshin.hoyoverse.com/en/gift?code=GS71XYNSYJ)
+
+30,000 Mora, 3 Hero S Wit, 5 Mystic Enhancement Ore<br />*Added Sep 25, 2026*
+
 ### [`VesnaOnPatrol`](https://genshin.hoyoverse.com/en/gift?code=VesnaOnPatrol)
 
 40 Primogems, Three Hero S Wit, and 20k Mora<br />*Added Sep 24, 2026*

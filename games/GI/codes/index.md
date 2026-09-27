@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`PLDXI8VFKI7C`](https://genshin.hoyoverse.com/en/gift?code=PLDXI8VFKI7C)
+
+10,000 Mora, 10 Adventurer S Experience , 5 Fine Enhancement Ore, 5 Jueyun Chili Chicken, 5 Stir Fried Fish Noodles<br />*Added Sep 26, 2026*
+
 ### [`PNKZ3WLNN8G6`](https://genshin.hoyoverse.com/en/gift?code=PNKZ3WLNN8G6)
 
 5 Teachings Of Charity, 5 Teachings Of Fortitude, 5 Teachings Of Glory<br />*Added Sep 25, 2026*

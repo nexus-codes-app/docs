@@ -62,14 +62,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 Three Traveler S Guides and Two the Fluffy Multi Functional Fan Glowsticks<br />*Added Jul 27, 2026*
 
-### [`PSJQKBQPYGMT`](https://hsr.hoyoverse.com/gift?code=PSJQKBQPYGMT)
-
-50 Stellar Jade and 10k Credits<br />*Added Jul 20, 2026*
-
-### [`BESTCOFFEEEVER`](https://hsr.hoyoverse.com/gift?code=BESTCOFFEEEVER)
-
-Three Traveler S Guides and Two Express Special Blend  Rustic Infusion<br />*Added Jul 20, 2026*
-
 ### [`HAPPY3RDANNIV`](https://hsr.hoyoverse.com/gift?code=HAPPY3RDANNIV)
 
 100 Stellar Jade and Four Refined Aether<br />*Added Apr 10, 2026*

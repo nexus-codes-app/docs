@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`OPERACOLLAB`](https://genshin.hoyoverse.com/en/gift?code=OPERACOLLAB)
+
+30 Primogems, Two Hero S Wit, and 20k Mora<br />*Added Sep 29, 2026*
+
 ### [`PLDXI8VFKI7C`](https://genshin.hoyoverse.com/en/gift?code=PLDXI8VFKI7C)
 
 10,000 Mora, 10 Adventurer S Experience , 5 Fine Enhancement Ore, 5 Jueyun Chili Chicken, 5 Stir Fried Fish Noodles<br />*Added Sep 26, 2026*

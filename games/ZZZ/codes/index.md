@@ -30,14 +30,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 30k Denny, Three Senior Investigator Logs, and Three W Engine Energy Modules<br />*Added Aug 6, 2026*
 
-### [`ZZZ2YEAR`](https://zenless.hoyoverse.com/redemption?code=ZZZ2YEAR)
-
-50 Polychrome<br />*Added Jul 23, 2026*
-
-### [`ZZZ31REMIELLE`](https://zenless.hoyoverse.com/redemption?code=ZZZ31REMIELLE)
-
-60 Polychrome and 6,666 Denny<br />*Added Jul 23, 2026*
-
 ### [`DREAMINGANGEL`](https://zenless.hoyoverse.com/redemption?code=DREAMINGANGEL)
 
 300 Polychrome, 30k Denny, Two Senior Investigator Logs, and Three W Engine Energy Modules  New    Expires February 1<br />*Added Jan 30, 2026*

@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`2GTFALLFORTUNE`](https://nexus-codes.app/copy/?code=2GTFALLFORTUNE)
+
+*Added Sep 30, 2026*
+
 ### [`RAIDAutumn`](https://nexus-codes.app/copy/?code=RAIDAutumn)
 
 *Added Sep 9, 2026*

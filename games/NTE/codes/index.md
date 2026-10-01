@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`BLACKBIRDINNTE`](https://nexus-codes.app/copy/?code=BLACKBIRDINNTE)
+
+20 Heterogeneous Units, 30k Beetle Coins, and 10k Fons<br />*Added Sep 30, 2026*
+
 ### [`THEWHOOTS`](https://nexus-codes.app/copy/?code=THEWHOOTS)
 
 100 Annulith, Xp Items, Five Colorless Dye, and 5k Beetle Coins  New   Expires September 20<br />*Added Sep 16, 2026*

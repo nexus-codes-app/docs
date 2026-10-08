@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`6LS3F3LS5K87`](https://genshin.hoyoverse.com/en/gift?code=6LS3F3LS5K87)
+
+20 Primogems and 60 Geodes Of Replication<br />*Added Oct 8, 2026*
+
+### [`NEEIJB764CA3`](https://genshin.hoyoverse.com/en/gift?code=NEEIJB764CA3)
+
+60 Primogems and Five Adventurer S Experience<br />*Added Oct 8, 2026*
+
 ### [`OPERACOLLAB`](https://genshin.hoyoverse.com/en/gift?code=OPERACOLLAB)
 
 30 Primogems, Two Hero S Wit, and 20k Mora<br />*Added Sep 29, 2026*

@@ -30,14 +30,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 *Added Sep 9, 2026*
 
-### [`INTHEWEB`](https://nexus-codes.app/copy/?code=INTHEWEB)
-
-*Added Aug 5, 2026*
-
-### [`raidwebstore`](https://nexus-codes.app/copy/?code=raidwebstore)
-
-*Added Aug 5, 2026*
-
 ### [`TOALLFROMMID`](https://nexus-codes.app/copy/?code=TOALLFROMMID)
 
 *Added Jun 17, 2026*

@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`PhotoTime`](https://genshin.hoyoverse.com/en/gift?code=PhotoTime)
+
+x100 Primogems and x50,000 Mora<br />*Added Oct 23, 2026*
+
+### [`ExpertMitya`](https://genshin.hoyoverse.com/en/gift?code=ExpertMitya)
+
+x100 Primogems and x5 Hero S Wit<br />*Added Oct 23, 2026*
+
+### [`HourofRuin`](https://genshin.hoyoverse.com/en/gift?code=HourofRuin)
+
+x100 Primogems and x10 Mystic Enchancement Ore<br />*Added Oct 23, 2026*
+
 ### [`6LS3F3LS5K87`](https://genshin.hoyoverse.com/en/gift?code=6LS3F3LS5K87)
 
 20 Primogems and 60 Geodes Of Replication<br />*Added Oct 8, 2026*

@@ -90,14 +90,6 @@ x60 Primogems, x5 Adventurer S Experience<br />*Added Sep 14, 2026*
 
 30 Primogems, 10,000 Mora, 3 Hero S Wit, 3 Mystic Enhancement Ore<br />*Added Aug 17, 2026*
 
-### [`MYSNEZHNAYACAREER`](https://genshin.hoyoverse.com/en/gift?code=MYSNEZHNAYACAREER)
-
-160 Primogem, 20000 Mora, 3 Hero S Wit<br />*Added Aug 13, 2026*
-
-### [`GS70XRNWFB`](https://genshin.hoyoverse.com/en/gift?code=GS70XRNWFB)
-
-30000 Mora, 3 Hero S Wit, 5 Fine Enhancement Ore<br />*Added Aug 13, 2026*
-
 ### [`2BJ64QRZ7RT8`](https://genshin.hoyoverse.com/en/gift?code=2BJ64QRZ7RT8)
 
 60 Primogems and Five Adventurer S Experience<br />*Added Aug 7, 2026*

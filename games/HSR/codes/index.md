@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`DSLSPNBREASP`](https://hsr.hoyoverse.com/gift?code=DSLSPNBREASP)
+
+50 Stellar Jade and 10k Credits<br />*Added Oct 26, 2026*
+
 ### [`RT4BPNA8FBS3`](https://hsr.hoyoverse.com/gift?code=RT4BPNA8FBS3)
 
 50 Stellar Jade and 10k Credits<br />*Added Oct 5, 2026*

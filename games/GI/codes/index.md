@@ -98,10 +98,6 @@ x60 Primogems, x5 Adventurer S Experience<br />*Added Sep 14, 2026*
 
 60 Primogems, 5 Adventurer S Experience<br />*Added Aug 17, 2026*
 
-### [`BALLETCOLLAB`](https://genshin.hoyoverse.com/en/gift?code=BALLETCOLLAB)
-
-30 Primogems, 10,000 Mora, 3 Hero S Wit, 3 Mystic Enhancement Ore<br />*Added Aug 17, 2026*
-
 ### [`GENSHINGIFT`](https://genshin.hoyoverse.com/en/gift?code=GENSHINGIFT)
 
 50 Primogems and Three Hero S Wit  This Code Works Periodically<br />*Added Dec 27, 2024*

@@ -14,6 +14,30 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`KS58QWGR8W`](https://nexus-codes.app/copy/?code=KS58QWGR8W)
+
+500 Asterite, One Stamina Potion, and Four Hoho Vacation Tickets<br />*Added Oct 27, 2026*
+
+### [`FLAVOR3`](https://nexus-codes.app/copy/?code=FLAVOR3)
+
+30k Coins<br />*Added Oct 27, 2026*
+
+### [`FLAVOR4`](https://nexus-codes.app/copy/?code=FLAVOR4)
+
+One Stamina Potion<br />*Added Oct 27, 2026*
+
+### [`FLAVOR2`](https://nexus-codes.app/copy/?code=FLAVOR2)
+
+Four Hoho Vacation Tickets<br />*Added Oct 27, 2026*
+
+### [`LBWY2YI5V4`](https://nexus-codes.app/copy/?code=LBWY2YI5V4)
+
+30 Crystals, Eight Hoho Vacation Tickets, and One Phase Shifter<br />*Added Oct 27, 2026*
+
+### [`FLAVOR1`](https://nexus-codes.app/copy/?code=FLAVOR1)
+
+200 Asterite<br />*Added Oct 27, 2026*
+
 ### [`NCU83WRBF2`](https://nexus-codes.app/copy/?code=NCU83WRBF2)
 
 500 Asterite, One Stamina Potion, and Four Hoho Vacation Tickets<br />*Added Oct 20, 2026*

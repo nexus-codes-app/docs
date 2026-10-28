@@ -14,6 +14,11 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`HELLBENT`](https://nexus-codes.app/copy/?code=HELLBENT)
+
+Teodor the Savant, 15 Xp Brews, 15 Greater Magic Potions, and 300k Silver  Expires April 14, 2027   New  
+**New Players Only**<br />*Added Oct 28, 2026*
+
 ### [`2GTFALLFORTUNE`](https://nexus-codes.app/copy/?code=2GTFALLFORTUNE)
 
 *Added Sep 30, 2026*

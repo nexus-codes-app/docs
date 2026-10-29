@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`HOLLOWRUN33`](https://zenless.hoyoverse.com/redemption?code=HOLLOWRUN33)
+
+20 Polychrome and 2,222 Denny<br />*Added Oct 29, 2026*
+
+### [`LEVELUP33`](https://zenless.hoyoverse.com/redemption?code=LEVELUP33)
+
+20 Polychrome and 2,222 Denny<br />*Added Oct 29, 2026*
+
+### [`INKSHIFT33`](https://zenless.hoyoverse.com/redemption?code=INKSHIFT33)
+
+20 Polychrome and 2,222 Denny<br />*Added Oct 29, 2026*
+
 ### [`JRNY2SKY`](https://zenless.hoyoverse.com/redemption?code=JRNY2SKY)
 
 300 Polychromes, 3k Denny, Two Senior Investigator Logs, and Three W Engine Energy Modules<br />*Added Oct 9, 2026*

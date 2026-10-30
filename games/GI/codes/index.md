@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`PJ2KEBRAYSRM`](https://genshin.hoyoverse.com/en/gift?code=PJ2KEBRAYSRM)
+
+60 Primogems and Five Adventurer S Experience<br />*Added Oct 30, 2026*
+
 ### [`PhotoTime`](https://genshin.hoyoverse.com/en/gift?code=PhotoTime)
 
 x100 Primogems and x50,000 Mora<br />*Added Oct 23, 2026*

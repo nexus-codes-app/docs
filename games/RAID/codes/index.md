@@ -39,11 +39,6 @@ Teodor the Savant, 15 Xp Brews, 15 Greater Magic Potions, and 300k Silver  Expir
 
 *Added Jun 17, 2026*
 
-### [`WRATH`](https://nexus-codes.app/copy/?code=WRATH)
-
-Legendary Support Champion Grand Oak Padraig and Other Rewards  Expires October 8, 2026   New  
-**New Players Only**<br />*Added May 6, 2026*
-
 ### [`GOFAST`](https://nexus-codes.app/copy/?code=GOFAST)
 
 Razelvarg, 15 Xp Brews, 15 Greater Magic Potions, and 300k Silver  New  

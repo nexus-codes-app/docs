@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`Raidoween`](https://nexus-codes.app/copy/?code=Raidoween)
+
+*Added Nov 4, 2026*
+
+### [`2GTTrickortreat`](https://nexus-codes.app/copy/?code=2GTTrickortreat)
+
+*Added Nov 4, 2026*
+
 ### [`HELLBENT`](https://nexus-codes.app/copy/?code=HELLBENT)
 
 Teodor the Savant, 15 Xp Brews, 15 Greater Magic Potions, and 300k Silver  Expires April 14, 2027   New  

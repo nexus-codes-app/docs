@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`TRAINOFSOULS`](https://nexus-codes.app/copy/?code=TRAINOFSOULS)
+
+100 Astrite, Three Premium Resonance Potions, and Two Advanced Revival Inhalers<br />*Added Nov 6, 2026*
+
+### [`SCHOOLLIFE`](https://nexus-codes.app/copy/?code=SCHOOLLIFE)
+
+100 Astrite, 20 Premium Tuners, and Five Advanced Sealed Tubes<br />*Added Nov 6, 2026*
+
+### [`BLOOMINGFLOWERS`](https://nexus-codes.app/copy/?code=BLOOMINGFLOWERS)
+
+100 Astrite, Two Premium Enclosure Tanks Iii, and 40k Shell Credits<br />*Added Nov 6, 2026*
+
 ### [`WAKINGMOON`](https://nexus-codes.app/copy/?code=WAKINGMOON)
 
 100 Astrite, 20 Premium Tuners, and Five Advanced Sealed Tubes<br />*Added Sep 21, 2026*

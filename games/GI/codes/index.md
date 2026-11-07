@@ -14,6 +14,22 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`NEEI8A8341OW`](https://genshin.hoyoverse.com/en/gift?code=NEEI8A8341OW)
+
+*Added Nov 7, 2026*
+
+### [`KEEPUPWITHMITYA`](https://genshin.hoyoverse.com/en/gift?code=KEEPUPWITHMITYA)
+
+Guide To Charity  3,  Energy Replenishing Meal   3, Kristallfold  3<br />*Added Nov 7, 2026*
+
+### [`MIJIQ23V2437`](https://genshin.hoyoverse.com/en/gift?code=MIJIQ23V2437)
+
+Mora  10,000, Adventurer S Experience  10, Fine Enhancement Ore  5, Stir Fried Fish Noodles  5, Jueyun Chili Chicken  5<br />*Added Nov 7, 2026*
+
+### [`CDOF4X83H7X2`](https://genshin.hoyoverse.com/en/gift?code=CDOF4X83H7X2)
+
+Mora  10,000, Adventurer S Experience  10, Fine Enhancement Ore  5, Stir Fried Fish Noodles  5, Jueyun Chili Chicken  5<br />*Added Nov 7, 2026*
+
 ### [`PJ2KEBRAYSRM`](https://genshin.hoyoverse.com/en/gift?code=PJ2KEBRAYSRM)
 
 60 Primogems and Five Adventurer S Experience<br />*Added Oct 30, 2026*

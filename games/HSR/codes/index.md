@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`CTK5DRQVT48F`](https://hsr.hoyoverse.com/gift?code=CTK5DRQVT48F)
+
+*Added Nov 7, 2026*
+
 ### [`AHABLESSYOU`](https://hsr.hoyoverse.com/gift?code=AHABLESSYOU)
 
 100 Stellar Jade and Four Refined Aether<br />*Added Oct 30, 2026*

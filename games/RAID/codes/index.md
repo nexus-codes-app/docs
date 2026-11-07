@@ -14,6 +14,15 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`DR24`](https://nexus-codes.app/copy/?code=DR24)
+
+300k Silver, Energy Potion x1, 3 Day Xp Boost, 15x Xp Brews<br />*Added Nov 7, 2026*
+
+### [`CHUG`](https://nexus-codes.app/copy/?code=CHUG)
+
+Melga Steelgirdle, Ten Spirit Brews, and 300k Silver 
+**New Players Only**<br />*Added Nov 7, 2026*
+
 ### [`Raidoween`](https://nexus-codes.app/copy/?code=Raidoween)
 
 *Added Nov 4, 2026*

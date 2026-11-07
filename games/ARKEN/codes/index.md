@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ENDFIELDSTEAM`](https://nexus-codes.app/copy/?code=ENDFIELDSTEAM)
+
+T Creds  8,000, Elementary Cognitive Carrier  2, Arms Insp Set  2, Special Commemorative Portrait Frame  1<br />*Added Nov 7, 2026*
+
 ### [`AKENDFIELDSUB`](https://nexus-codes.app/copy/?code=AKENDFIELDSUB)
 
 100 Oroberyl<br />*Added Aug 20, 2026*

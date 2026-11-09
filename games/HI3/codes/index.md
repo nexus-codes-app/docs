@@ -66,10 +66,6 @@ Four Hoho Vacation Tickets<br />*Added Oct 27, 2026*
 
 100 Crystals<br />*Added Sep 1, 2026*
 
-### [`TimeAlbum`](https://nexus-codes.app/copy/?code=TimeAlbum)
-
-100 Crystals<br />*Added Jun 23, 2026*
-
 ### [`1N6PU7W6FL`](https://nexus-codes.app/copy/?code=1N6PU7W6FL)
 
 500 Asterite, One Stamina Potion, and Four Hoho Vacation Tickets<br />*Added Apr 14, 2026*

@@ -38,10 +38,6 @@ Codes are not checked for expiry and are only periodically pruned, therefore cod
 
 100 Astrite, Three Premium Resonance Potions, and Two Advanced Revival Inhalers<br />*Added Sep 21, 2026*
 
-### [`WUWA4PC`](https://nexus-codes.app/copy/?code=WUWA4PC)
-
-50 Astrites   Note  This Code Is Valid On Pc Only<br />*Added Jan 10, 2025*
-
 ### [`WUTHERINGGIFT`](https://nexus-codes.app/copy/?code=WUTHERINGGIFT)
 
 Two Premium Resonance Potions, Two Medium Revival Inhalers, Two Medium Energy Bags, 10k Shell Credits, and 50 Astrite<br />

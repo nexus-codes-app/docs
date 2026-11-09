@@ -58,10 +58,6 @@ Three Traveler S Guides and Two Cold Jokes<br />*Added Oct 5, 2026*
 
 50 Stellar Jade and 10k Credits<br />*Added Sep 7, 2026*
 
-### [`SUNSWEPTROBIN`](https://hsr.hoyoverse.com/gift?code=SUNSWEPTROBIN)
-
-2 Classic Soulglad, 3 Traveler S Guide<br />*Added Aug 26, 2026*
-
 ### [`5S6ZHRWTDNJB`](https://hsr.hoyoverse.com/gift?code=5S6ZHRWTDNJB)
 
 60 Stellar Jade<br />*Added Aug 17, 2026*
@@ -69,38 +65,6 @@ Three Traveler S Guides and Two Cold Jokes<br />*Added Oct 5, 2026*
 ### [`4TKSX77Y58QK`](https://hsr.hoyoverse.com/gift?code=4TKSX77Y58QK)
 
 30 Stellar Jade, Three Traveler S Guides, Five Condensed Aether, Four Lost Gold Fragments, and 20k Credits<br />*Added Aug 17, 2026*
-
-### [`NSJR3B97ZZ5X`](https://hsr.hoyoverse.com/gift?code=NSJR3B97ZZ5X)
-
-50 Stellar Jade, 10000 Credit<br />*Added Aug 16, 2026*
-
-### [`YAJQ2TR6ZY2P`](https://hsr.hoyoverse.com/gift?code=YAJQ2TR6ZY2P)
-
-100 Stellar Jade and Four Refined Aether<br />*Added Aug 14, 2026*
-
-### [`2TKRKAR6YG2K`](https://hsr.hoyoverse.com/gift?code=2TKRKAR6YG2K)
-
-100 Stellar Jade and 50k Credits<br />*Added Aug 14, 2026*
-
-### [`LSJ9JARPZH33`](https://hsr.hoyoverse.com/gift?code=LSJ9JARPZH33)
-
-100 Stellar Jade and Five Traveler S Guides<br />*Added Aug 14, 2026*
-
-### [`HAPPY3RDANNIV`](https://hsr.hoyoverse.com/gift?code=HAPPY3RDANNIV)
-
-100 Stellar Jade and Four Refined Aether<br />*Added Apr 10, 2026*
-
-### [`SHAREANDSAVEIT`](https://hsr.hoyoverse.com/gift?code=SHAREANDSAVEIT)
-
-100 Stellar Jade and Five Traveler S Guides<br />*Added Apr 10, 2026*
-
-### [`HERESTHECODE`](https://hsr.hoyoverse.com/gift?code=HERESTHECODE)
-
-100 Stellar Jade and 50k Credits<br />*Added Apr 10, 2026*
-
-### [`AceDetective`](https://hsr.hoyoverse.com/gift?code=AceDetective)
-
-Three Traveler S Guides and Two Cold Jokes<br />*Added Mar 30, 2026*
 
 ### [`OMEGA`](https://hsr.hoyoverse.com/gift?code=OMEGA)
 

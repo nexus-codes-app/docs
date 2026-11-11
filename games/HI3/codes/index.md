@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ZBL0W0QI8T`](https://nexus-codes.app/copy/?code=ZBL0W0QI8T)
+
+*Added Nov 11, 2026*
+
 ### [`QPAS261QC8`](https://nexus-codes.app/copy/?code=QPAS261QC8)
 
 500 Asterite, One Stamina Potion, and Four Hoho Vacation Tickets<br />*Added Nov 4, 2026*

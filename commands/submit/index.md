@@ -10,7 +10,7 @@ parent: Commands
 
 Submit a code for approval. Codes must be for a supported game and will be reviewed by our staff before being added to the send queue.
 You may only have 3 pending submissions at a time. Please wait for your previous submissions to be reviewed or expire before submitting more.
-Submissions must be made from the home server. Join at https://support.nexus-codes.app
+Games with automatic validation may be submitted from any server. Other submissions must be made from the home server unless permitted by an administrator. Join at https://support.nexus-codes.app
 Abuse of this system will result in a ban and/or blacklist from the bot.
 
 ## Required Permissions

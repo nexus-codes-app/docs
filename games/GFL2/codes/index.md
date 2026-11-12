@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`BBRSTP86ES`](https://nexus-codes.app/copy/?code=BBRSTP86ES)
+
+*Added Nov 12, 2026*
+
+### [`T8AKFT8KCY`](https://nexus-codes.app/copy/?code=T8AKFT8KCY)
+
+*Added Nov 12, 2026*
+
+### [`3FW7K69JXR`](https://nexus-codes.app/copy/?code=3FW7K69JXR)
+
+*Added Nov 12, 2026*
+
 ### [`GFL2ANNI`](https://nexus-codes.app/copy/?code=GFL2ANNI)
 
 Rewards<br />*Added May 3, 2026*

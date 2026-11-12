@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`NS4DU8AAGXBP`](https://hsr.hoyoverse.com/gift?code=NS4DU8AAGXBP)
+
+*Added Nov 12, 2026*
+
 ### [`AEONAHA`](https://hsr.hoyoverse.com/gift?code=AEONAHA)
 
 *Added Nov 11, 2026*

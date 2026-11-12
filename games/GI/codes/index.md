@@ -1,0 +1,119 @@
+---
+layout: default
+title: 'Codes'
+parent: "Genshin Impact"
+search_exclude: true
+---
+
+# Genshin Impact
+
+![GI](https://cdn.discordapp.com/emojis/1323743234974814211.png)
+
+## Codes Known to Nexus
+
+Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
+{: .fs-3 }
+
+### [`NEEI8A8341OW`](https://genshin.hoyoverse.com/en/gift?code=NEEI8A8341OW)
+
+*Added Nov 7, 2026*
+
+### [`KEEPUPWITHMITYA`](https://genshin.hoyoverse.com/en/gift?code=KEEPUPWITHMITYA)
+
+Guide To Charity  3,  Energy Replenishing Meal   3, Kristallfold  3<br />*Added Nov 7, 2026*
+
+### [`MIJIQ23V2437`](https://genshin.hoyoverse.com/en/gift?code=MIJIQ23V2437)
+
+Mora  10,000, Adventurer S Experience  10, Fine Enhancement Ore  5, Stir Fried Fish Noodles  5, Jueyun Chili Chicken  5<br />*Added Nov 7, 2026*
+
+### [`CDOF4X83H7X2`](https://genshin.hoyoverse.com/en/gift?code=CDOF4X83H7X2)
+
+Mora  10,000, Adventurer S Experience  10, Fine Enhancement Ore  5, Stir Fried Fish Noodles  5, Jueyun Chili Chicken  5<br />*Added Nov 7, 2026*
+
+### [`PJ2KEBRAYSRM`](https://genshin.hoyoverse.com/en/gift?code=PJ2KEBRAYSRM)
+
+60 Primogems and Five Adventurer S Experience<br />*Added Oct 30, 2026*
+
+### [`PhotoTime`](https://genshin.hoyoverse.com/en/gift?code=PhotoTime)
+
+x100 Primogems and x50,000 Mora<br />*Added Oct 23, 2026*
+
+### [`ExpertMitya`](https://genshin.hoyoverse.com/en/gift?code=ExpertMitya)
+
+x100 Primogems and x5 Hero S Wit<br />*Added Oct 23, 2026*
+
+### [`HourofRuin`](https://genshin.hoyoverse.com/en/gift?code=HourofRuin)
+
+x100 Primogems and x10 Mystic Enchancement Ore<br />*Added Oct 23, 2026*
+
+### [`6LS3F3LS5K87`](https://genshin.hoyoverse.com/en/gift?code=6LS3F3LS5K87)
+
+20 Primogems and 60 Geodes Of Replication<br />*Added Oct 8, 2026*
+
+### [`NEEIJB764CA3`](https://genshin.hoyoverse.com/en/gift?code=NEEIJB764CA3)
+
+60 Primogems and Five Adventurer S Experience<br />*Added Oct 8, 2026*
+
+### [`OPERACOLLAB`](https://genshin.hoyoverse.com/en/gift?code=OPERACOLLAB)
+
+30 Primogems, Two Hero S Wit, and 20k Mora<br />*Added Sep 29, 2026*
+
+### [`PLDXI8VFKI7C`](https://genshin.hoyoverse.com/en/gift?code=PLDXI8VFKI7C)
+
+10,000 Mora, 10 Adventurer S Experience , 5 Fine Enhancement Ore, 5 Jueyun Chili Chicken, 5 Stir Fried Fish Noodles<br />*Added Sep 26, 2026*
+
+### [`PNKZ3WLNN8G6`](https://genshin.hoyoverse.com/en/gift?code=PNKZ3WLNN8G6)
+
+5 Teachings Of Charity, 5 Teachings Of Fortitude, 5 Teachings Of Glory<br />*Added Sep 25, 2026*
+
+### [`DATG5HG1PL89`](https://genshin.hoyoverse.com/en/gift?code=DATG5HG1PL89)
+
+10,000 Mora, 10 Adventurer S Experience, 5 Fine Enhancement Ore, 5 Stir Fried Fish Noodles, 5 Jueyun Chili Chicken<br />*Added Sep 25, 2026*
+
+### [`PLDXIB886Y1S`](https://genshin.hoyoverse.com/en/gift?code=PLDXIB886Y1S)
+
+10,000 Mora, 10 Adventurer S Experience, 5 Fine Enhancement Ore, 5 Stir Fried Fish Noodles, 5 Jueyun Chili Chicken<br />*Added Sep 25, 2026*
+
+### [`GS71XYNSYJ`](https://genshin.hoyoverse.com/en/gift?code=GS71XYNSYJ)
+
+30,000 Mora, 3 Hero S Wit, 5 Mystic Enhancement Ore<br />*Added Sep 25, 2026*
+
+### [`VesnaOnPatrol`](https://genshin.hoyoverse.com/en/gift?code=VesnaOnPatrol)
+
+40 Primogems, Three Hero S Wit, and 20k Mora<br />*Added Sep 24, 2026*
+
+### [`EPIC2026`](https://genshin.hoyoverse.com/en/gift?code=EPIC2026)
+
+40 Primogems, Five Hero S Wit, and 20k Mora<br />*Added Sep 24, 2026*
+
+### [`GS71XAVWDS`](https://genshin.hoyoverse.com/en/gift?code=GS71XAVWDS)
+
+Mora  30,000  Hero S Wit  3  Mystic Enhancement Ore  5<br />*Added Sep 20, 2026*
+
+### [`PrimaDonna`](https://genshin.hoyoverse.com/en/gift?code=PrimaDonna)
+
+x100 Primogems and x50,000 Mora<br />*Added Sep 14, 2026*
+
+### [`Vesna0923`](https://genshin.hoyoverse.com/en/gift?code=Vesna0923)
+
+x100 Primogems and x5 Hero S Wit<br />*Added Sep 14, 2026*
+
+### [`Rekviem`](https://genshin.hoyoverse.com/en/gift?code=Rekviem)
+
+x100 Primogems and x10 Mystic Enchancement Ore<br />*Added Sep 14, 2026*
+
+### [`Y6JYMKV6JKSL`](https://genshin.hoyoverse.com/en/gift?code=Y6JYMKV6JKSL)
+
+x60 Primogems, x5 Adventurer S Experience<br />*Added Sep 14, 2026*
+
+### [`YOAL3V36XHS7`](https://genshin.hoyoverse.com/en/gift?code=YOAL3V36XHS7)
+
+10k Mora, Ten Adventurer S Experience, Five Fine Enhancement Ore, Five Jueyun Chili Chicken, and Five Stir Fried Fish Noodles<br />*Added Sep 4, 2026*
+
+### [`Y1INABQB6DEX`](https://genshin.hoyoverse.com/en/gift?code=Y1INABQB6DEX)
+
+60 Primogems, 5 Adventurer S Experience<br />*Added Aug 17, 2026*
+
+### [`GENSHINGIFT`](https://genshin.hoyoverse.com/en/gift?code=GENSHINGIFT)
+
+50 Primogems and Three Hero S Wit  This Code Works Periodically<br />*Added Dec 27, 2024*

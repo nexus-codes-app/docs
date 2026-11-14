@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`QYJWFB784MFL`](https://genshin.hoyoverse.com/en/gift?code=QYJWFB784MFL)
+
+Primogem  60, Adventurer S Experience  5<br />*Added Nov 14, 2026*
+
 ### [`NEEI8A8341OW`](https://genshin.hoyoverse.com/en/gift?code=NEEI8A8341OW)
 
 *Added Nov 7, 2026*

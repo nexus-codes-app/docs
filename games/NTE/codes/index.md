@@ -46,10 +46,6 @@ an Exclusive Avatar Frame<br />*Added Oct 7, 2026*
 
 100 Annulith, Xp Items, Five Chaotic Dye, and 12k Beetle Coins  New   Expires September 20<br />*Added Sep 16, 2026*
 
-### [`DRAGONGIRL 0`](https://nexus-codes.app/copy/?code=DRAGONGIRL%200)
-
-30 Annulith, 20,000 Fons, 1 Puka Chocoa Ellie Tour Special<br />*Added Sep 6, 2026*
-
 ### [`COMEBACK`](https://nexus-codes.app/copy/?code=COMEBACK)
 
 One Fabricated Dice<br />*Added Aug 5, 2026*

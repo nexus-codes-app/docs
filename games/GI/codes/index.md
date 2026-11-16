@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ARCHONSANSWERS`](https://genshin.hoyoverse.com/en/gift?code=ARCHONSANSWERS)
+
+Primogem  40, Mora  30,000, Hero S Wit  3<br />*Added Nov 16, 2026*
+
 ### [`QYJWFB784MFL`](https://genshin.hoyoverse.com/en/gift?code=QYJWFB784MFL)
 
 Primogem  60, Adventurer S Experience  5<br />*Added Nov 14, 2026*

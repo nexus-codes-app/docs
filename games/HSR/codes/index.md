@@ -62,10 +62,6 @@ Three Traveler S Guides and Two Cold Jokes<br />*Added Oct 5, 2026*
 
 50 Stellar Jade, 10000 Credit<br />*Added Sep 13, 2026*
 
-### [`8SMSVJWJM7ZT`](https://hsr.hoyoverse.com/gift?code=8SMSVJWJM7ZT)
-
-50 Stellar Jade and 10k Credits<br />*Added Sep 7, 2026*
-
 ### [`5S6ZHRWTDNJB`](https://hsr.hoyoverse.com/gift?code=5S6ZHRWTDNJB)
 
 60 Stellar Jade<br />*Added Aug 17, 2026*

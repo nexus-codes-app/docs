@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`NIKKENOWAND4EVER`](https://nexus-codes.app/copy/?code=NIKKENOWAND4EVER)
+
+*Added Nov 17, 2026*
+
 ### [`RECLAIMTHESURFACE`](https://nexus-codes.app/copy/?code=RECLAIMTHESURFACE)
 
 900 Gems, Growth Set  24h x1, Ultra Boost Module x60, Darling for a Day x5<br />*Added Nov 7, 2026*

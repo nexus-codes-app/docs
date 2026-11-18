@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`HM3TFENGXU`](https://nexus-codes.app/copy/?code=HM3TFENGXU)
+
+*Added Nov 18, 2026*
+
 ### [`ZMQRQK7THD`](https://nexus-codes.app/copy/?code=ZMQRQK7THD)
 
 *Added Nov 17, 2026*

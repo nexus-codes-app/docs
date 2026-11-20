@@ -14,6 +14,10 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`POYMANSXF877`](https://genshin.hoyoverse.com/en/gift?code=POYMANSXF877)
+
+Primogem  20, Geode Of Replication  160<br />*Added Nov 20, 2026*
+
 ### [`ARCHONSANSWERS`](https://genshin.hoyoverse.com/en/gift?code=ARCHONSANSWERS)
 
 Primogem  40, Mora  30,000, Hero S Wit  3<br />*Added Nov 16, 2026*

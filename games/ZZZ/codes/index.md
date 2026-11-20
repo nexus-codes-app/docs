@@ -14,6 +14,14 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`ZZZ34SUNBRINGER`](https://zenless.hoyoverse.com/redemption?code=ZZZ34SUNBRINGER)
+
+*Added Nov 20, 2026*
+
+### [`ZZZHSRCOLLAB`](https://zenless.hoyoverse.com/redemption?code=ZZZHSRCOLLAB)
+
+*Added Nov 20, 2026*
+
 ### [`SUNCHASER`](https://zenless.hoyoverse.com/redemption?code=SUNCHASER)
 
 300 Polychrome, 30k Denny, Two Senior Investigator Logs, and Three W Engine Energy Modules<br />*Added Nov 20, 2026*

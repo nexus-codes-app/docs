@@ -14,6 +14,18 @@ search_exclude: true
 Codes are not checked for expiry and are only periodically pruned, therefore codes listed here may no longer be valid.
 {: .fs-3 }
 
+### [`LEVELUP34`](https://zenless.hoyoverse.com/redemption?code=LEVELUP34)
+
+Polychrome  20, Denny  2,222<br />*Added Nov 21, 2026*
+
+### [`HOLLOWRUN34`](https://zenless.hoyoverse.com/redemption?code=HOLLOWRUN34)
+
+Polychrome  20, Denny  2,222<br />*Added Nov 21, 2026*
+
+### [`INKSHIFT34`](https://zenless.hoyoverse.com/redemption?code=INKSHIFT34)
+
+Polychrome  20, Denny  2,222<br />*Added Nov 21, 2026*
+
 ### [`ZZZ34SUNBRINGER`](https://zenless.hoyoverse.com/redemption?code=ZZZ34SUNBRINGER)
 
 *Added Nov 20, 2026*

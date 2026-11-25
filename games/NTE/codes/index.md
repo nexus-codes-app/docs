@@ -34,18 +34,6 @@ an Exclusive Avatar Frame<br />*Added Oct 7, 2026*
 
 20 Heterogeneous Units, 30k Beetle Coins, and 10k Fons<br />*Added Sep 30, 2026*
 
-### [`THEWHOOTS`](https://nexus-codes.app/copy/?code=THEWHOOTS)
-
-100 Annulith, Xp Items, Five Colorless Dye, and 5k Beetle Coins  New   Expires September 20<br />*Added Sep 16, 2026*
-
-### [`WITCHHOUSE`](https://nexus-codes.app/copy/?code=WITCHHOUSE)
-
-100 Annulith, Xp Items, Five Light Dye, and 3k Beetle Coins  New   Expires September 20<br />*Added Sep 16, 2026*
-
-### [`PUKALANDGOGO`](https://nexus-codes.app/copy/?code=PUKALANDGOGO)
-
-100 Annulith, Xp Items, Five Chaotic Dye, and 12k Beetle Coins  New   Expires September 20<br />*Added Sep 16, 2026*
-
 ### [`COMEBACK`](https://nexus-codes.app/copy/?code=COMEBACK)
 
 One Fabricated Dice<br />*Added Aug 5, 2026*

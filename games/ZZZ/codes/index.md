@@ -54,10 +54,6 @@ Polychrome  20, Denny  2,222<br />*Added Nov 21, 2026*
 
 300 Polychromes, 3k Denny, Two Senior Investigator Logs, and Three W Engine Energy Modules<br />*Added Oct 9, 2026*
 
-### [`ZZZINK32`](https://zenless.hoyoverse.com/redemption?code=ZZZINK32)
-
-20 Polychrome and 2,222 Denny<br />*Added Sep 17, 2026*
-
 ### [`ZENLESSGIFT`](https://zenless.hoyoverse.com/redemption?code=ZENLESSGIFT)
 
 50 Polychrome, Two Official Investigator Logs, Three W Engine Power Supplies, and One Bangboo Algorithm Module<br />*Added Jan 16, 2025*
